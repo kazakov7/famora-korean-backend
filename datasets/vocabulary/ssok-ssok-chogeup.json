@@ -1,0 +1,9318 @@
+{
+  "slug": "1500",
+  "title": "1500 ta 초급 lug‘at",
+  "words": [
+    {
+      "term": "가게",
+      "translation": "Do’kon",
+      "sourcePage": 2,
+      "sourceNumber": 1
+    },
+    {
+      "term": "가격",
+      "translation": "Narx",
+      "sourcePage": 2,
+      "sourceNumber": 2
+    },
+    {
+      "term": "가구",
+      "translation": "Mebel",
+      "sourcePage": 2,
+      "sourceNumber": 3
+    },
+    {
+      "term": "가방",
+      "translation": "So’mka",
+      "sourcePage": 2,
+      "sourceNumber": 4
+    },
+    {
+      "term": "가수",
+      "translation": "Qo’shiqchi",
+      "sourcePage": 2,
+      "sourceNumber": 5
+    },
+    {
+      "term": "가슴",
+      "translation": "Ko’krak/yurak",
+      "sourcePage": 2,
+      "sourceNumber": 6
+    },
+    {
+      "term": "가요",
+      "translation": "Qo’shiq",
+      "sourcePage": 2,
+      "sourceNumber": 7
+    },
+    {
+      "term": "가운데",
+      "translation": "O’rtasi",
+      "sourcePage": 2,
+      "sourceNumber": 8
+    },
+    {
+      "term": "가위",
+      "translation": "Qaychi",
+      "sourcePage": 2,
+      "sourceNumber": 9
+    },
+    {
+      "term": "가을",
+      "translation": "Kuz",
+      "sourcePage": 2,
+      "sourceNumber": 10
+    },
+    {
+      "term": "가족",
+      "translation": "Oila",
+      "sourcePage": 2,
+      "sourceNumber": 11
+    },
+    {
+      "term": "가지",
+      "translation": "Tur/xil",
+      "sourcePage": 2,
+      "sourceNumber": 12
+    },
+    {
+      "term": "간식",
+      "translation": "Tamaddi",
+      "sourcePage": 2,
+      "sourceNumber": 13
+    },
+    {
+      "term": "간장",
+      "translation": "Soya sousi",
+      "sourcePage": 2,
+      "sourceNumber": 14
+    },
+    {
+      "term": "간호사",
+      "translation": "Hamshira",
+      "sourcePage": 2,
+      "sourceNumber": 15
+    },
+    {
+      "term": "갈비",
+      "translation": "Qovurg’a",
+      "sourcePage": 2,
+      "sourceNumber": 16
+    },
+    {
+      "term": "갈비탕",
+      "translation": "Qovurg’a sho’rva",
+      "sourcePage": 2,
+      "sourceNumber": 17
+    },
+    {
+      "term": "갈색",
+      "translation": "Jigarrang",
+      "sourcePage": 2,
+      "sourceNumber": 18
+    },
+    {
+      "term": "감",
+      "translation": "Xurmo",
+      "sourcePage": 2,
+      "sourceNumber": 19
+    },
+    {
+      "term": "감기",
+      "translation": "Shamollash",
+      "sourcePage": 2,
+      "sourceNumber": 20
+    },
+    {
+      "term": "감동",
+      "translation": "Tasurot",
+      "sourcePage": 2,
+      "sourceNumber": 21
+    },
+    {
+      "term": "감자",
+      "translation": "Kartoshka",
+      "sourcePage": 2,
+      "sourceNumber": 22
+    },
+    {
+      "term": "값",
+      "translation": "Narx",
+      "sourcePage": 2,
+      "sourceNumber": 23
+    },
+    {
+      "term": "강",
+      "translation": "Daryo",
+      "sourcePage": 2,
+      "sourceNumber": 24
+    },
+    {
+      "term": "강아지",
+      "translation": "Kuchuk",
+      "sourcePage": 2,
+      "sourceNumber": 25
+    },
+    {
+      "term": "개",
+      "translation": "It",
+      "sourcePage": 2,
+      "sourceNumber": 26
+    },
+    {
+      "term": "개",
+      "translation": "Ta (narsaga)",
+      "sourcePage": 2,
+      "sourceNumber": 27
+    },
+    {
+      "term": "개나리",
+      "translation": "Bahor guli",
+      "sourcePage": 2,
+      "sourceNumber": 28
+    },
+    {
+      "term": "개월",
+      "translation": "Ta (oy)",
+      "sourcePage": 2,
+      "sourceNumber": 29
+    },
+    {
+      "term": "개인",
+      "translation": "Shaxsiy",
+      "sourcePage": 2,
+      "sourceNumber": 30
+    },
+    {
+      "term": "거",
+      "translation": "Narsa",
+      "sourcePage": 2,
+      "sourceNumber": 31
+    },
+    {
+      "term": "거리",
+      "translation": "Ko’cha",
+      "sourcePage": 2,
+      "sourceNumber": 32
+    },
+    {
+      "term": "거실",
+      "translation": "Xona",
+      "sourcePage": 2,
+      "sourceNumber": 33
+    },
+    {
+      "term": "거울",
+      "translation": "Ko’zgu",
+      "sourcePage": 2,
+      "sourceNumber": 34
+    },
+    {
+      "term": "거짓말",
+      "translation": "Yolg’on",
+      "sourcePage": 2,
+      "sourceNumber": 35
+    },
+    {
+      "term": "건너편",
+      "translation": "Qarshi tomon",
+      "sourcePage": 2,
+      "sourceNumber": 36
+    },
+    {
+      "term": "건물",
+      "translation": "Bino",
+      "sourcePage": 2,
+      "sourceNumber": 37
+    },
+    {
+      "term": "검은색",
+      "translation": "Qora rang",
+      "sourcePage": 2,
+      "sourceNumber": 38
+    },
+    {
+      "term": "것",
+      "translation": "Narsa",
+      "sourcePage": 2,
+      "sourceNumber": 39
+    },
+    {
+      "term": "게임",
+      "translation": "O'yin",
+      "sourcePage": 2,
+      "sourceNumber": 40
+    },
+    {
+      "term": "겨울",
+      "translation": "Qish",
+      "sourcePage": 2,
+      "sourceNumber": 41
+    },
+    {
+      "term": "결과",
+      "translation": "Natija",
+      "sourcePage": 2,
+      "sourceNumber": 42
+    },
+    {
+      "term": "결혼식",
+      "translation": "To'y",
+      "sourcePage": 2,
+      "sourceNumber": 43
+    },
+    {
+      "term": "경기",
+      "translation": "Musobaqa",
+      "sourcePage": 2,
+      "sourceNumber": 44
+    },
+    {
+      "term": "경기장",
+      "translation": "Maydon",
+      "sourcePage": 2,
+      "sourceNumber": 45
+    },
+    {
+      "term": "경복궁",
+      "translation": "Gyongbok saroyi",
+      "sourcePage": 2,
+      "sourceNumber": 46
+    },
+    {
+      "term": "경주",
+      "translation": "Kyongju(shahar)",
+      "sourcePage": 2,
+      "sourceNumber": 47
+    },
+    {
+      "term": "경찰",
+      "translation": "Politsiya",
+      "sourcePage": 2,
+      "sourceNumber": 48
+    },
+    {
+      "term": "경찰관",
+      "translation": "Politsiya xodimi",
+      "sourcePage": 2,
+      "sourceNumber": 49
+    },
+    {
+      "term": "경찰서",
+      "translation": "Politsiyaxona",
+      "sourcePage": 2,
+      "sourceNumber": 50
+    },
+    {
+      "term": "경치",
+      "translation": "Tabiat",
+      "sourcePage": 2,
+      "sourceNumber": 51
+    },
+    {
+      "term": "경험",
+      "translation": "Tajriba",
+      "sourcePage": 2,
+      "sourceNumber": 52
+    },
+    {
+      "term": "계단",
+      "translation": "Zina",
+      "sourcePage": 2,
+      "sourceNumber": 53
+    },
+    {
+      "term": "계란",
+      "translation": "Tuxum",
+      "sourcePage": 2,
+      "sourceNumber": 54
+    },
+    {
+      "term": "계절",
+      "translation": "Fasl",
+      "sourcePage": 2,
+      "sourceNumber": 55
+    },
+    {
+      "term": "계획",
+      "translation": "Reja",
+      "sourcePage": 2,
+      "sourceNumber": 56
+    },
+    {
+      "term": "고급",
+      "translation": "Yuqori daraja",
+      "sourcePage": 2,
+      "sourceNumber": 57
+    },
+    {
+      "term": "고기",
+      "translation": "Go'sht",
+      "sourcePage": 2,
+      "sourceNumber": 58
+    },
+    {
+      "term": "고등학교",
+      "translation": "Kollej",
+      "sourcePage": 2,
+      "sourceNumber": 59
+    },
+    {
+      "term": "고등학생",
+      "translation": "Kollej o'quvchisi",
+      "sourcePage": 2,
+      "sourceNumber": 60
+    },
+    {
+      "term": "고모",
+      "translation": "Amma",
+      "sourcePage": 2,
+      "sourceNumber": 61
+    },
+    {
+      "term": "고모부",
+      "translation": "Amma eri",
+      "sourcePage": 2,
+      "sourceNumber": 62
+    },
+    {
+      "term": "고속버스",
+      "translation": "Ekspress avtobus",
+      "sourcePage": 2,
+      "sourceNumber": 63
+    },
+    {
+      "term": "고양이",
+      "translation": "Mushuk",
+      "sourcePage": 2,
+      "sourceNumber": 64
+    },
+    {
+      "term": "고장",
+      "translation": "Buzilish",
+      "sourcePage": 2,
+      "sourceNumber": 65
+    },
+    {
+      "term": "고추",
+      "translation": "Qalampir",
+      "sourcePage": 2,
+      "sourceNumber": 66
+    },
+    {
+      "term": "고추장",
+      "translation": "Qalampir sous",
+      "sourcePage": 2,
+      "sourceNumber": 67
+    },
+    {
+      "term": "고향",
+      "translation": "Yurt",
+      "sourcePage": 2,
+      "sourceNumber": 68
+    },
+    {
+      "term": "골목",
+      "translation": "Ko'cha",
+      "sourcePage": 2,
+      "sourceNumber": 69
+    },
+    {
+      "term": "골프",
+      "translation": "Golf",
+      "sourcePage": 2,
+      "sourceNumber": 70
+    },
+    {
+      "term": "곳",
+      "translation": "Joy/o'rin",
+      "sourcePage": 2,
+      "sourceNumber": 71
+    },
+    {
+      "term": "공",
+      "translation": "To'p",
+      "sourcePage": 2,
+      "sourceNumber": 72
+    },
+    {
+      "term": "공간",
+      "translation": "Bo'shliq",
+      "sourcePage": 2,
+      "sourceNumber": 73
+    },
+    {
+      "term": "공기",
+      "translation": "Havo",
+      "sourcePage": 2,
+      "sourceNumber": 74
+    },
+    {
+      "term": "공무원",
+      "translation": "Rasmiy xizmatchi",
+      "sourcePage": 2,
+      "sourceNumber": 75
+    },
+    {
+      "term": "공사",
+      "translation": "Qurilish",
+      "sourcePage": 2,
+      "sourceNumber": 76
+    },
+    {
+      "term": "공연",
+      "translation": "Namoyish",
+      "sourcePage": 2,
+      "sourceNumber": 77
+    },
+    {
+      "term": "공원",
+      "translation": "Bog'",
+      "sourcePage": 2,
+      "sourceNumber": 78
+    },
+    {
+      "term": "공중전화",
+      "translation": "Taksafon",
+      "sourcePage": 2,
+      "sourceNumber": 79
+    },
+    {
+      "term": "공짜",
+      "translation": "Bepul",
+      "sourcePage": 2,
+      "sourceNumber": 80
+    },
+    {
+      "term": "공책",
+      "translation": "Daftar",
+      "sourcePage": 2,
+      "sourceNumber": 81
+    },
+    {
+      "term": "공항",
+      "translation": "Aeroport",
+      "sourcePage": 2,
+      "sourceNumber": 82
+    },
+    {
+      "term": "공휴일",
+      "translation": "Umumiy dam olish kun",
+      "sourcePage": 2,
+      "sourceNumber": 83
+    },
+    {
+      "term": "과거",
+      "translation": "O'tgan zamon",
+      "sourcePage": 2,
+      "sourceNumber": 84
+    },
+    {
+      "term": "과일",
+      "translation": "Meva",
+      "sourcePage": 2,
+      "sourceNumber": 85
+    },
+    {
+      "term": "과자",
+      "translation": "Shirinlik",
+      "sourcePage": 2,
+      "sourceNumber": 86
+    },
+    {
+      "term": "과학",
+      "translation": "Bilim/ilm fan",
+      "sourcePage": 2,
+      "sourceNumber": 87
+    },
+    {
+      "term": "관계",
+      "translation": "Aloqa",
+      "sourcePage": 2,
+      "sourceNumber": 88
+    },
+    {
+      "term": "관심",
+      "translation": "Qiziqish",
+      "sourcePage": 2,
+      "sourceNumber": 89
+    },
+    {
+      "term": "광고",
+      "translation": "E'lon/reklama",
+      "sourcePage": 2,
+      "sourceNumber": 90
+    },
+    {
+      "term": "교과서",
+      "translation": "Darslik",
+      "sourcePage": 3,
+      "sourceNumber": 91
+    },
+    {
+      "term": "교수",
+      "translation": "Professor",
+      "sourcePage": 3,
+      "sourceNumber": 92
+    },
+    {
+      "term": "교실",
+      "translation": "Sinfxona",
+      "sourcePage": 3,
+      "sourceNumber": 93
+    },
+    {
+      "term": "교통",
+      "translation": "Transport",
+      "sourcePage": 3,
+      "sourceNumber": 94
+    },
+    {
+      "term": "교통사고",
+      "translation": "Avtohalokat",
+      "sourcePage": 3,
+      "sourceNumber": 95
+    },
+    {
+      "term": "교회",
+      "translation": "Cherkov",
+      "sourcePage": 3,
+      "sourceNumber": 96
+    },
+    {
+      "term": "구두",
+      "translation": "Tufli",
+      "sourcePage": 3,
+      "sourceNumber": 97
+    },
+    {
+      "term": "구름",
+      "translation": "Bulut",
+      "sourcePage": 3,
+      "sourceNumber": 98
+    },
+    {
+      "term": "구월",
+      "translation": "Sentyabr",
+      "sourcePage": 3,
+      "sourceNumber": 99
+    },
+    {
+      "term": "국",
+      "translation": "Davlat/sho’rva",
+      "sourcePage": 3,
+      "sourceNumber": 100
+    },
+    {
+      "term": "국내",
+      "translation": "Davlat ichi",
+      "sourcePage": 3,
+      "sourceNumber": 101
+    },
+    {
+      "term": "국립",
+      "translation": "Milliy",
+      "sourcePage": 3,
+      "sourceNumber": 102
+    },
+    {
+      "term": "국수",
+      "translation": "Suvli lag’mon",
+      "sourcePage": 3,
+      "sourceNumber": 103
+    },
+    {
+      "term": "국어",
+      "translation": "Davlat tili",
+      "sourcePage": 3,
+      "sourceNumber": 104
+    },
+    {
+      "term": "국적",
+      "translation": "Fuqorolik",
+      "sourcePage": 3,
+      "sourceNumber": 105
+    },
+    {
+      "term": "국제",
+      "translation": "Xalqaro",
+      "sourcePage": 3,
+      "sourceNumber": 106
+    },
+    {
+      "term": "군인",
+      "translation": "Askar",
+      "sourcePage": 3,
+      "sourceNumber": 107
+    },
+    {
+      "term": "권",
+      "translation": "Jild (kitob)",
+      "sourcePage": 3,
+      "sourceNumber": 108
+    },
+    {
+      "term": "귀",
+      "translation": "Quloq",
+      "sourcePage": 3,
+      "sourceNumber": 109
+    },
+    {
+      "term": "규칙",
+      "translation": "Qoida",
+      "sourcePage": 3,
+      "sourceNumber": 110
+    },
+    {
+      "term": "귤",
+      "translation": "Mandarin",
+      "sourcePage": 3,
+      "sourceNumber": 111
+    },
+    {
+      "term": "그날",
+      "translation": "O’sha kun",
+      "sourcePage": 3,
+      "sourceNumber": 112
+    },
+    {
+      "term": "그동안",
+      "translation": "Shu vaqt davomida",
+      "sourcePage": 3,
+      "sourceNumber": 113
+    },
+    {
+      "term": "그때",
+      "translation": "O’sha payt",
+      "sourcePage": 3,
+      "sourceNumber": 114
+    },
+    {
+      "term": "그램",
+      "translation": "Gramm",
+      "sourcePage": 3,
+      "sourceNumber": 115
+    },
+    {
+      "term": "그릇",
+      "translation": "Idish",
+      "sourcePage": 3,
+      "sourceNumber": 116
+    },
+    {
+      "term": "그림",
+      "translation": "Rasm",
+      "sourcePage": 3,
+      "sourceNumber": 117
+    },
+    {
+      "term": "그저께",
+      "translation": "Ilgari kuni",
+      "sourcePage": 3,
+      "sourceNumber": 118
+    },
+    {
+      "term": "극장",
+      "translation": "Kinoteatr",
+      "sourcePage": 3,
+      "sourceNumber": 119
+    },
+    {
+      "term": "근처",
+      "translation": "Atrof",
+      "sourcePage": 3,
+      "sourceNumber": 120
+    },
+    {
+      "term": "글",
+      "translation": "Harf",
+      "sourcePage": 3,
+      "sourceNumber": 121
+    },
+    {
+      "term": "금연",
+      "translation": "Chekish taqiqlanadi",
+      "sourcePage": 3,
+      "sourceNumber": 122
+    },
+    {
+      "term": "금요일",
+      "translation": "Juma",
+      "sourcePage": 3,
+      "sourceNumber": 123
+    },
+    {
+      "term": "기간",
+      "translation": "Vaqt",
+      "sourcePage": 3,
+      "sourceNumber": 124
+    },
+    {
+      "term": "기름",
+      "translation": "Yog’",
+      "sourcePage": 3,
+      "sourceNumber": 125
+    },
+    {
+      "term": "기분",
+      "translation": "Kayfiyat",
+      "sourcePage": 3,
+      "sourceNumber": 126
+    },
+    {
+      "term": "기사",
+      "translation": "Haydovchi",
+      "sourcePage": 3,
+      "sourceNumber": 127
+    },
+    {
+      "term": "기사",
+      "translation": "Maqola",
+      "sourcePage": 3,
+      "sourceNumber": 128
+    },
+    {
+      "term": "기숙사",
+      "translation": "Yotoqxona",
+      "sourcePage": 3,
+      "sourceNumber": 129
+    },
+    {
+      "term": "기억",
+      "translation": "Xotira",
+      "sourcePage": 3,
+      "sourceNumber": 130
+    },
+    {
+      "term": "기온",
+      "translation": "Xavo harorati",
+      "sourcePage": 3,
+      "sourceNumber": 131
+    },
+    {
+      "term": "기자",
+      "translation": "Muxbir",
+      "sourcePage": 3,
+      "sourceNumber": 132
+    },
+    {
+      "term": "기차",
+      "translation": "Poyez",
+      "sourcePage": 3,
+      "sourceNumber": 133
+    },
+    {
+      "term": "기침",
+      "translation": "Yo’tal",
+      "sourcePage": 3,
+      "sourceNumber": 134
+    },
+    {
+      "term": "기타",
+      "translation": "Gitara/va boshqalar",
+      "sourcePage": 3,
+      "sourceNumber": 135
+    },
+    {
+      "term": "길",
+      "translation": "Yo’l",
+      "sourcePage": 3,
+      "sourceNumber": 136
+    },
+    {
+      "term": "김밥",
+      "translation": "Kimpap(ovqat)",
+      "sourcePage": 3,
+      "sourceNumber": 137
+    },
+    {
+      "term": "김치",
+      "translation": "Kimchi(salat)",
+      "sourcePage": 3,
+      "sourceNumber": 138
+    },
+    {
+      "term": "김치찌개",
+      "translation": "Kimchichige(ovqat)",
+      "sourcePage": 3,
+      "sourceNumber": 139
+    },
+    {
+      "term": "김포공항",
+      "translation": "Kimpo aeroporti",
+      "sourcePage": 3,
+      "sourceNumber": 140
+    },
+    {
+      "term": "까만색",
+      "translation": "Qora",
+      "sourcePage": 3,
+      "sourceNumber": 141
+    },
+    {
+      "term": "껌",
+      "translation": "Saqich",
+      "sourcePage": 3,
+      "sourceNumber": 142
+    },
+    {
+      "term": "꽃",
+      "translation": "Gul",
+      "sourcePage": 3,
+      "sourceNumber": 143
+    },
+    {
+      "term": "꽃집",
+      "translation": "Gul do’koni",
+      "sourcePage": 3,
+      "sourceNumber": 144
+    },
+    {
+      "term": "꿈",
+      "translation": "Orzu/tush",
+      "sourcePage": 3,
+      "sourceNumber": 145
+    },
+    {
+      "term": "끝",
+      "translation": "Oxiri/poyoni",
+      "sourcePage": 3,
+      "sourceNumber": 146
+    },
+    {
+      "term": "나라",
+      "translation": "Mamlakat",
+      "sourcePage": 3,
+      "sourceNumber": 147
+    },
+    {
+      "term": "나무",
+      "translation": "Daraxt",
+      "sourcePage": 3,
+      "sourceNumber": 148
+    },
+    {
+      "term": "나이",
+      "translation": "Yosh",
+      "sourcePage": 3,
+      "sourceNumber": 149
+    },
+    {
+      "term": "나중에",
+      "translation": "Keyinroq",
+      "sourcePage": 3,
+      "sourceNumber": 150
+    },
+    {
+      "term": "나흘",
+      "translation": "4 chi kun",
+      "sourcePage": 3,
+      "sourceNumber": 151
+    },
+    {
+      "term": "낚시",
+      "translation": "Baliq tutish",
+      "sourcePage": 3,
+      "sourceNumber": 152
+    },
+    {
+      "term": "날",
+      "translation": "Kun",
+      "sourcePage": 3,
+      "sourceNumber": 153
+    },
+    {
+      "term": "날씨",
+      "translation": "Ob havo",
+      "sourcePage": 3,
+      "sourceNumber": 154
+    },
+    {
+      "term": "날짜",
+      "translation": "Kun",
+      "sourcePage": 3,
+      "sourceNumber": 155
+    },
+    {
+      "term": "남녀",
+      "translation": "Erkak va ayol",
+      "sourcePage": 3,
+      "sourceNumber": 156
+    },
+    {
+      "term": "남대문시장",
+      "translation": "Namtemun bozori",
+      "sourcePage": 3,
+      "sourceNumber": 157
+    },
+    {
+      "term": "남동생",
+      "translation": "O'g'il uka",
+      "sourcePage": 3,
+      "sourceNumber": 158
+    },
+    {
+      "term": "남미",
+      "translation": "Janubiy Amerika",
+      "sourcePage": 3,
+      "sourceNumber": 159
+    },
+    {
+      "term": "남산",
+      "translation": "Namsan tog'i",
+      "sourcePage": 3,
+      "sourceNumber": 160
+    },
+    {
+      "term": "남자",
+      "translation": "Erkak",
+      "sourcePage": 3,
+      "sourceNumber": 161
+    },
+    {
+      "term": "남쪽",
+      "translation": "Janubiy tomon",
+      "sourcePage": 3,
+      "sourceNumber": 162
+    },
+    {
+      "term": "남편",
+      "translation": "Er",
+      "sourcePage": 3,
+      "sourceNumber": 163
+    },
+    {
+      "term": "남학생",
+      "translation": "O'gil bola o'quvchi",
+      "sourcePage": 3,
+      "sourceNumber": 164
+    },
+    {
+      "term": "낮",
+      "translation": "Kunduzi",
+      "sourcePage": 3,
+      "sourceNumber": 165
+    },
+    {
+      "term": "내과",
+      "translation": "Ichki kasalliklar shifokori",
+      "sourcePage": 3,
+      "sourceNumber": 166
+    },
+    {
+      "term": "내년",
+      "translation": "Kelasi yil",
+      "sourcePage": 3,
+      "sourceNumber": 167
+    },
+    {
+      "term": "내용",
+      "translation": "Ma'no/mazmun",
+      "sourcePage": 3,
+      "sourceNumber": 168
+    },
+    {
+      "term": "내일",
+      "translation": "Ertaga",
+      "sourcePage": 3,
+      "sourceNumber": 169
+    },
+    {
+      "term": "냄비",
+      "translation": "Kastrulka",
+      "sourcePage": 3,
+      "sourceNumber": 170
+    },
+    {
+      "term": "냄새",
+      "translation": "Xid",
+      "sourcePage": 3,
+      "sourceNumber": 171
+    },
+    {
+      "term": "냉면",
+      "translation": "Nengmyon(ovqat)",
+      "sourcePage": 3,
+      "sourceNumber": 172
+    },
+    {
+      "term": "냉장고",
+      "translation": "Muzlatgich",
+      "sourcePage": 3,
+      "sourceNumber": 173
+    },
+    {
+      "term": "넥타이",
+      "translation": "Bo'yinbog'",
+      "sourcePage": 3,
+      "sourceNumber": 174
+    },
+    {
+      "term": "년",
+      "translation": "Yil",
+      "sourcePage": 3,
+      "sourceNumber": 175
+    },
+    {
+      "term": "노란색",
+      "translation": "Sariq rang",
+      "sourcePage": 3,
+      "sourceNumber": 176
+    },
+    {
+      "term": "노래",
+      "translation": "Qo’shiq",
+      "sourcePage": 3,
+      "sourceNumber": 177
+    },
+    {
+      "term": "노래방",
+      "translation": "Karoke",
+      "sourcePage": 3,
+      "sourceNumber": 178
+    },
+    {
+      "term": "노인",
+      "translation": "Qariya",
+      "sourcePage": 3,
+      "sourceNumber": 179
+    },
+    {
+      "term": "노트",
+      "translation": "Yon daftar",
+      "sourcePage": 3,
+      "sourceNumber": 180
+    },
+    {
+      "term": "녹색",
+      "translation": "Yashil rang",
+      "sourcePage": 4,
+      "sourceNumber": 181
+    },
+    {
+      "term": "녹차",
+      "translation": "Ko’k choy",
+      "sourcePage": 4,
+      "sourceNumber": 182
+    },
+    {
+      "term": "농구",
+      "translation": "Basketbol",
+      "sourcePage": 4,
+      "sourceNumber": 183
+    },
+    {
+      "term": "누나",
+      "translation": "Opa",
+      "sourcePage": 4,
+      "sourceNumber": 184
+    },
+    {
+      "term": "눈",
+      "translation": "Ko’z",
+      "sourcePage": 4,
+      "sourceNumber": 185
+    },
+    {
+      "term": "눈",
+      "translation": "Qor",
+      "sourcePage": 4,
+      "sourceNumber": 186
+    },
+    {
+      "term": "눈물",
+      "translation": "Ko’z yosh",
+      "sourcePage": 4,
+      "sourceNumber": 187
+    },
+    {
+      "term": "눈사람",
+      "translation": "Qorbobo",
+      "sourcePage": 4,
+      "sourceNumber": 188
+    },
+    {
+      "term": "눈싸움",
+      "translation": "Qorbo’ron",
+      "sourcePage": 4,
+      "sourceNumber": 189
+    },
+    {
+      "term": "뉴스",
+      "translation": "Yangiliklar",
+      "sourcePage": 4,
+      "sourceNumber": 190
+    },
+    {
+      "term": "뉴욕",
+      "translation": "New-york(shahar)",
+      "sourcePage": 4,
+      "sourceNumber": 191
+    },
+    {
+      "term": "느낌",
+      "translation": "Sezgi/xis",
+      "sourcePage": 4,
+      "sourceNumber": 192
+    },
+    {
+      "term": "능력",
+      "translation": "Qobilyat",
+      "sourcePage": 4,
+      "sourceNumber": 193
+    },
+    {
+      "term": "다리",
+      "translation": "Ko’prik",
+      "sourcePage": 4,
+      "sourceNumber": 194
+    },
+    {
+      "term": "다리",
+      "translation": "Oyoq",
+      "sourcePage": 4,
+      "sourceNumber": 195
+    },
+    {
+      "term": "다음",
+      "translation": "Keyingi",
+      "sourcePage": 4,
+      "sourceNumber": 196
+    },
+    {
+      "term": "다이어트",
+      "translation": "Parhez",
+      "sourcePage": 4,
+      "sourceNumber": 197
+    },
+    {
+      "term": "단어",
+      "translation": "So’z",
+      "sourcePage": 4,
+      "sourceNumber": 198
+    },
+    {
+      "term": "단점",
+      "translation": "Kamchilik",
+      "sourcePage": 4,
+      "sourceNumber": 199
+    },
+    {
+      "term": "단풍",
+      "translation": "Barg to’kilishi",
+      "sourcePage": 4,
+      "sourceNumber": 200
+    },
+    {
+      "term": "달",
+      "translation": "Oy",
+      "sourcePage": 4,
+      "sourceNumber": 201
+    },
+    {
+      "term": "달러",
+      "translation": "Dollor",
+      "sourcePage": 4,
+      "sourceNumber": 202
+    },
+    {
+      "term": "달력",
+      "translation": "Kalendar/taqvim",
+      "sourcePage": 4,
+      "sourceNumber": 203
+    },
+    {
+      "term": "닭",
+      "translation": "Tovuq",
+      "sourcePage": 4,
+      "sourceNumber": 204
+    },
+    {
+      "term": "닭고기",
+      "translation": "Tovuq go’shti",
+      "sourcePage": 4,
+      "sourceNumber": 205
+    },
+    {
+      "term": "담배",
+      "translation": "Sigaret",
+      "sourcePage": 4,
+      "sourceNumber": 206
+    },
+    {
+      "term": "답장",
+      "translation": "Javob xati",
+      "sourcePage": 4,
+      "sourceNumber": 207
+    },
+    {
+      "term": "당근",
+      "translation": "Sabzi",
+      "sourcePage": 4,
+      "sourceNumber": 208
+    },
+    {
+      "term": "대",
+      "translation": "Ta(texnika)",
+      "sourcePage": 4,
+      "sourceNumber": 209
+    },
+    {
+      "term": "대부분",
+      "translation": "Ko’pchilik",
+      "sourcePage": 4,
+      "sourceNumber": 210
+    },
+    {
+      "term": "대사관",
+      "translation": "Elchixona",
+      "sourcePage": 4,
+      "sourceNumber": 211
+    },
+    {
+      "term": "대표",
+      "translation": "Vakil",
+      "sourcePage": 4,
+      "sourceNumber": 212
+    },
+    {
+      "term": "대학교",
+      "translation": "Universitet/oliygoh",
+      "sourcePage": 4,
+      "sourceNumber": 213
+    },
+    {
+      "term": "대학생",
+      "translation": "Talaba",
+      "sourcePage": 4,
+      "sourceNumber": 214
+    },
+    {
+      "term": "대학원",
+      "translation": "Oliy o’quv markazi",
+      "sourcePage": 4,
+      "sourceNumber": 215
+    },
+    {
+      "term": "대학원생",
+      "translation": "O’quv markaz o’quvchisi",
+      "sourcePage": 4,
+      "sourceNumber": 216
+    },
+    {
+      "term": "대한민국",
+      "translation": "Koreya respublikasi",
+      "sourcePage": 4,
+      "sourceNumber": 217
+    },
+    {
+      "term": "대화",
+      "translation": "Suhbat/dialog",
+      "sourcePage": 4,
+      "sourceNumber": 218
+    },
+    {
+      "term": "대회",
+      "translation": "Yeg’ilish",
+      "sourcePage": 4,
+      "sourceNumber": 219
+    },
+    {
+      "term": "댁",
+      "translation": "Uy",
+      "sourcePage": 4,
+      "sourceNumber": 220
+    },
+    {
+      "term": "덕분",
+      "translation": "Sababli",
+      "sourcePage": 4,
+      "sourceNumber": 221
+    },
+    {
+      "term": "데이트",
+      "translation": "Uchrashuv",
+      "sourcePage": 4,
+      "sourceNumber": 222
+    },
+    {
+      "term": "도로",
+      "translation": "Yo’l",
+      "sourcePage": 4,
+      "sourceNumber": 223
+    },
+    {
+      "term": "도서관",
+      "translation": "Kutubxona",
+      "sourcePage": 4,
+      "sourceNumber": 224
+    },
+    {
+      "term": "도시",
+      "translation": "Shahar",
+      "sourcePage": 4,
+      "sourceNumber": 225
+    },
+    {
+      "term": "도움",
+      "translation": "Yordam/ko’mak",
+      "sourcePage": 4,
+      "sourceNumber": 226
+    },
+    {
+      "term": "도쿄",
+      "translation": "Tokiyo",
+      "sourcePage": 4,
+      "sourceNumber": 227
+    },
+    {
+      "term": "독서",
+      "translation": "Kitob o’qish",
+      "sourcePage": 4,
+      "sourceNumber": 228
+    },
+    {
+      "term": "독일",
+      "translation": "Germaniya",
+      "sourcePage": 4,
+      "sourceNumber": 229
+    },
+    {
+      "term": "돈",
+      "translation": "Pul",
+      "sourcePage": 4,
+      "sourceNumber": 230
+    },
+    {
+      "term": "돌",
+      "translation": "Tosh",
+      "sourcePage": 4,
+      "sourceNumber": 231
+    },
+    {
+      "term": "동네",
+      "translation": "Mahalla/qishloq",
+      "sourcePage": 4,
+      "sourceNumber": 232
+    },
+    {
+      "term": "동대문시장",
+      "translation": "To’ngtemun bozori",
+      "sourcePage": 4,
+      "sourceNumber": 233
+    },
+    {
+      "term": "동물",
+      "translation": "Xayvon",
+      "sourcePage": 4,
+      "sourceNumber": 234
+    },
+    {
+      "term": "동생",
+      "translation": "Uka",
+      "sourcePage": 4,
+      "sourceNumber": 235
+    },
+    {
+      "term": "동아리",
+      "translation": "Guruh",
+      "sourcePage": 4,
+      "sourceNumber": 236
+    },
+    {
+      "term": "동안",
+      "translation": "Davomida",
+      "sourcePage": 4,
+      "sourceNumber": 237
+    },
+    {
+      "term": "동양",
+      "translation": "Sharq",
+      "sourcePage": 4,
+      "sourceNumber": 238
+    },
+    {
+      "term": "동전",
+      "translation": "Tanga",
+      "sourcePage": 4,
+      "sourceNumber": 239
+    },
+    {
+      "term": "동쪽",
+      "translation": "Sharq tomon",
+      "sourcePage": 4,
+      "sourceNumber": 240
+    },
+    {
+      "term": "돼지",
+      "translation": "Cho’chqa",
+      "sourcePage": 4,
+      "sourceNumber": 241
+    },
+    {
+      "term": "돼지고기",
+      "translation": "Cho’chqa go’shti",
+      "sourcePage": 4,
+      "sourceNumber": 242
+    },
+    {
+      "term": "된장",
+      "translation": "Tvenjang(ovqat)",
+      "sourcePage": 4,
+      "sourceNumber": 243
+    },
+    {
+      "term": "두부",
+      "translation": "Brinza",
+      "sourcePage": 4,
+      "sourceNumber": 244
+    },
+    {
+      "term": "뒤",
+      "translation": "Orqa",
+      "sourcePage": 4,
+      "sourceNumber": 245
+    },
+    {
+      "term": "드라마",
+      "translation": "Serial",
+      "sourcePage": 4,
+      "sourceNumber": 246
+    },
+    {
+      "term": "듣기",
+      "translation": "Eshittirish",
+      "sourcePage": 4,
+      "sourceNumber": 247
+    },
+    {
+      "term": "등",
+      "translation": "Kabi/orqa",
+      "sourcePage": 4,
+      "sourceNumber": 248
+    },
+    {
+      "term": "등산",
+      "translation": "Tog’ga chiqish",
+      "sourcePage": 4,
+      "sourceNumber": 249
+    },
+    {
+      "term": "등산화",
+      "translation": "Tog’ga chiqish poyafzali",
+      "sourcePage": 4,
+      "sourceNumber": 250
+    },
+    {
+      "term": "디자인",
+      "translation": "Dizayn/bezak",
+      "sourcePage": 4,
+      "sourceNumber": 251
+    },
+    {
+      "term": "딸",
+      "translation": "Qiz farzand",
+      "sourcePage": 4,
+      "sourceNumber": 252
+    },
+    {
+      "term": "딸기",
+      "translation": "Qulpunoy",
+      "sourcePage": 4,
+      "sourceNumber": 253
+    },
+    {
+      "term": "땀",
+      "translation": "Ter",
+      "sourcePage": 4,
+      "sourceNumber": 254
+    },
+    {
+      "term": "땅",
+      "translation": "Yer",
+      "sourcePage": 4,
+      "sourceNumber": 255
+    },
+    {
+      "term": "때",
+      "translation": "Vaqt",
+      "sourcePage": 4,
+      "sourceNumber": 256
+    },
+    {
+      "term": "때문",
+      "translation": "Tufayli",
+      "sourcePage": 4,
+      "sourceNumber": 257
+    },
+    {
+      "term": "떡",
+      "translation": "Guruchli pirog",
+      "sourcePage": 4,
+      "sourceNumber": 258
+    },
+    {
+      "term": "떡국",
+      "translation": "Tokkuk(ovqat)",
+      "sourcePage": 4,
+      "sourceNumber": 259
+    },
+    {
+      "term": "떡볶이",
+      "translation": "Tokpokki(ovqat)",
+      "sourcePage": 4,
+      "sourceNumber": 260
+    },
+    {
+      "term": "뜻",
+      "translation": "Ma’no",
+      "sourcePage": 4,
+      "sourceNumber": 261
+    },
+    {
+      "term": "라디오",
+      "translation": "Radio",
+      "sourcePage": 4,
+      "sourceNumber": 262
+    },
+    {
+      "term": "라면",
+      "translation": "Rolton(ovqat)",
+      "sourcePage": 4,
+      "sourceNumber": 263
+    },
+    {
+      "term": "러시아",
+      "translation": "Rossiya",
+      "sourcePage": 4,
+      "sourceNumber": 264
+    },
+    {
+      "term": "로션",
+      "translation": "Malham",
+      "sourcePage": 4,
+      "sourceNumber": 265
+    },
+    {
+      "term": "마늘",
+      "translation": "Sarimsoq",
+      "sourcePage": 4,
+      "sourceNumber": 266
+    },
+    {
+      "term": "마리",
+      "translation": "Bosh(xayvon)",
+      "sourcePage": 4,
+      "sourceNumber": 267
+    },
+    {
+      "term": "마음",
+      "translation": "Qalb",
+      "sourcePage": 4,
+      "sourceNumber": 268
+    },
+    {
+      "term": "마지막",
+      "translation": "Oxiri",
+      "sourcePage": 4,
+      "sourceNumber": 269
+    },
+    {
+      "term": "만두",
+      "translation": "Mandu(ovqat)",
+      "sourcePage": 4,
+      "sourceNumber": 270
+    },
+    {
+      "term": "만화",
+      "translation": "Multfilm",
+      "sourcePage": 5,
+      "sourceNumber": 271
+    },
+    {
+      "term": "말하기",
+      "translation": "Gapirish",
+      "sourcePage": 5,
+      "sourceNumber": 272
+    },
+    {
+      "term": "맛",
+      "translation": "Maza/ta’m",
+      "sourcePage": 5,
+      "sourceNumber": 273
+    },
+    {
+      "term": "맞은편",
+      "translation": "To’g’risida",
+      "sourcePage": 5,
+      "sourceNumber": 274
+    },
+    {
+      "term": "매일",
+      "translation": "Har kuni",
+      "sourcePage": 5,
+      "sourceNumber": 275
+    },
+    {
+      "term": "매장",
+      "translation": "Bozor",
+      "sourcePage": 5,
+      "sourceNumber": 276
+    },
+    {
+      "term": "매주",
+      "translation": "Har hafta",
+      "sourcePage": 5,
+      "sourceNumber": 277
+    },
+    {
+      "term": "맥주",
+      "translation": "Piva",
+      "sourcePage": 5,
+      "sourceNumber": 278
+    },
+    {
+      "term": "맨발",
+      "translation": "Yalangoyoq",
+      "sourcePage": 5,
+      "sourceNumber": 279
+    },
+    {
+      "term": "머리",
+      "translation": "Bosh",
+      "sourcePage": 5,
+      "sourceNumber": 280
+    },
+    {
+      "term": "메뉴",
+      "translation": "Menyu",
+      "sourcePage": 5,
+      "sourceNumber": 281
+    },
+    {
+      "term": "메모",
+      "translation": "Qayd",
+      "sourcePage": 5,
+      "sourceNumber": 282
+    },
+    {
+      "term": "메시지",
+      "translation": "Sms",
+      "sourcePage": 5,
+      "sourceNumber": 283
+    },
+    {
+      "term": "멕시코",
+      "translation": "Meksika",
+      "sourcePage": 5,
+      "sourceNumber": 284
+    },
+    {
+      "term": "며칠",
+      "translation": "Bir necha kun",
+      "sourcePage": 5,
+      "sourceNumber": 285
+    },
+    {
+      "term": "면도",
+      "translation": "Soqol olish",
+      "sourcePage": 5,
+      "sourceNumber": 286
+    },
+    {
+      "term": "면접",
+      "translation": "Suhbat",
+      "sourcePage": 5,
+      "sourceNumber": 287
+    },
+    {
+      "term": "명",
+      "translation": "nafar(odam)",
+      "sourcePage": 5,
+      "sourceNumber": 288
+    },
+    {
+      "term": "명절",
+      "translation": "Bayram",
+      "sourcePage": 5,
+      "sourceNumber": 289
+    },
+    {
+      "term": "모기",
+      "translation": "Chivin",
+      "sourcePage": 5,
+      "sourceNumber": 290
+    },
+    {
+      "term": "모레",
+      "translation": "Indinga",
+      "sourcePage": 5,
+      "sourceNumber": 291
+    },
+    {
+      "term": "모습",
+      "translation": "Ko’rinish",
+      "sourcePage": 5,
+      "sourceNumber": 292
+    },
+    {
+      "term": "모양",
+      "translation": "Ko’rinish",
+      "sourcePage": 5,
+      "sourceNumber": 293
+    },
+    {
+      "term": "모임",
+      "translation": "Yeg’ilish",
+      "sourcePage": 5,
+      "sourceNumber": 294
+    },
+    {
+      "term": "모자",
+      "translation": "Bosh kiyim",
+      "sourcePage": 5,
+      "sourceNumber": 295
+    },
+    {
+      "term": "목",
+      "translation": "Tomoq",
+      "sourcePage": 5,
+      "sourceNumber": 296
+    },
+    {
+      "term": "목걸이",
+      "translation": "Taqinchoq",
+      "sourcePage": 5,
+      "sourceNumber": 297
+    },
+    {
+      "term": "목소리",
+      "translation": "Ovoz",
+      "sourcePage": 5,
+      "sourceNumber": 298
+    },
+    {
+      "term": "목요일",
+      "translation": "Payshanba",
+      "sourcePage": 5,
+      "sourceNumber": 299
+    },
+    {
+      "term": "목욕탕",
+      "translation": "Xammom",
+      "sourcePage": 5,
+      "sourceNumber": 300
+    },
+    {
+      "term": "목적",
+      "translation": "Maqsad",
+      "sourcePage": 5,
+      "sourceNumber": 301
+    },
+    {
+      "term": "몸",
+      "translation": "Tana",
+      "sourcePage": 5,
+      "sourceNumber": 302
+    },
+    {
+      "term": "몸살",
+      "translation": "Charchoq kasali",
+      "sourcePage": 5,
+      "sourceNumber": 303
+    },
+    {
+      "term": "몽골",
+      "translation": "Mo’g’uliston",
+      "sourcePage": 5,
+      "sourceNumber": 304
+    },
+    {
+      "term": "무",
+      "translation": "Turup",
+      "sourcePage": 5,
+      "sourceNumber": 305
+    },
+    {
+      "term": "무게",
+      "translation": "Og’irlik",
+      "sourcePage": 5,
+      "sourceNumber": 306
+    },
+    {
+      "term": "무궁화",
+      "translation": "Milliy gul",
+      "sourcePage": 5,
+      "sourceNumber": 307
+    },
+    {
+      "term": "무료",
+      "translation": "Bepul",
+      "sourcePage": 5,
+      "sourceNumber": 308
+    },
+    {
+      "term": "무릎",
+      "translation": "Tizza",
+      "sourcePage": 5,
+      "sourceNumber": 309
+    },
+    {
+      "term": "무역",
+      "translation": "Tijorat",
+      "sourcePage": 5,
+      "sourceNumber": 310
+    },
+    {
+      "term": "무용",
+      "translation": "Raqs",
+      "sourcePage": 5,
+      "sourceNumber": 311
+    },
+    {
+      "term": "문",
+      "translation": "Eshik",
+      "sourcePage": 5,
+      "sourceNumber": 312
+    },
+    {
+      "term": "문구점",
+      "translation": "Konselariya",
+      "sourcePage": 5,
+      "sourceNumber": 313
+    },
+    {
+      "term": "문장",
+      "translation": "Gap",
+      "sourcePage": 5,
+      "sourceNumber": 314
+    },
+    {
+      "term": "문제",
+      "translation": "Muammo",
+      "sourcePage": 5,
+      "sourceNumber": 315
+    },
+    {
+      "term": "문화",
+      "translation": "Madaniyat",
+      "sourcePage": 5,
+      "sourceNumber": 316
+    },
+    {
+      "term": "물",
+      "translation": "Suv",
+      "sourcePage": 5,
+      "sourceNumber": 317
+    },
+    {
+      "term": "물건",
+      "translation": "Buyum",
+      "sourcePage": 5,
+      "sourceNumber": 318
+    },
+    {
+      "term": "물론",
+      "translation": "Albatta",
+      "sourcePage": 5,
+      "sourceNumber": 319
+    },
+    {
+      "term": "미국",
+      "translation": "Amerika",
+      "sourcePage": 5,
+      "sourceNumber": 320
+    },
+    {
+      "term": "미래",
+      "translation": "Kelajak",
+      "sourcePage": 5,
+      "sourceNumber": 321
+    },
+    {
+      "term": "미술",
+      "translation": "San’at",
+      "sourcePage": 5,
+      "sourceNumber": 322
+    },
+    {
+      "term": "미술관",
+      "translation": "San’at muzeyi",
+      "sourcePage": 5,
+      "sourceNumber": 323
+    },
+    {
+      "term": "미용실",
+      "translation": "Salon",
+      "sourcePage": 5,
+      "sourceNumber": 324
+    },
+    {
+      "term": "미터",
+      "translation": "Metr",
+      "sourcePage": 5,
+      "sourceNumber": 325
+    },
+    {
+      "term": "민속촌",
+      "translation": "Minsokchon(joy nomi)",
+      "sourcePage": 5,
+      "sourceNumber": 326
+    },
+    {
+      "term": "밀가루",
+      "translation": "Un",
+      "sourcePage": 5,
+      "sourceNumber": 327
+    },
+    {
+      "term": "밑",
+      "translation": "Osti",
+      "sourcePage": 5,
+      "sourceNumber": 328
+    },
+    {
+      "term": "바나나",
+      "translation": "Banan",
+      "sourcePage": 5,
+      "sourceNumber": 329
+    },
+    {
+      "term": "바늘",
+      "translation": "Igna",
+      "sourcePage": 5,
+      "sourceNumber": 330
+    },
+    {
+      "term": "바다",
+      "translation": "Dengiz",
+      "sourcePage": 5,
+      "sourceNumber": 331
+    },
+    {
+      "term": "바닥",
+      "translation": "Pol",
+      "sourcePage": 5,
+      "sourceNumber": 332
+    },
+    {
+      "term": "바닷가",
+      "translation": "Dengiz bo’yi",
+      "sourcePage": 5,
+      "sourceNumber": 333
+    },
+    {
+      "term": "바람",
+      "translation": "Shamol",
+      "sourcePage": 5,
+      "sourceNumber": 334
+    },
+    {
+      "term": "바이올린",
+      "translation": "Skripka",
+      "sourcePage": 5,
+      "sourceNumber": 335
+    },
+    {
+      "term": "바지",
+      "translation": "Shim",
+      "sourcePage": 5,
+      "sourceNumber": 336
+    },
+    {
+      "term": "박물관",
+      "translation": "Muzey",
+      "sourcePage": 5,
+      "sourceNumber": 337
+    },
+    {
+      "term": "박수",
+      "translation": "Qarsak",
+      "sourcePage": 5,
+      "sourceNumber": 338
+    },
+    {
+      "term": "밖",
+      "translation": "Tashqari",
+      "sourcePage": 5,
+      "sourceNumber": 339
+    },
+    {
+      "term": "반",
+      "translation": "Guruh",
+      "sourcePage": 5,
+      "sourceNumber": 340
+    },
+    {
+      "term": "반",
+      "translation": "Yarim",
+      "sourcePage": 5,
+      "sourceNumber": 341
+    },
+    {
+      "term": "반바지",
+      "translation": "Sho’rtik",
+      "sourcePage": 5,
+      "sourceNumber": 342
+    },
+    {
+      "term": "반지",
+      "translation": "Uzuk",
+      "sourcePage": 5,
+      "sourceNumber": 343
+    },
+    {
+      "term": "반찬",
+      "translation": "Salat",
+      "sourcePage": 5,
+      "sourceNumber": 344
+    },
+    {
+      "term": "발",
+      "translation": "Oyoq",
+      "sourcePage": 5,
+      "sourceNumber": 345
+    },
+    {
+      "term": "발가락",
+      "translation": "Oyoq barmog’i",
+      "sourcePage": 5,
+      "sourceNumber": 346
+    },
+    {
+      "term": "발음",
+      "translation": "Talaffuz",
+      "sourcePage": 5,
+      "sourceNumber": 347
+    },
+    {
+      "term": "발표",
+      "translation": "Taqdimot",
+      "sourcePage": 5,
+      "sourceNumber": 348
+    },
+    {
+      "term": "밤",
+      "translation": "Tun",
+      "sourcePage": 5,
+      "sourceNumber": 349
+    },
+    {
+      "term": "밥",
+      "translation": "Ovqat",
+      "sourcePage": 5,
+      "sourceNumber": 350
+    },
+    {
+      "term": "방",
+      "translation": "Xona",
+      "sourcePage": 5,
+      "sourceNumber": 351
+    },
+    {
+      "term": "방법",
+      "translation": "Usul",
+      "sourcePage": 5,
+      "sourceNumber": 352
+    },
+    {
+      "term": "방송",
+      "translation": "Radio eshittirish",
+      "sourcePage": 5,
+      "sourceNumber": 353
+    },
+    {
+      "term": "방송국",
+      "translation": "Televidiniya",
+      "sourcePage": 5,
+      "sourceNumber": 354
+    },
+    {
+      "term": "방학",
+      "translation": "Tatil",
+      "sourcePage": 5,
+      "sourceNumber": 355
+    },
+    {
+      "term": "배",
+      "translation": "Kema/nok/qorin",
+      "sourcePage": 5,
+      "sourceNumber": 356
+    },
+    {
+      "term": "배구",
+      "translation": "Voleybol",
+      "sourcePage": 5,
+      "sourceNumber": 357
+    },
+    {
+      "term": "배달",
+      "translation": "Yetkazib berish",
+      "sourcePage": 5,
+      "sourceNumber": 358
+    },
+    {
+      "term": "백화점",
+      "translation": "Univermarket",
+      "sourcePage": 5,
+      "sourceNumber": 359
+    },
+    {
+      "term": "버스",
+      "translation": "Avtobus",
+      "sourcePage": 5,
+      "sourceNumber": 360
+    },
+    {
+      "term": "번",
+      "translation": "Nomer/marta",
+      "sourcePage": 6,
+      "sourceNumber": 361
+    },
+    {
+      "term": "번호",
+      "translation": "Nomer",
+      "sourcePage": 6,
+      "sourceNumber": 362
+    },
+    {
+      "term": "벚꽃",
+      "translation": "Gilos guli",
+      "sourcePage": 6,
+      "sourceNumber": 363
+    },
+    {
+      "term": "베이징",
+      "translation": "Pekin",
+      "sourcePage": 6,
+      "sourceNumber": 364
+    },
+    {
+      "term": "베트남",
+      "translation": "Vetnam",
+      "sourcePage": 6,
+      "sourceNumber": 365
+    },
+    {
+      "term": "벽",
+      "translation": "Devor",
+      "sourcePage": 6,
+      "sourceNumber": 366
+    },
+    {
+      "term": "변호사",
+      "translation": "Advokat",
+      "sourcePage": 6,
+      "sourceNumber": 367
+    },
+    {
+      "term": "별",
+      "translation": "Yulduz",
+      "sourcePage": 6,
+      "sourceNumber": 368
+    },
+    {
+      "term": "병",
+      "translation": "Butulka",
+      "sourcePage": 6,
+      "sourceNumber": 369
+    },
+    {
+      "term": "병",
+      "translation": "Kasallik",
+      "sourcePage": 6,
+      "sourceNumber": 370
+    },
+    {
+      "term": "병원",
+      "translation": "Kasalxona",
+      "sourcePage": 6,
+      "sourceNumber": 371
+    },
+    {
+      "term": "보통",
+      "translation": "Odatda",
+      "sourcePage": 6,
+      "sourceNumber": 372
+    },
+    {
+      "term": "복숭아",
+      "translation": "Shaftoli",
+      "sourcePage": 6,
+      "sourceNumber": 373
+    },
+    {
+      "term": "볶음밥",
+      "translation": "Poggimpap(ovqat)",
+      "sourcePage": 6,
+      "sourceNumber": 374
+    },
+    {
+      "term": "볼펜",
+      "translation": "Ruchka",
+      "sourcePage": 6,
+      "sourceNumber": 375
+    },
+    {
+      "term": "봄",
+      "translation": "Bahor",
+      "sourcePage": 6,
+      "sourceNumber": 376
+    },
+    {
+      "term": "봉지",
+      "translation": "Paket",
+      "sourcePage": 6,
+      "sourceNumber": 377
+    },
+    {
+      "term": "봉투",
+      "translation": "Konvert",
+      "sourcePage": 6,
+      "sourceNumber": 378
+    },
+    {
+      "term": "부동산",
+      "translation": "Ko’chmas mulk",
+      "sourcePage": 6,
+      "sourceNumber": 379
+    },
+    {
+      "term": "부모",
+      "translation": "Ota ona",
+      "sourcePage": 6,
+      "sourceNumber": 380
+    },
+    {
+      "term": "부부",
+      "translation": "Er xotin",
+      "sourcePage": 6,
+      "sourceNumber": 381
+    },
+    {
+      "term": "부산",
+      "translation": "Pusan(shahar)",
+      "sourcePage": 6,
+      "sourceNumber": 382
+    },
+    {
+      "term": "부엌",
+      "translation": "Oshxona",
+      "sourcePage": 6,
+      "sourceNumber": 383
+    },
+    {
+      "term": "부인",
+      "translation": "Xotin",
+      "sourcePage": 6,
+      "sourceNumber": 384
+    },
+    {
+      "term": "부탁",
+      "translation": "Iltimos",
+      "sourcePage": 6,
+      "sourceNumber": 385
+    },
+    {
+      "term": "북",
+      "translation": "Dombra",
+      "sourcePage": 6,
+      "sourceNumber": 386
+    },
+    {
+      "term": "북쪽",
+      "translation": "Shimol tomon",
+      "sourcePage": 6,
+      "sourceNumber": 387
+    },
+    {
+      "term": "분",
+      "translation": "Kishi",
+      "sourcePage": 6,
+      "sourceNumber": 388
+    },
+    {
+      "term": "분",
+      "translation": "Minut",
+      "sourcePage": 6,
+      "sourceNumber": 389
+    },
+    {
+      "term": "분위기",
+      "translation": "Atmasfera/sharoyit",
+      "sourcePage": 6,
+      "sourceNumber": 390
+    },
+    {
+      "term": "불",
+      "translation": "Olov/chiroq",
+      "sourcePage": 6,
+      "sourceNumber": 391
+    },
+    {
+      "term": "불고기",
+      "translation": "Pulkogi(ovqat)",
+      "sourcePage": 6,
+      "sourceNumber": 392
+    },
+    {
+      "term": "브라질",
+      "translation": "Brazilya",
+      "sourcePage": 6,
+      "sourceNumber": 393
+    },
+    {
+      "term": "블라우스",
+      "translation": "Blyuzka",
+      "sourcePage": 6,
+      "sourceNumber": 394
+    },
+    {
+      "term": "비",
+      "translation": "Yomg’ir",
+      "sourcePage": 6,
+      "sourceNumber": 395
+    },
+    {
+      "term": "비누",
+      "translation": "Sovun",
+      "sourcePage": 6,
+      "sourceNumber": 396
+    },
+    {
+      "term": "비디오",
+      "translation": "Video",
+      "sourcePage": 6,
+      "sourceNumber": 397
+    },
+    {
+      "term": "비밀",
+      "translation": "Sir",
+      "sourcePage": 6,
+      "sourceNumber": 398
+    },
+    {
+      "term": "비빔밥",
+      "translation": "Pibimpap",
+      "sourcePage": 6,
+      "sourceNumber": 399
+    },
+    {
+      "term": "비행기",
+      "translation": "Samalyot",
+      "sourcePage": 6,
+      "sourceNumber": 400
+    },
+    {
+      "term": "빌딩",
+      "translation": "Bino",
+      "sourcePage": 6,
+      "sourceNumber": 401
+    },
+    {
+      "term": "빨간색",
+      "translation": "Qizil rang",
+      "sourcePage": 6,
+      "sourceNumber": 402
+    },
+    {
+      "term": "빨래",
+      "translation": "Kir yuvish",
+      "sourcePage": 6,
+      "sourceNumber": 403
+    },
+    {
+      "term": "빵",
+      "translation": "Non",
+      "sourcePage": 6,
+      "sourceNumber": 404
+    },
+    {
+      "term": "빵집",
+      "translation": "Non do’koni",
+      "sourcePage": 6,
+      "sourceNumber": 405
+    },
+    {
+      "term": "뿔",
+      "translation": "Shoh(xayvon)",
+      "sourcePage": 6,
+      "sourceNumber": 406
+    },
+    {
+      "term": "사거리",
+      "translation": "Chorraha",
+      "sourcePage": 6,
+      "sourceNumber": 407
+    },
+    {
+      "term": "사계절",
+      "translation": "4 fasl",
+      "sourcePage": 6,
+      "sourceNumber": 408
+    },
+    {
+      "term": "사고",
+      "translation": "Avariya",
+      "sourcePage": 6,
+      "sourceNumber": 409
+    },
+    {
+      "term": "사과",
+      "translation": "Olma",
+      "sourcePage": 6,
+      "sourceNumber": 410
+    },
+    {
+      "term": "사람",
+      "translation": "Odam",
+      "sourcePage": 6,
+      "sourceNumber": 411
+    },
+    {
+      "term": "사무실",
+      "translation": "Ofis",
+      "sourcePage": 6,
+      "sourceNumber": 412
+    },
+    {
+      "term": "사물",
+      "translation": "Narsa/buyum",
+      "sourcePage": 6,
+      "sourceNumber": 413
+    },
+    {
+      "term": "사업가",
+      "translation": "Biznesmen",
+      "sourcePage": 6,
+      "sourceNumber": 414
+    },
+    {
+      "term": "사월",
+      "translation": "Aprel",
+      "sourcePage": 6,
+      "sourceNumber": 415
+    },
+    {
+      "term": "사이",
+      "translation": "Orasi",
+      "sourcePage": 6,
+      "sourceNumber": 416
+    },
+    {
+      "term": "사이다",
+      "translation": "Sodali suv",
+      "sourcePage": 6,
+      "sourceNumber": 417
+    },
+    {
+      "term": "사이즈",
+      "translation": "Razmer(size)",
+      "sourcePage": 6,
+      "sourceNumber": 418
+    },
+    {
+      "term": "사장님",
+      "translation": "Direktor",
+      "sourcePage": 6,
+      "sourceNumber": 419
+    },
+    {
+      "term": "사전",
+      "translation": "Lug’at",
+      "sourcePage": 6,
+      "sourceNumber": 420
+    },
+    {
+      "term": "사진",
+      "translation": "Surat",
+      "sourcePage": 6,
+      "sourceNumber": 421
+    },
+    {
+      "term": "사진기",
+      "translation": "Fotoapparat",
+      "sourcePage": 6,
+      "sourceNumber": 422
+    },
+    {
+      "term": "사촌",
+      "translation": "Amakivachcha",
+      "sourcePage": 6,
+      "sourceNumber": 423
+    },
+    {
+      "term": "사탕",
+      "translation": "Qand",
+      "sourcePage": 6,
+      "sourceNumber": 424
+    },
+    {
+      "term": "사흘",
+      "translation": "3 kun",
+      "sourcePage": 6,
+      "sourceNumber": 425
+    },
+    {
+      "term": "산",
+      "translation": "Tog’",
+      "sourcePage": 6,
+      "sourceNumber": 426
+    },
+    {
+      "term": "산책",
+      "translation": "Sayr qilish",
+      "sourcePage": 6,
+      "sourceNumber": 427
+    },
+    {
+      "term": "살",
+      "translation": "Yosh",
+      "sourcePage": 6,
+      "sourceNumber": 428
+    },
+    {
+      "term": "삼거리",
+      "translation": "3 ko’cha",
+      "sourcePage": 6,
+      "sourceNumber": 429
+    },
+    {
+      "term": "삼계탕",
+      "translation": "Tovuq sho’rva",
+      "sourcePage": 6,
+      "sourceNumber": 430
+    },
+    {
+      "term": "삼월",
+      "translation": "Mart",
+      "sourcePage": 6,
+      "sourceNumber": 431
+    },
+    {
+      "term": "삼촌",
+      "translation": "Amaki",
+      "sourcePage": 6,
+      "sourceNumber": 432
+    },
+    {
+      "term": "상자",
+      "translation": "Quti",
+      "sourcePage": 6,
+      "sourceNumber": 433
+    },
+    {
+      "term": "상처",
+      "translation": "Yara",
+      "sourcePage": 6,
+      "sourceNumber": 434
+    },
+    {
+      "term": "상품",
+      "translation": "Maxsulot",
+      "sourcePage": 6,
+      "sourceNumber": 435
+    },
+    {
+      "term": "새",
+      "translation": "Qush",
+      "sourcePage": 6,
+      "sourceNumber": 436
+    },
+    {
+      "term": "새벽",
+      "translation": "Saxar",
+      "sourcePage": 6,
+      "sourceNumber": 437
+    },
+    {
+      "term": "새우",
+      "translation": "Krivetka",
+      "sourcePage": 6,
+      "sourceNumber": 438
+    },
+    {
+      "term": "색",
+      "translation": "Rang",
+      "sourcePage": 6,
+      "sourceNumber": 439
+    },
+    {
+      "term": "색깔",
+      "translation": "Rang",
+      "sourcePage": 6,
+      "sourceNumber": 440
+    },
+    {
+      "term": "샌드위치",
+      "translation": "Sendvich",
+      "sourcePage": 6,
+      "sourceNumber": 441
+    },
+    {
+      "term": "생각",
+      "translation": "Hayol",
+      "sourcePage": 6,
+      "sourceNumber": 442
+    },
+    {
+      "term": "생선",
+      "translation": "Baliq",
+      "sourcePage": 6,
+      "sourceNumber": 443
+    },
+    {
+      "term": "생신",
+      "translation": "Tug’ilgan kun",
+      "sourcePage": 6,
+      "sourceNumber": 444
+    },
+    {
+      "term": "생일",
+      "translation": "Tug’ilgan kun",
+      "sourcePage": 6,
+      "sourceNumber": 445
+    },
+    {
+      "term": "생활",
+      "translation": "Turmush xayot",
+      "sourcePage": 6,
+      "sourceNumber": 446
+    },
+    {
+      "term": "샴푸",
+      "translation": "Shampun",
+      "sourcePage": 6,
+      "sourceNumber": 447
+    },
+    {
+      "term": "서류",
+      "translation": "Xujjat",
+      "sourcePage": 6,
+      "sourceNumber": 448
+    },
+    {
+      "term": "서비스",
+      "translation": "Xizmat",
+      "sourcePage": 6,
+      "sourceNumber": 449
+    },
+    {
+      "term": "서양",
+      "translation": "G’arb",
+      "sourcePage": 6,
+      "sourceNumber": 450
+    },
+    {
+      "term": "서울",
+      "translation": "Seul",
+      "sourcePage": 7,
+      "sourceNumber": 451
+    },
+    {
+      "term": "서울역",
+      "translation": "Seul vogzali",
+      "sourcePage": 7,
+      "sourceNumber": 452
+    },
+    {
+      "term": "서점",
+      "translation": "Kitob do’koni",
+      "sourcePage": 7,
+      "sourceNumber": 453
+    },
+    {
+      "term": "서쪽",
+      "translation": "G’arb tomon",
+      "sourcePage": 7,
+      "sourceNumber": 454
+    },
+    {
+      "term": "선물",
+      "translation": "Sovg’a",
+      "sourcePage": 7,
+      "sourceNumber": 455
+    },
+    {
+      "term": "선배",
+      "translation": "Akaxon",
+      "sourcePage": 7,
+      "sourceNumber": 456
+    },
+    {
+      "term": "선생님",
+      "translation": "Ustoz",
+      "sourcePage": 7,
+      "sourceNumber": 457
+    },
+    {
+      "term": "선수",
+      "translation": "Sportchi",
+      "sourcePage": 7,
+      "sourceNumber": 458
+    },
+    {
+      "term": "선풍기",
+      "translation": "Ventilator",
+      "sourcePage": 7,
+      "sourceNumber": 459
+    },
+    {
+      "term": "설거지",
+      "translation": "Idish yuvish",
+      "sourcePage": 7,
+      "sourceNumber": 460
+    },
+    {
+      "term": "설날",
+      "translation": "Yangi yil",
+      "sourcePage": 7,
+      "sourceNumber": 461
+    },
+    {
+      "term": "설렁탕",
+      "translation": "Mol go’shtili sho’rva",
+      "sourcePage": 7,
+      "sourceNumber": 462
+    },
+    {
+      "term": "설악산",
+      "translation": "Sorak tog’i",
+      "sourcePage": 7,
+      "sourceNumber": 463
+    },
+    {
+      "term": "설탕",
+      "translation": "Shakar",
+      "sourcePage": 7,
+      "sourceNumber": 464
+    },
+    {
+      "term": "섬",
+      "translation": "Orol",
+      "sourcePage": 7,
+      "sourceNumber": 465
+    },
+    {
+      "term": "성",
+      "translation": "Jins",
+      "sourcePage": 7,
+      "sourceNumber": 466
+    },
+    {
+      "term": "성격",
+      "translation": "Xarakter",
+      "sourcePage": 7,
+      "sourceNumber": 467
+    },
+    {
+      "term": "성함",
+      "translation": "Ism",
+      "sourcePage": 7,
+      "sourceNumber": 468
+    },
+    {
+      "term": "세",
+      "translation": "Yosh/soliq",
+      "sourcePage": 7,
+      "sourceNumber": 469
+    },
+    {
+      "term": "세계",
+      "translation": "Dunyo",
+      "sourcePage": 7,
+      "sourceNumber": 470
+    },
+    {
+      "term": "세기",
+      "translation": "Asr",
+      "sourcePage": 7,
+      "sourceNumber": 471
+    },
+    {
+      "term": "세상",
+      "translation": "Dunyo",
+      "sourcePage": 7,
+      "sourceNumber": 472
+    },
+    {
+      "term": "세탁기",
+      "translation": "Kir mashina",
+      "sourcePage": 7,
+      "sourceNumber": 473
+    },
+    {
+      "term": "세탁소",
+      "translation": "Ximchistka",
+      "sourcePage": 7,
+      "sourceNumber": 474
+    },
+    {
+      "term": "센터",
+      "translation": "Markaz",
+      "sourcePage": 7,
+      "sourceNumber": 475
+    },
+    {
+      "term": "센티미터",
+      "translation": "Santimetr",
+      "sourcePage": 7,
+      "sourceNumber": 476
+    },
+    {
+      "term": "소",
+      "translation": "Mol",
+      "sourcePage": 7,
+      "sourceNumber": 477
+    },
+    {
+      "term": "소개",
+      "translation": "Tanishtirish",
+      "sourcePage": 7,
+      "sourceNumber": 478
+    },
+    {
+      "term": "소고기",
+      "translation": "Mol go’shti",
+      "sourcePage": 7,
+      "sourceNumber": 479
+    },
+    {
+      "term": "소금",
+      "translation": "Tuz",
+      "sourcePage": 7,
+      "sourceNumber": 480
+    },
+    {
+      "term": "소리",
+      "translation": "Ovoz",
+      "sourcePage": 7,
+      "sourceNumber": 481
+    },
+    {
+      "term": "소설",
+      "translation": "Roman",
+      "sourcePage": 7,
+      "sourceNumber": 482
+    },
+    {
+      "term": "소설가",
+      "translation": "Roman yozuvchi",
+      "sourcePage": 7,
+      "sourceNumber": 483
+    },
+    {
+      "term": "소식",
+      "translation": "Xabar",
+      "sourcePage": 7,
+      "sourceNumber": 484
+    },
+    {
+      "term": "소파",
+      "translation": "Devan",
+      "sourcePage": 7,
+      "sourceNumber": 485
+    },
+    {
+      "term": "소포",
+      "translation": "Jo’natma",
+      "sourcePage": 7,
+      "sourceNumber": 486
+    },
+    {
+      "term": "소풍",
+      "translation": "Sayr qilish",
+      "sourcePage": 7,
+      "sourceNumber": 487
+    },
+    {
+      "term": "소화제",
+      "translation": "Xazm qiluvchi dori",
+      "sourcePage": 7,
+      "sourceNumber": 488
+    },
+    {
+      "term": "속",
+      "translation": "Ichi",
+      "sourcePage": 7,
+      "sourceNumber": 489
+    },
+    {
+      "term": "손",
+      "translation": "Qo’l",
+      "sourcePage": 7,
+      "sourceNumber": 490
+    },
+    {
+      "term": "손가락",
+      "translation": "Barmoq",
+      "sourcePage": 7,
+      "sourceNumber": 491
+    },
+    {
+      "term": "손님",
+      "translation": "Mehmon",
+      "sourcePage": 7,
+      "sourceNumber": 492
+    },
+    {
+      "term": "손수건",
+      "translation": "Ro’molcha",
+      "sourcePage": 7,
+      "sourceNumber": 493
+    },
+    {
+      "term": "손자",
+      "translation": "Nabira",
+      "sourcePage": 7,
+      "sourceNumber": 494
+    },
+    {
+      "term": "송이",
+      "translation": "Ta(gul)",
+      "sourcePage": 7,
+      "sourceNumber": 495
+    },
+    {
+      "term": "쇼핑",
+      "translation": "Bozor qilish",
+      "sourcePage": 7,
+      "sourceNumber": 496
+    },
+    {
+      "term": "수건",
+      "translation": "Sochiq",
+      "sourcePage": 7,
+      "sourceNumber": 497
+    },
+    {
+      "term": "수도",
+      "translation": "Poytaxt",
+      "sourcePage": 7,
+      "sourceNumber": 498
+    },
+    {
+      "term": "수돗물",
+      "translation": "Jo’mrak(grant)",
+      "sourcePage": 7,
+      "sourceNumber": 499
+    },
+    {
+      "term": "수박",
+      "translation": "Tarvuz",
+      "sourcePage": 7,
+      "sourceNumber": 500
+    },
+    {
+      "term": "수술",
+      "translation": "Operatsiya",
+      "sourcePage": 7,
+      "sourceNumber": 501
+    },
+    {
+      "term": "수업",
+      "translation": "Dars",
+      "sourcePage": 7,
+      "sourceNumber": 502
+    },
+    {
+      "term": "수영",
+      "translation": "Suzish",
+      "sourcePage": 7,
+      "sourceNumber": 503
+    },
+    {
+      "term": "수영복",
+      "translation": "Suzish kiyimi",
+      "sourcePage": 7,
+      "sourceNumber": 504
+    },
+    {
+      "term": "수영장",
+      "translation": "Basseyn",
+      "sourcePage": 7,
+      "sourceNumber": 505
+    },
+    {
+      "term": "수요일",
+      "translation": "Chorshanba",
+      "sourcePage": 7,
+      "sourceNumber": 506
+    },
+    {
+      "term": "수저",
+      "translation": "Qoshiq va cho’p",
+      "sourcePage": 7,
+      "sourceNumber": 507
+    },
+    {
+      "term": "수첩",
+      "translation": "Yon daftar",
+      "sourcePage": 7,
+      "sourceNumber": 508
+    },
+    {
+      "term": "수학",
+      "translation": "Matematika",
+      "sourcePage": 7,
+      "sourceNumber": 509
+    },
+    {
+      "term": "숙제",
+      "translation": "Vazifa",
+      "sourcePage": 7,
+      "sourceNumber": 510
+    },
+    {
+      "term": "순서",
+      "translation": "Tartib",
+      "sourcePage": 7,
+      "sourceNumber": 511
+    },
+    {
+      "term": "숟가락",
+      "translation": "Qoshiq",
+      "sourcePage": 7,
+      "sourceNumber": 512
+    },
+    {
+      "term": "술",
+      "translation": "Aroq",
+      "sourcePage": 7,
+      "sourceNumber": 513
+    },
+    {
+      "term": "슈퍼마켓",
+      "translation": "Supper market",
+      "sourcePage": 7,
+      "sourceNumber": 514
+    },
+    {
+      "term": "스웨터",
+      "translation": "Sviter",
+      "sourcePage": 7,
+      "sourceNumber": 515
+    },
+    {
+      "term": "스케이트",
+      "translation": "Skeyt",
+      "sourcePage": 7,
+      "sourceNumber": 516
+    },
+    {
+      "term": "스키",
+      "translation": "Chang’i",
+      "sourcePage": 7,
+      "sourceNumber": 517
+    },
+    {
+      "term": "스키장",
+      "translation": "Chang’i uchish joyi",
+      "sourcePage": 7,
+      "sourceNumber": 518
+    },
+    {
+      "term": "스타킹",
+      "translation": "Ayollar paypog’i",
+      "sourcePage": 7,
+      "sourceNumber": 519
+    },
+    {
+      "term": "스트레스",
+      "translation": "Asabiy",
+      "sourcePage": 7,
+      "sourceNumber": 520
+    },
+    {
+      "term": "스페인어",
+      "translation": "Ispan tili",
+      "sourcePage": 7,
+      "sourceNumber": 521
+    },
+    {
+      "term": "스포츠",
+      "translation": "Sport",
+      "sourcePage": 7,
+      "sourceNumber": 522
+    },
+    {
+      "term": "습관",
+      "translation": "Odat",
+      "sourcePage": 7,
+      "sourceNumber": 523
+    },
+    {
+      "term": "시",
+      "translation": "Soat",
+      "sourcePage": 7,
+      "sourceNumber": 524
+    },
+    {
+      "term": "시",
+      "translation": "Shahar",
+      "sourcePage": 7,
+      "sourceNumber": 525
+    },
+    {
+      "term": "시간",
+      "translation": "Vaqt",
+      "sourcePage": 7,
+      "sourceNumber": 526
+    },
+    {
+      "term": "시간표",
+      "translation": "Vaqt jadvali",
+      "sourcePage": 7,
+      "sourceNumber": 527
+    },
+    {
+      "term": "시계",
+      "translation": "Soat",
+      "sourcePage": 7,
+      "sourceNumber": 528
+    },
+    {
+      "term": "시골",
+      "translation": "Qishloq",
+      "sourcePage": 7,
+      "sourceNumber": 529
+    },
+    {
+      "term": "시내",
+      "translation": "Shaxar",
+      "sourcePage": 7,
+      "sourceNumber": 530
+    },
+    {
+      "term": "시디",
+      "translation": "CD(disk)",
+      "sourcePage": 7,
+      "sourceNumber": 531
+    },
+    {
+      "term": "시민",
+      "translation": "Fuqoro",
+      "sourcePage": 7,
+      "sourceNumber": 532
+    },
+    {
+      "term": "시설",
+      "translation": "Uskuna",
+      "sourcePage": 7,
+      "sourceNumber": 533
+    },
+    {
+      "term": "시외",
+      "translation": "Shahar tashqarisi",
+      "sourcePage": 7,
+      "sourceNumber": 534
+    },
+    {
+      "term": "시월",
+      "translation": "Oktyabr",
+      "sourcePage": 7,
+      "sourceNumber": 535
+    },
+    {
+      "term": "시작",
+      "translation": "Boshlash",
+      "sourcePage": 7,
+      "sourceNumber": 536
+    },
+    {
+      "term": "시장",
+      "translation": "Bozor",
+      "sourcePage": 7,
+      "sourceNumber": 537
+    },
+    {
+      "term": "시청",
+      "translation": "Shaxar xokimyati",
+      "sourcePage": 7,
+      "sourceNumber": 538
+    },
+    {
+      "term": "시험",
+      "translation": "Imtixon",
+      "sourcePage": 7,
+      "sourceNumber": 539
+    },
+    {
+      "term": "식당",
+      "translation": "Oshxona",
+      "sourcePage": 7,
+      "sourceNumber": 540
+    },
+    {
+      "term": "식사",
+      "translation": "Ovqatlanish",
+      "sourcePage": 8,
+      "sourceNumber": 541
+    },
+    {
+      "term": "식탁",
+      "translation": "Ovqat Stoli",
+      "sourcePage": 8,
+      "sourceNumber": 542
+    },
+    {
+      "term": "신문",
+      "translation": "Gazeta",
+      "sourcePage": 8,
+      "sourceNumber": 543
+    },
+    {
+      "term": "신발",
+      "translation": "Poyafzal",
+      "sourcePage": 8,
+      "sourceNumber": 544
+    },
+    {
+      "term": "신청서",
+      "translation": "Ariza/talabnoma",
+      "sourcePage": 8,
+      "sourceNumber": 545
+    },
+    {
+      "term": "신호등",
+      "translation": "Svetafor",
+      "sourcePage": 8,
+      "sourceNumber": 546
+    },
+    {
+      "term": "실수",
+      "translation": "Xato",
+      "sourcePage": 8,
+      "sourceNumber": 547
+    },
+    {
+      "term": "십이월",
+      "translation": "Dekabr",
+      "sourcePage": 8,
+      "sourceNumber": 548
+    },
+    {
+      "term": "십일월",
+      "translation": "Noyabr",
+      "sourcePage": 8,
+      "sourceNumber": 549
+    },
+    {
+      "term": "쌀",
+      "translation": "Guruch",
+      "sourcePage": 8,
+      "sourceNumber": 550
+    },
+    {
+      "term": "쓰기",
+      "translation": "Yozish",
+      "sourcePage": 8,
+      "sourceNumber": 551
+    },
+    {
+      "term": "쓰레기",
+      "translation": "Axlat",
+      "sourcePage": 8,
+      "sourceNumber": 552
+    },
+    {
+      "term": "씨",
+      "translation": "Janob",
+      "sourcePage": 8,
+      "sourceNumber": 553
+    },
+    {
+      "term": "아가씨",
+      "translation": "Yaxshi Qiz",
+      "sourcePage": 8,
+      "sourceNumber": 554
+    },
+    {
+      "term": "아기",
+      "translation": "Chaqaloq",
+      "sourcePage": 8,
+      "sourceNumber": 555
+    },
+    {
+      "term": "아내",
+      "translation": "Xotin",
+      "sourcePage": 8,
+      "sourceNumber": 556
+    },
+    {
+      "term": "아들",
+      "translation": "O’g’il farzand",
+      "sourcePage": 8,
+      "sourceNumber": 557
+    },
+    {
+      "term": "아랍어",
+      "translation": "Arab tili",
+      "sourcePage": 8,
+      "sourceNumber": 558
+    },
+    {
+      "term": "아래",
+      "translation": "Osti",
+      "sourcePage": 8,
+      "sourceNumber": 559
+    },
+    {
+      "term": "아버지",
+      "translation": "Dada",
+      "sourcePage": 8,
+      "sourceNumber": 560
+    },
+    {
+      "term": "아빠",
+      "translation": "Dada",
+      "sourcePage": 8,
+      "sourceNumber": 561
+    },
+    {
+      "term": "아시아",
+      "translation": "Osiyo",
+      "sourcePage": 8,
+      "sourceNumber": 562
+    },
+    {
+      "term": "아이",
+      "translation": "Bola",
+      "sourcePage": 8,
+      "sourceNumber": 563
+    },
+    {
+      "term": "아이스크림",
+      "translation": "Muzqaymoq",
+      "sourcePage": 8,
+      "sourceNumber": 564
+    },
+    {
+      "term": "아저씨",
+      "translation": "Tog’a(ko’chadagi)",
+      "sourcePage": 8,
+      "sourceNumber": 565
+    },
+    {
+      "term": "아주머니",
+      "translation": "Xolajon(ko’chadagi)",
+      "sourcePage": 8,
+      "sourceNumber": 566
+    },
+    {
+      "term": "아줌마",
+      "translation": "Xola(ko’chadagi)",
+      "sourcePage": 8,
+      "sourceNumber": 567
+    },
+    {
+      "term": "아침",
+      "translation": "Ertalab",
+      "sourcePage": 8,
+      "sourceNumber": 568
+    },
+    {
+      "term": "아파트",
+      "translation": "Etaj",
+      "sourcePage": 8,
+      "sourceNumber": 569
+    },
+    {
+      "term": "아프리카",
+      "translation": "Afrika",
+      "sourcePage": 8,
+      "sourceNumber": 570
+    },
+    {
+      "term": "악기",
+      "translation": "Musiqa asbobi",
+      "sourcePage": 8,
+      "sourceNumber": 571
+    },
+    {
+      "term": "안",
+      "translation": "Ichi",
+      "sourcePage": 8,
+      "sourceNumber": 572
+    },
+    {
+      "term": "안경",
+      "translation": "Ko’zoynak",
+      "sourcePage": 8,
+      "sourceNumber": 573
+    },
+    {
+      "term": "안내",
+      "translation": "Malumot",
+      "sourcePage": 8,
+      "sourceNumber": 574
+    },
+    {
+      "term": "앞",
+      "translation": "Oldi",
+      "sourcePage": 8,
+      "sourceNumber": 575
+    },
+    {
+      "term": "액세서리",
+      "translation": "Aksesuar",
+      "sourcePage": 8,
+      "sourceNumber": 576
+    },
+    {
+      "term": "야경",
+      "translation": "Tungi ko’rinish",
+      "sourcePage": 8,
+      "sourceNumber": 577
+    },
+    {
+      "term": "야구",
+      "translation": "Beysbol",
+      "sourcePage": 8,
+      "sourceNumber": 578
+    },
+    {
+      "term": "야외",
+      "translation": "Tashqari",
+      "sourcePage": 8,
+      "sourceNumber": 579
+    },
+    {
+      "term": "약",
+      "translation": "Dori",
+      "sourcePage": 8,
+      "sourceNumber": 580
+    },
+    {
+      "term": "약국",
+      "translation": "Dorixona",
+      "sourcePage": 8,
+      "sourceNumber": 581
+    },
+    {
+      "term": "약사",
+      "translation": "Dorixonachi",
+      "sourcePage": 8,
+      "sourceNumber": 582
+    },
+    {
+      "term": "약속",
+      "translation": "Vada/uchrashuv",
+      "sourcePage": 8,
+      "sourceNumber": 583
+    },
+    {
+      "term": "양",
+      "translation": "Miqdor/qo’y",
+      "sourcePage": 8,
+      "sourceNumber": 584
+    },
+    {
+      "term": "양말",
+      "translation": "Paypoq",
+      "sourcePage": 8,
+      "sourceNumber": 585
+    },
+    {
+      "term": "양복",
+      "translation": "Kostyum",
+      "sourcePage": 8,
+      "sourceNumber": 586
+    },
+    {
+      "term": "양식",
+      "translation": "G’arb taomi",
+      "sourcePage": 8,
+      "sourceNumber": 587
+    },
+    {
+      "term": "양식당",
+      "translation": "G’arb oshxonasi",
+      "sourcePage": 8,
+      "sourceNumber": 588
+    },
+    {
+      "term": "양파",
+      "translation": "Piyoz",
+      "sourcePage": 8,
+      "sourceNumber": 589
+    },
+    {
+      "term": "얘기",
+      "translation": "Hikoya",
+      "sourcePage": 8,
+      "sourceNumber": 590
+    },
+    {
+      "term": "어깨",
+      "translation": "Yelka",
+      "sourcePage": 8,
+      "sourceNumber": 591
+    },
+    {
+      "term": "어른",
+      "translation": "Qari",
+      "sourcePage": 8,
+      "sourceNumber": 592
+    },
+    {
+      "term": "어린이",
+      "translation": "Yosh",
+      "sourcePage": 8,
+      "sourceNumber": 593
+    },
+    {
+      "term": "어머니",
+      "translation": "Ona",
+      "sourcePage": 8,
+      "sourceNumber": 594
+    },
+    {
+      "term": "어제",
+      "translation": "Kecha",
+      "sourcePage": 8,
+      "sourceNumber": 595
+    },
+    {
+      "term": "어젯밤",
+      "translation": "Kecha oqshom",
+      "sourcePage": 8,
+      "sourceNumber": 596
+    },
+    {
+      "term": "언니",
+      "translation": "Opa",
+      "sourcePage": 8,
+      "sourceNumber": 597
+    },
+    {
+      "term": "얼굴",
+      "translation": "Yuz/chehra",
+      "sourcePage": 8,
+      "sourceNumber": 598
+    },
+    {
+      "term": "얼마",
+      "translation": "Qancha",
+      "sourcePage": 8,
+      "sourceNumber": 599
+    },
+    {
+      "term": "얼음",
+      "translation": "Muz",
+      "sourcePage": 8,
+      "sourceNumber": 600
+    },
+    {
+      "term": "엄마",
+      "translation": "Oyi",
+      "sourcePage": 8,
+      "sourceNumber": 601
+    },
+    {
+      "term": "에어컨",
+      "translation": "Konditsioner",
+      "sourcePage": 8,
+      "sourceNumber": 602
+    },
+    {
+      "term": "엘리베이터",
+      "translation": "Lift",
+      "sourcePage": 8,
+      "sourceNumber": 603
+    },
+    {
+      "term": "여권",
+      "translation": "Pasport",
+      "sourcePage": 8,
+      "sourceNumber": 604
+    },
+    {
+      "term": "여기저기",
+      "translation": "Uyer buyer",
+      "sourcePage": 8,
+      "sourceNumber": 605
+    },
+    {
+      "term": "여동생",
+      "translation": "Singil",
+      "sourcePage": 8,
+      "sourceNumber": 606
+    },
+    {
+      "term": "여러분",
+      "translation": "Azizlar",
+      "sourcePage": 8,
+      "sourceNumber": 607
+    },
+    {
+      "term": "여름",
+      "translation": "Yoz",
+      "sourcePage": 8,
+      "sourceNumber": 608
+    },
+    {
+      "term": "여우",
+      "translation": "Tulki",
+      "sourcePage": 8,
+      "sourceNumber": 609
+    },
+    {
+      "term": "여자",
+      "translation": "Ayol",
+      "sourcePage": 8,
+      "sourceNumber": 610
+    },
+    {
+      "term": "여학생",
+      "translation": "Qiz bola o’quvchi",
+      "sourcePage": 8,
+      "sourceNumber": 611
+    },
+    {
+      "term": "여행",
+      "translation": "Sayoxat",
+      "sourcePage": 8,
+      "sourceNumber": 612
+    },
+    {
+      "term": "여행사",
+      "translation": "Sayoxat agentligi",
+      "sourcePage": 8,
+      "sourceNumber": 613
+    },
+    {
+      "term": "역",
+      "translation": "Vogzal",
+      "sourcePage": 8,
+      "sourceNumber": 614
+    },
+    {
+      "term": "역사",
+      "translation": "Tarix",
+      "sourcePage": 8,
+      "sourceNumber": 615
+    },
+    {
+      "term": "연락",
+      "translation": "Xabar berish",
+      "sourcePage": 8,
+      "sourceNumber": 616
+    },
+    {
+      "term": "연락처",
+      "translation": "Kontakt nomer",
+      "sourcePage": 8,
+      "sourceNumber": 617
+    },
+    {
+      "term": "연세",
+      "translation": "Yosh",
+      "sourcePage": 8,
+      "sourceNumber": 618
+    },
+    {
+      "term": "연예인",
+      "translation": "Kino artist",
+      "sourcePage": 8,
+      "sourceNumber": 619
+    },
+    {
+      "term": "연필",
+      "translation": "Qalam",
+      "sourcePage": 8,
+      "sourceNumber": 620
+    },
+    {
+      "term": "연휴",
+      "translation": "Uzoq kunlik tatil",
+      "sourcePage": 8,
+      "sourceNumber": 621
+    },
+    {
+      "term": "열",
+      "translation": "Istima",
+      "sourcePage": 8,
+      "sourceNumber": 622
+    },
+    {
+      "term": "열쇠",
+      "translation": "Kalit",
+      "sourcePage": 8,
+      "sourceNumber": 623
+    },
+    {
+      "term": "열차",
+      "translation": "Poyez",
+      "sourcePage": 8,
+      "sourceNumber": 624
+    },
+    {
+      "term": "엽서",
+      "translation": "Tabriknoma",
+      "sourcePage": 8,
+      "sourceNumber": 625
+    },
+    {
+      "term": "영국",
+      "translation": "Anglya",
+      "sourcePage": 8,
+      "sourceNumber": 626
+    },
+    {
+      "term": "영상",
+      "translation": "Yuqori xarorat/imij",
+      "sourcePage": 8,
+      "sourceNumber": 627
+    },
+    {
+      "term": "영어",
+      "translation": "Ingliz tili",
+      "sourcePage": 8,
+      "sourceNumber": 628
+    },
+    {
+      "term": "영하",
+      "translation": "Past xarorat",
+      "sourcePage": 8,
+      "sourceNumber": 629
+    },
+    {
+      "term": "영화",
+      "translation": "Kino",
+      "sourcePage": 8,
+      "sourceNumber": 630
+    },
+    {
+      "term": "영화관",
+      "translation": "Kinoteatr",
+      "sourcePage": 9,
+      "sourceNumber": 631
+    },
+    {
+      "term": "영화배우",
+      "translation": "Kinoaktyor",
+      "sourcePage": 9,
+      "sourceNumber": 632
+    },
+    {
+      "term": "영화표",
+      "translation": "Kinobilet",
+      "sourcePage": 9,
+      "sourceNumber": 633
+    },
+    {
+      "term": "옆",
+      "translation": "Yon",
+      "sourcePage": 9,
+      "sourceNumber": 634
+    },
+    {
+      "term": "예술",
+      "translation": "San’at",
+      "sourcePage": 9,
+      "sourceNumber": 635
+    },
+    {
+      "term": "예약",
+      "translation": "Oldindan bron qilish",
+      "sourcePage": 9,
+      "sourceNumber": 636
+    },
+    {
+      "term": "예매",
+      "translation": "Oldindan sotib olish",
+      "sourcePage": 9,
+      "sourceNumber": 637
+    },
+    {
+      "term": "옛날",
+      "translation": "Qadimda",
+      "sourcePage": 9,
+      "sourceNumber": 638
+    },
+    {
+      "term": "예습",
+      "translation": "Darsga tayyorlanish",
+      "sourcePage": 9,
+      "sourceNumber": 639
+    },
+    {
+      "term": "오늘",
+      "translation": "Bugun",
+      "sourcePage": 9,
+      "sourceNumber": 640
+    },
+    {
+      "term": "오랫동안",
+      "translation": "Uzoq vaqt davomida",
+      "sourcePage": 9,
+      "sourceNumber": 641
+    },
+    {
+      "term": "오렌지",
+      "translation": "Apelsin",
+      "sourcePage": 9,
+      "sourceNumber": 642
+    },
+    {
+      "term": "오른쪽",
+      "translation": "O’ng tomon",
+      "sourcePage": 9,
+      "sourceNumber": 643
+    },
+    {
+      "term": "오리",
+      "translation": "O’rdak",
+      "sourcePage": 9,
+      "sourceNumber": 644
+    },
+    {
+      "term": "오빠",
+      "translation": "Aka",
+      "sourcePage": 9,
+      "sourceNumber": 645
+    },
+    {
+      "term": "오월",
+      "translation": "May",
+      "sourcePage": 9,
+      "sourceNumber": 646
+    },
+    {
+      "term": "오이",
+      "translation": "Bodiring",
+      "sourcePage": 9,
+      "sourceNumber": 647
+    },
+    {
+      "term": "오전",
+      "translation": "Ertalabki vaqt",
+      "sourcePage": 9,
+      "sourceNumber": 648
+    },
+    {
+      "term": "오징어",
+      "translation": "Kalmar",
+      "sourcePage": 9,
+      "sourceNumber": 649
+    },
+    {
+      "term": "오후",
+      "translation": "Tushdan keyingi vaqt",
+      "sourcePage": 9,
+      "sourceNumber": 650
+    },
+    {
+      "term": "올림픽",
+      "translation": "Olimpiya",
+      "sourcePage": 9,
+      "sourceNumber": 651
+    },
+    {
+      "term": "올해",
+      "translation": "Bu yil",
+      "sourcePage": 9,
+      "sourceNumber": 652
+    },
+    {
+      "term": "옷",
+      "translation": "Kiyim",
+      "sourcePage": 9,
+      "sourceNumber": 653
+    },
+    {
+      "term": "옷장",
+      "translation": "Kiyim shkaf",
+      "sourcePage": 9,
+      "sourceNumber": 654
+    },
+    {
+      "term": "와이셔츠",
+      "translation": "Oq ko’ylak",
+      "sourcePage": 9,
+      "sourceNumber": 655
+    },
+    {
+      "term": "외국",
+      "translation": "Chetel",
+      "sourcePage": 9,
+      "sourceNumber": 656
+    },
+    {
+      "term": "외국어",
+      "translation": "Chettili",
+      "sourcePage": 9,
+      "sourceNumber": 657
+    },
+    {
+      "term": "외국인",
+      "translation": "Chetellik",
+      "sourcePage": 9,
+      "sourceNumber": 658
+    },
+    {
+      "term": "외삼촌",
+      "translation": "Tog’a",
+      "sourcePage": 9,
+      "sourceNumber": 659
+    },
+    {
+      "term": "외숙모",
+      "translation": "Tog’a xotini",
+      "sourcePage": 9,
+      "sourceNumber": 660
+    },
+    {
+      "term": "외출",
+      "translation": "Tashqariga chiqish",
+      "sourcePage": 9,
+      "sourceNumber": 661
+    },
+    {
+      "term": "외할머니",
+      "translation": "Buvi(ona tomon)",
+      "sourcePage": 9,
+      "sourceNumber": 662
+    },
+    {
+      "term": "외할아버지",
+      "translation": "Opoqi(ona tomon)",
+      "sourcePage": 9,
+      "sourceNumber": 663
+    },
+    {
+      "term": "왼쪽",
+      "translation": "Chap tomon",
+      "sourcePage": 9,
+      "sourceNumber": 664
+    },
+    {
+      "term": "요금",
+      "translation": "Xarajat",
+      "sourcePage": 9,
+      "sourceNumber": 665
+    },
+    {
+      "term": "요르단",
+      "translation": "Iordaniya",
+      "sourcePage": 9,
+      "sourceNumber": 666
+    },
+    {
+      "term": "요리",
+      "translation": "Ovqat",
+      "sourcePage": 9,
+      "sourceNumber": 667
+    },
+    {
+      "term": "요일",
+      "translation": "Xafta kuni",
+      "sourcePage": 9,
+      "sourceNumber": 668
+    },
+    {
+      "term": "요즘",
+      "translation": "Shu kunlarda",
+      "sourcePage": 9,
+      "sourceNumber": 669
+    },
+    {
+      "term": "우산",
+      "translation": "Soyabon",
+      "sourcePage": 9,
+      "sourceNumber": 670
+    },
+    {
+      "term": "우유",
+      "translation": "Sut",
+      "sourcePage": 9,
+      "sourceNumber": 671
+    },
+    {
+      "term": "우체국",
+      "translation": "Pochta",
+      "sourcePage": 9,
+      "sourceNumber": 672
+    },
+    {
+      "term": "우표",
+      "translation": "Marka",
+      "sourcePage": 9,
+      "sourceNumber": 673
+    },
+    {
+      "term": "운동복",
+      "translation": "Sport kiyimi",
+      "sourcePage": 9,
+      "sourceNumber": 674
+    },
+    {
+      "term": "운동선수",
+      "translation": "Sportchi",
+      "sourcePage": 9,
+      "sourceNumber": 675
+    },
+    {
+      "term": "운동장",
+      "translation": "Stadion",
+      "sourcePage": 9,
+      "sourceNumber": 676
+    },
+    {
+      "term": "운동화",
+      "translation": "Krasofka",
+      "sourcePage": 9,
+      "sourceNumber": 677
+    },
+    {
+      "term": "운전기사",
+      "translation": "Haydovchi",
+      "sourcePage": 9,
+      "sourceNumber": 678
+    },
+    {
+      "term": "원",
+      "translation": "Von(pul birligi)",
+      "sourcePage": 9,
+      "sourceNumber": 679
+    },
+    {
+      "term": "원피스",
+      "translation": "Ayollar ko’ylagi",
+      "sourcePage": 9,
+      "sourceNumber": 680
+    },
+    {
+      "term": "월급",
+      "translation": "Oylik",
+      "sourcePage": 9,
+      "sourceNumber": 681
+    },
+    {
+      "term": "월드컵",
+      "translation": "Jahon Chempionati",
+      "sourcePage": 9,
+      "sourceNumber": 682
+    },
+    {
+      "term": "월세",
+      "translation": "Oylik ijara",
+      "sourcePage": 9,
+      "sourceNumber": 683
+    },
+    {
+      "term": "월요일",
+      "translation": "Dushanba",
+      "sourcePage": 9,
+      "sourceNumber": 684
+    },
+    {
+      "term": "웬일",
+      "translation": "Nima gap/qaysi ish",
+      "sourcePage": 9,
+      "sourceNumber": 685
+    },
+    {
+      "term": "위",
+      "translation": "Usti",
+      "sourcePage": 9,
+      "sourceNumber": 686
+    },
+    {
+      "term": "위치",
+      "translation": "Joylashuv",
+      "sourcePage": 9,
+      "sourceNumber": 687
+    },
+    {
+      "term": "유럽",
+      "translation": "Yevropa",
+      "sourcePage": 9,
+      "sourceNumber": 688
+    },
+    {
+      "term": "유리",
+      "translation": "Shisha",
+      "sourcePage": 9,
+      "sourceNumber": 689
+    },
+    {
+      "term": "유월",
+      "translation": "Iyun",
+      "sourcePage": 9,
+      "sourceNumber": 690
+    },
+    {
+      "term": "유학",
+      "translation": "Chetelda o’qish",
+      "sourcePage": 9,
+      "sourceNumber": 691
+    },
+    {
+      "term": "유학생",
+      "translation": "Chetelda o’quvchi",
+      "sourcePage": 9,
+      "sourceNumber": 692
+    },
+    {
+      "term": "유행",
+      "translation": "Moda",
+      "sourcePage": 9,
+      "sourceNumber": 693
+    },
+    {
+      "term": "은행",
+      "translation": "Bank",
+      "sourcePage": 9,
+      "sourceNumber": 694
+    },
+    {
+      "term": "은행원",
+      "translation": "Bankir",
+      "sourcePage": 9,
+      "sourceNumber": 695
+    },
+    {
+      "term": "음료수",
+      "translation": "ichimlik",
+      "sourcePage": 9,
+      "sourceNumber": 696
+    },
+    {
+      "term": "음식",
+      "translation": "Ovqat",
+      "sourcePage": 9,
+      "sourceNumber": 697
+    },
+    {
+      "term": "음악",
+      "translation": "Musiqa",
+      "sourcePage": 9,
+      "sourceNumber": 698
+    },
+    {
+      "term": "음악가",
+      "translation": "Musiqachi",
+      "sourcePage": 9,
+      "sourceNumber": 699
+    },
+    {
+      "term": "의미",
+      "translation": "Ma’no",
+      "sourcePage": 9,
+      "sourceNumber": 700
+    },
+    {
+      "term": "의사",
+      "translation": "Shifokor",
+      "sourcePage": 9,
+      "sourceNumber": 701
+    },
+    {
+      "term": "의자",
+      "translation": "Stul",
+      "sourcePage": 9,
+      "sourceNumber": 702
+    },
+    {
+      "term": "이",
+      "translation": "Tish/bu",
+      "sourcePage": 9,
+      "sourceNumber": 703
+    },
+    {
+      "term": "이름",
+      "translation": "Ism",
+      "sourcePage": 9,
+      "sourceNumber": 704
+    },
+    {
+      "term": "이메일",
+      "translation": "e-mail",
+      "sourcePage": 9,
+      "sourceNumber": 705
+    },
+    {
+      "term": "이모",
+      "translation": "Xola",
+      "sourcePage": 9,
+      "sourceNumber": 706
+    },
+    {
+      "term": "이모부",
+      "translation": "Xola eri",
+      "sourcePage": 9,
+      "sourceNumber": 707
+    },
+    {
+      "term": "이번",
+      "translation": "Bu safar",
+      "sourcePage": 9,
+      "sourceNumber": 708
+    },
+    {
+      "term": "이사",
+      "translation": "Ko’chish",
+      "sourcePage": 9,
+      "sourceNumber": 709
+    },
+    {
+      "term": "이상",
+      "translation": "Ortiq",
+      "sourcePage": 9,
+      "sourceNumber": 710
+    },
+    {
+      "term": "이용",
+      "translation": "Foydalanish",
+      "sourcePage": 9,
+      "sourceNumber": 711
+    },
+    {
+      "term": "이웃",
+      "translation": "Qo’shni",
+      "sourcePage": 9,
+      "sourceNumber": 712
+    },
+    {
+      "term": "이월",
+      "translation": "Fevral",
+      "sourcePage": 9,
+      "sourceNumber": 713
+    },
+    {
+      "term": "이유",
+      "translation": "Sabab",
+      "sourcePage": 9,
+      "sourceNumber": 714
+    },
+    {
+      "term": "이자",
+      "translation": "Foiz",
+      "sourcePage": 9,
+      "sourceNumber": 715
+    },
+    {
+      "term": "이제",
+      "translation": "Endi",
+      "sourcePage": 9,
+      "sourceNumber": 716
+    },
+    {
+      "term": "이집트",
+      "translation": "Misr",
+      "sourcePage": 9,
+      "sourceNumber": 717
+    },
+    {
+      "term": "이틀",
+      "translation": "2 chi kun",
+      "sourcePage": 9,
+      "sourceNumber": 718
+    },
+    {
+      "term": "인구",
+      "translation": "Aholi/odam soni",
+      "sourcePage": 9,
+      "sourceNumber": 719
+    },
+    {
+      "term": "인기",
+      "translation": "Muxlis/talab",
+      "sourcePage": 9,
+      "sourceNumber": 720
+    },
+    {
+      "term": "인도",
+      "translation": "Hind",
+      "sourcePage": 10,
+      "sourceNumber": 721
+    },
+    {
+      "term": "인삼",
+      "translation": "Jenshen",
+      "sourcePage": 10,
+      "sourceNumber": 722
+    },
+    {
+      "term": "인상",
+      "translation": "Ta’surot",
+      "sourcePage": 10,
+      "sourceNumber": 723
+    },
+    {
+      "term": "인천",
+      "translation": "Inchon(shahar)",
+      "sourcePage": 10,
+      "sourceNumber": 724
+    },
+    {
+      "term": "인터넷",
+      "translation": "Internet",
+      "sourcePage": 10,
+      "sourceNumber": 725
+    },
+    {
+      "term": "인형",
+      "translation": "Qog’irchoq",
+      "sourcePage": 10,
+      "sourceNumber": 726
+    },
+    {
+      "term": "일",
+      "translation": "Kun/ish",
+      "sourcePage": 10,
+      "sourceNumber": 727
+    },
+    {
+      "term": "일기",
+      "translation": "Kundalik",
+      "sourcePage": 10,
+      "sourceNumber": 728
+    },
+    {
+      "term": "일기예보",
+      "translation": "MCHS(gidrometrologiya)",
+      "sourcePage": 10,
+      "sourceNumber": 729
+    },
+    {
+      "term": "일본",
+      "translation": "Yaponiya",
+      "sourcePage": 10,
+      "sourceNumber": 730
+    },
+    {
+      "term": "일본어",
+      "translation": "Yapon tili",
+      "sourcePage": 10,
+      "sourceNumber": 731
+    },
+    {
+      "term": "일상생활",
+      "translation": "Har kungi xayot",
+      "sourcePage": 10,
+      "sourceNumber": 732
+    },
+    {
+      "term": "일식",
+      "translation": "Yapon ovqati",
+      "sourcePage": 10,
+      "sourceNumber": 733
+    },
+    {
+      "term": "일요일",
+      "translation": "Yakshanba",
+      "sourcePage": 10,
+      "sourceNumber": 734
+    },
+    {
+      "term": "일월",
+      "translation": "Yanvar",
+      "sourcePage": 10,
+      "sourceNumber": 735
+    },
+    {
+      "term": "일주일",
+      "translation": "1 xafta",
+      "sourcePage": 10,
+      "sourceNumber": 736
+    },
+    {
+      "term": "읽기",
+      "translation": "O’qish",
+      "sourcePage": 10,
+      "sourceNumber": 737
+    },
+    {
+      "term": "입",
+      "translation": "Og’iz",
+      "sourcePage": 10,
+      "sourceNumber": 738
+    },
+    {
+      "term": "입구",
+      "translation": "Kirish",
+      "sourcePage": 10,
+      "sourceNumber": 739
+    },
+    {
+      "term": "입학",
+      "translation": "O’qishga kirish",
+      "sourcePage": 10,
+      "sourceNumber": 740
+    },
+    {
+      "term": "자동차",
+      "translation": "Mashina",
+      "sourcePage": 10,
+      "sourceNumber": 741
+    },
+    {
+      "term": "자료",
+      "translation": "Material",
+      "sourcePage": 10,
+      "sourceNumber": 742
+    },
+    {
+      "term": "자리",
+      "translation": "Joy",
+      "sourcePage": 10,
+      "sourceNumber": 743
+    },
+    {
+      "term": "자신",
+      "translation": "O’zi",
+      "sourcePage": 10,
+      "sourceNumber": 744
+    },
+    {
+      "term": "자연",
+      "translation": "Manzara/tabiyat",
+      "sourcePage": 10,
+      "sourceNumber": 745
+    },
+    {
+      "term": "자유",
+      "translation": "Ozod/erkin",
+      "sourcePage": 10,
+      "sourceNumber": 746
+    },
+    {
+      "term": "자장면",
+      "translation": "Qora no’xotli sous",
+      "sourcePage": 10,
+      "sourceNumber": 747
+    },
+    {
+      "term": "자전거",
+      "translation": "Velosiped",
+      "sourcePage": 10,
+      "sourceNumber": 748
+    },
+    {
+      "term": "작년",
+      "translation": "O’tgan yili",
+      "sourcePage": 10,
+      "sourceNumber": 749
+    },
+    {
+      "term": "작품",
+      "translation": "Badiy asar",
+      "sourcePage": 10,
+      "sourceNumber": 750
+    },
+    {
+      "term": "잔",
+      "translation": "Stakan",
+      "sourcePage": 10,
+      "sourceNumber": 751
+    },
+    {
+      "term": "잔치",
+      "translation": "Ziyofat",
+      "sourcePage": 10,
+      "sourceNumber": 752
+    },
+    {
+      "term": "잠",
+      "translation": "Uyqu",
+      "sourcePage": 10,
+      "sourceNumber": 753
+    },
+    {
+      "term": "잠깐",
+      "translation": "Biroz",
+      "sourcePage": 10,
+      "sourceNumber": 754
+    },
+    {
+      "term": "잠시",
+      "translation": "Biroz",
+      "sourcePage": 10,
+      "sourceNumber": 755
+    },
+    {
+      "term": "잡지",
+      "translation": "Jurnal",
+      "sourcePage": 10,
+      "sourceNumber": 756
+    },
+    {
+      "term": "장",
+      "translation": "ta(qog’oz)",
+      "sourcePage": 10,
+      "sourceNumber": 757
+    },
+    {
+      "term": "장갑",
+      "translation": "Qo’lqop",
+      "sourcePage": 10,
+      "sourceNumber": 758
+    },
+    {
+      "term": "장마",
+      "translation": "Yozgi yomg’ir",
+      "sourcePage": 10,
+      "sourceNumber": 759
+    },
+    {
+      "term": "장마철",
+      "translation": "Yomg’ir mavsumi",
+      "sourcePage": 10,
+      "sourceNumber": 760
+    },
+    {
+      "term": "장미",
+      "translation": "Atirgul",
+      "sourcePage": 10,
+      "sourceNumber": 761
+    },
+    {
+      "term": "장소",
+      "translation": "joy",
+      "sourcePage": 10,
+      "sourceNumber": 762
+    },
+    {
+      "term": "장점",
+      "translation": "Ustunlik",
+      "sourcePage": 10,
+      "sourceNumber": 763
+    },
+    {
+      "term": "재료",
+      "translation": "Material",
+      "sourcePage": 10,
+      "sourceNumber": 764
+    },
+    {
+      "term": "재킷",
+      "translation": "Kamzul",
+      "sourcePage": 10,
+      "sourceNumber": 765
+    },
+    {
+      "term": "저녁",
+      "translation": "Kechki payt",
+      "sourcePage": 10,
+      "sourceNumber": 766
+    },
+    {
+      "term": "전",
+      "translation": "Oldin",
+      "sourcePage": 10,
+      "sourceNumber": 767
+    },
+    {
+      "term": "전공",
+      "translation": "Mutaxassislik",
+      "sourcePage": 10,
+      "sourceNumber": 768
+    },
+    {
+      "term": "전자사전",
+      "translation": "Elektron lug’at",
+      "sourcePage": 10,
+      "sourceNumber": 769
+    },
+    {
+      "term": "전화",
+      "translation": "Telefon",
+      "sourcePage": 10,
+      "sourceNumber": 770
+    },
+    {
+      "term": "전화기",
+      "translation": "Telefon apparati",
+      "sourcePage": 10,
+      "sourceNumber": 771
+    },
+    {
+      "term": "전화번호",
+      "translation": "Telefon nomer",
+      "sourcePage": 10,
+      "sourceNumber": 772
+    },
+    {
+      "term": "절",
+      "translation": "Ibodatxona/tazim",
+      "sourcePage": 10,
+      "sourceNumber": 773
+    },
+    {
+      "term": "점수",
+      "translation": "Baxo",
+      "sourcePage": 10,
+      "sourceNumber": 774
+    },
+    {
+      "term": "점심",
+      "translation": "Tushlik",
+      "sourcePage": 10,
+      "sourceNumber": 775
+    },
+    {
+      "term": "점심시간",
+      "translation": "Tushlik vaqti",
+      "sourcePage": 10,
+      "sourceNumber": 776
+    },
+    {
+      "term": "점원",
+      "translation": "Xizmatchi",
+      "sourcePage": 10,
+      "sourceNumber": 777
+    },
+    {
+      "term": "점퍼",
+      "translation": "Kamzul",
+      "sourcePage": 10,
+      "sourceNumber": 778
+    },
+    {
+      "term": "젓가락",
+      "translation": "Cho’p",
+      "sourcePage": 10,
+      "sourceNumber": 779
+    },
+    {
+      "term": "정거장",
+      "translation": "Stansiya/bekat",
+      "sourcePage": 10,
+      "sourceNumber": 780
+    },
+    {
+      "term": "정도",
+      "translation": "Daraja",
+      "sourcePage": 10,
+      "sourceNumber": 781
+    },
+    {
+      "term": "정류장",
+      "translation": "Bekat",
+      "sourcePage": 10,
+      "sourceNumber": 782
+    },
+    {
+      "term": "정문",
+      "translation": "Asosiy eshik/old eshik",
+      "sourcePage": 10,
+      "sourceNumber": 783
+    },
+    {
+      "term": "정보",
+      "translation": "Axborot",
+      "sourcePage": 10,
+      "sourceNumber": 784
+    },
+    {
+      "term": "정부",
+      "translation": "Xukumat",
+      "sourcePage": 10,
+      "sourceNumber": 785
+    },
+    {
+      "term": "제목",
+      "translation": "Sarlavxa/mavzu",
+      "sourcePage": 10,
+      "sourceNumber": 786
+    },
+    {
+      "term": "제일",
+      "translation": "Eng",
+      "sourcePage": 10,
+      "sourceNumber": 787
+    },
+    {
+      "term": "제주도",
+      "translation": "Cheju oroli",
+      "sourcePage": 10,
+      "sourceNumber": 788
+    },
+    {
+      "term": "조금",
+      "translation": "Biroz",
+      "sourcePage": 10,
+      "sourceNumber": 789
+    },
+    {
+      "term": "조카",
+      "translation": "Jiyan",
+      "sourcePage": 10,
+      "sourceNumber": 790
+    },
+    {
+      "term": "종로",
+      "translation": "Jongro(joy nomi)",
+      "sourcePage": 10,
+      "sourceNumber": 791
+    },
+    {
+      "term": "종류",
+      "translation": "Tur/xil",
+      "sourcePage": 10,
+      "sourceNumber": 792
+    },
+    {
+      "term": "종업원",
+      "translation": "Ishchi",
+      "sourcePage": 10,
+      "sourceNumber": 793
+    },
+    {
+      "term": "종이",
+      "translation": "Qog’oz",
+      "sourcePage": 10,
+      "sourceNumber": 794
+    },
+    {
+      "term": "종일",
+      "translation": "Kun bo’yi",
+      "sourcePage": 10,
+      "sourceNumber": 795
+    },
+    {
+      "term": "주",
+      "translation": "Xafta",
+      "sourcePage": 10,
+      "sourceNumber": 796
+    },
+    {
+      "term": "주말",
+      "translation": "Xafta oxiri",
+      "sourcePage": 10,
+      "sourceNumber": 797
+    },
+    {
+      "term": "주머니",
+      "translation": "Cho’ntak",
+      "sourcePage": 10,
+      "sourceNumber": 798
+    },
+    {
+      "term": "주변",
+      "translation": "Atrof",
+      "sourcePage": 10,
+      "sourceNumber": 799
+    },
+    {
+      "term": "주부",
+      "translation": "Uy bekasi",
+      "sourcePage": 10,
+      "sourceNumber": 800
+    },
+    {
+      "term": "주사",
+      "translation": "Ukol",
+      "sourcePage": 10,
+      "sourceNumber": 801
+    },
+    {
+      "term": "주사기",
+      "translation": "Shpirist",
+      "sourcePage": 10,
+      "sourceNumber": 802
+    },
+    {
+      "term": "주소",
+      "translation": "Manzil",
+      "sourcePage": 10,
+      "sourceNumber": 803
+    },
+    {
+      "term": "주스",
+      "translation": "Sharbat",
+      "sourcePage": 10,
+      "sourceNumber": 804
+    },
+    {
+      "term": "주위",
+      "translation": "Atrof",
+      "sourcePage": 10,
+      "sourceNumber": 805
+    },
+    {
+      "term": "주인",
+      "translation": "Egasi/sohibi/mezbon",
+      "sourcePage": 10,
+      "sourceNumber": 806
+    },
+    {
+      "term": "주차장",
+      "translation": "To’xtash joyi",
+      "sourcePage": 10,
+      "sourceNumber": 807
+    },
+    {
+      "term": "주황색",
+      "translation": "Apelsin rang",
+      "sourcePage": 10,
+      "sourceNumber": 808
+    },
+    {
+      "term": "죽",
+      "translation": "Bo’tqa/sho’rva",
+      "sourcePage": 10,
+      "sourceNumber": 809
+    },
+    {
+      "term": "줄",
+      "translation": "Chiziq/navbat",
+      "sourcePage": 10,
+      "sourceNumber": 810
+    },
+    {
+      "term": "중",
+      "translation": "Orasi",
+      "sourcePage": 11,
+      "sourceNumber": 811
+    },
+    {
+      "term": "중국",
+      "translation": "Xitoy",
+      "sourcePage": 11,
+      "sourceNumber": 812
+    },
+    {
+      "term": "중국어",
+      "translation": "Xitoy tili",
+      "sourcePage": 11,
+      "sourceNumber": 813
+    },
+    {
+      "term": "중국집",
+      "translation": "Xitoy uyi",
+      "sourcePage": 11,
+      "sourceNumber": 814
+    },
+    {
+      "term": "중급",
+      "translation": "O’rta daraja",
+      "sourcePage": 11,
+      "sourceNumber": 815
+    },
+    {
+      "term": "중식",
+      "translation": "Xitoy ovqati",
+      "sourcePage": 11,
+      "sourceNumber": 816
+    },
+    {
+      "term": "중심",
+      "translation": "Asosiy",
+      "sourcePage": 11,
+      "sourceNumber": 817
+    },
+    {
+      "term": "중학교",
+      "translation": "O’rta maktab",
+      "sourcePage": 11,
+      "sourceNumber": 818
+    },
+    {
+      "term": "중학생",
+      "translation": "O’rta maktab o’quvchisi",
+      "sourcePage": 11,
+      "sourceNumber": 819
+    },
+    {
+      "term": "증세",
+      "translation": "Alomat",
+      "sourcePage": 11,
+      "sourceNumber": 820
+    },
+    {
+      "term": "지갑",
+      "translation": "Kashalok",
+      "sourcePage": 11,
+      "sourceNumber": 821
+    },
+    {
+      "term": "지금",
+      "translation": "Xozir",
+      "sourcePage": 11,
+      "sourceNumber": 822
+    },
+    {
+      "term": "지난달",
+      "translation": "O’tgan oy",
+      "sourcePage": 11,
+      "sourceNumber": 823
+    },
+    {
+      "term": "지난번",
+      "translation": "O’tgan safar",
+      "sourcePage": 11,
+      "sourceNumber": 824
+    },
+    {
+      "term": "지난주",
+      "translation": "O’tgan xafta",
+      "sourcePage": 11,
+      "sourceNumber": 825
+    },
+    {
+      "term": "지도",
+      "translation": "Xarita",
+      "sourcePage": 11,
+      "sourceNumber": 826
+    },
+    {
+      "term": "지방",
+      "translation": "Tuman/viloyat",
+      "sourcePage": 11,
+      "sourceNumber": 827
+    },
+    {
+      "term": "지우개",
+      "translation": "O’chirg’ich",
+      "sourcePage": 11,
+      "sourceNumber": 828
+    },
+    {
+      "term": "지하",
+      "translation": "Yer osti",
+      "sourcePage": 11,
+      "sourceNumber": 829
+    },
+    {
+      "term": "지하도",
+      "translation": "Yer osti yo’li",
+      "sourcePage": 11,
+      "sourceNumber": 830
+    },
+    {
+      "term": "지하철",
+      "translation": "Metro",
+      "sourcePage": 11,
+      "sourceNumber": 831
+    },
+    {
+      "term": "지하철역",
+      "translation": "Metro vogzali",
+      "sourcePage": 11,
+      "sourceNumber": 832
+    },
+    {
+      "term": "직업",
+      "translation": "Kasb",
+      "sourcePage": 11,
+      "sourceNumber": 833
+    },
+    {
+      "term": "직원",
+      "translation": "Ishchi",
+      "sourcePage": 11,
+      "sourceNumber": 834
+    },
+    {
+      "term": "직장",
+      "translation": "Ishxona",
+      "sourcePage": 11,
+      "sourceNumber": 835
+    },
+    {
+      "term": "진달래",
+      "translation": "Azaliya guli",
+      "sourcePage": 11,
+      "sourceNumber": 836
+    },
+    {
+      "term": "질",
+      "translation": "Sifat",
+      "sourcePage": 11,
+      "sourceNumber": 837
+    },
+    {
+      "term": "짐",
+      "translation": "Yuk",
+      "sourcePage": 11,
+      "sourceNumber": 838
+    },
+    {
+      "term": "집",
+      "translation": "Uy",
+      "sourcePage": 11,
+      "sourceNumber": 839
+    },
+    {
+      "term": "짜리",
+      "translation": "-lik(qo’shimcha)",
+      "sourcePage": 11,
+      "sourceNumber": 840
+    },
+    {
+      "term": "쪽",
+      "translation": "Tomon",
+      "sourcePage": 11,
+      "sourceNumber": 841
+    },
+    {
+      "term": "찌개",
+      "translation": "Sho’rva",
+      "sourcePage": 11,
+      "sourceNumber": 842
+    },
+    {
+      "term": "차",
+      "translation": "Mashina/choy",
+      "sourcePage": 11,
+      "sourceNumber": 843
+    },
+    {
+      "term": "창문",
+      "translation": "Deraza",
+      "sourcePage": 11,
+      "sourceNumber": 844
+    },
+    {
+      "term": "채소",
+      "translation": "Sabzavot",
+      "sourcePage": 11,
+      "sourceNumber": 845
+    },
+    {
+      "term": "책",
+      "translation": "Kitob",
+      "sourcePage": 11,
+      "sourceNumber": 846
+    },
+    {
+      "term": "책상",
+      "translation": "Parta",
+      "sourcePage": 11,
+      "sourceNumber": 847
+    },
+    {
+      "term": "책장",
+      "translation": "Kitob javon",
+      "sourcePage": 11,
+      "sourceNumber": 848
+    },
+    {
+      "term": "처음",
+      "translation": "Ilk bor",
+      "sourcePage": 11,
+      "sourceNumber": 849
+    },
+    {
+      "term": "철",
+      "translation": "Fasl/mavsum/aql",
+      "sourcePage": 11,
+      "sourceNumber": 850
+    },
+    {
+      "term": "청바지",
+      "translation": "Jinsa shim",
+      "sourcePage": 11,
+      "sourceNumber": 851
+    },
+    {
+      "term": "청소기",
+      "translation": "Changyutgich",
+      "sourcePage": 11,
+      "sourceNumber": 852
+    },
+    {
+      "term": "초급",
+      "translation": "Boshlang’ich daraja",
+      "sourcePage": 11,
+      "sourceNumber": 853
+    },
+    {
+      "term": "초등학교",
+      "translation": "Boshlang’ich maktab",
+      "sourcePage": 11,
+      "sourceNumber": 854
+    },
+    {
+      "term": "초등학생",
+      "translation": "Boshlang’ich o’quvchi",
+      "sourcePage": 11,
+      "sourceNumber": 855
+    },
+    {
+      "term": "초록색",
+      "translation": "Yashil",
+      "sourcePage": 11,
+      "sourceNumber": 856
+    },
+    {
+      "term": "초콜릿",
+      "translation": "Shokolad",
+      "sourcePage": 11,
+      "sourceNumber": 857
+    },
+    {
+      "term": "최고",
+      "translation": "Eng yaxshi",
+      "sourcePage": 11,
+      "sourceNumber": 858
+    },
+    {
+      "term": "추석",
+      "translation": "Xosil bayrami",
+      "sourcePage": 11,
+      "sourceNumber": 859
+    },
+    {
+      "term": "추억",
+      "translation": "Xotira",
+      "sourcePage": 11,
+      "sourceNumber": 860
+    },
+    {
+      "term": "축구",
+      "translation": "Futbol",
+      "sourcePage": 11,
+      "sourceNumber": 861
+    },
+    {
+      "term": "축제",
+      "translation": "Tadbir/festival",
+      "sourcePage": 11,
+      "sourceNumber": 862
+    },
+    {
+      "term": "출구",
+      "translation": "Chiqish",
+      "sourcePage": 11,
+      "sourceNumber": 863
+    },
+    {
+      "term": "출장",
+      "translation": "Xizmat safari",
+      "sourcePage": 11,
+      "sourceNumber": 864
+    },
+    {
+      "term": "춤",
+      "translation": "Raqs",
+      "sourcePage": 11,
+      "sourceNumber": 865
+    },
+    {
+      "term": "취미",
+      "translation": "Xobbi",
+      "sourcePage": 11,
+      "sourceNumber": 866
+    },
+    {
+      "term": "층",
+      "translation": "Qavat",
+      "sourcePage": 11,
+      "sourceNumber": 867
+    },
+    {
+      "term": "치과",
+      "translation": "Tish shifokori",
+      "sourcePage": 11,
+      "sourceNumber": 868
+    },
+    {
+      "term": "치료",
+      "translation": "Davolash",
+      "sourcePage": 11,
+      "sourceNumber": 869
+    },
+    {
+      "term": "치마",
+      "translation": "Yubka",
+      "sourcePage": 11,
+      "sourceNumber": 870
+    },
+    {
+      "term": "치약",
+      "translation": "Tish pasta",
+      "sourcePage": 11,
+      "sourceNumber": 871
+    },
+    {
+      "term": "친구",
+      "translation": "Do’st",
+      "sourcePage": 11,
+      "sourceNumber": 872
+    },
+    {
+      "term": "친척",
+      "translation": "Qarindosh",
+      "sourcePage": 11,
+      "sourceNumber": 873
+    },
+    {
+      "term": "칠월",
+      "translation": "Iyul",
+      "sourcePage": 11,
+      "sourceNumber": 874
+    },
+    {
+      "term": "칠판",
+      "translation": "Doska",
+      "sourcePage": 11,
+      "sourceNumber": 875
+    },
+    {
+      "term": "침대",
+      "translation": "Krovat",
+      "sourcePage": 11,
+      "sourceNumber": 876
+    },
+    {
+      "term": "칫솔",
+      "translation": "Tish cho’tka",
+      "sourcePage": 11,
+      "sourceNumber": 877
+    },
+    {
+      "term": "카드",
+      "translation": "Karta",
+      "sourcePage": 11,
+      "sourceNumber": 878
+    },
+    {
+      "term": "카레",
+      "translation": "kali(hind ovqati)",
+      "sourcePage": 11,
+      "sourceNumber": 879
+    },
+    {
+      "term": "카메라",
+      "translation": "Kamera",
+      "sourcePage": 11,
+      "sourceNumber": 880
+    },
+    {
+      "term": "카펫",
+      "translation": "Gilom",
+      "sourcePage": 11,
+      "sourceNumber": 881
+    },
+    {
+      "term": "칼",
+      "translation": "Pichoq",
+      "sourcePage": 11,
+      "sourceNumber": 882
+    },
+    {
+      "term": "캐나다",
+      "translation": "Kanada",
+      "sourcePage": 11,
+      "sourceNumber": 883
+    },
+    {
+      "term": "커피",
+      "translation": "Kofe",
+      "sourcePage": 11,
+      "sourceNumber": 884
+    },
+    {
+      "term": "커피숍",
+      "translation": "Qahvaxona",
+      "sourcePage": 11,
+      "sourceNumber": 885
+    },
+    {
+      "term": "컴퓨터",
+      "translation": "Kompyuter",
+      "sourcePage": 11,
+      "sourceNumber": 886
+    },
+    {
+      "term": "컵",
+      "translation": "Krushka",
+      "sourcePage": 11,
+      "sourceNumber": 887
+    },
+    {
+      "term": "케이크",
+      "translation": "Tort",
+      "sourcePage": 11,
+      "sourceNumber": 888
+    },
+    {
+      "term": "코",
+      "translation": "Burun",
+      "sourcePage": 11,
+      "sourceNumber": 889
+    },
+    {
+      "term": "코트",
+      "translation": "Kurtka",
+      "sourcePage": 11,
+      "sourceNumber": 890
+    },
+    {
+      "term": "코피",
+      "translation": "Burun qonashi",
+      "sourcePage": 11,
+      "sourceNumber": 891
+    },
+    {
+      "term": "콜라",
+      "translation": "Koka Kola",
+      "sourcePage": 11,
+      "sourceNumber": 892
+    },
+    {
+      "term": "콧물",
+      "translation": "Burun oqishi",
+      "sourcePage": 11,
+      "sourceNumber": 893
+    },
+    {
+      "term": "콩",
+      "translation": "No’xat",
+      "sourcePage": 11,
+      "sourceNumber": 894
+    },
+    {
+      "term": "크기",
+      "translation": "Kattalik",
+      "sourcePage": 11,
+      "sourceNumber": 895
+    },
+    {
+      "term": "크리스마스",
+      "translation": "Yangi yil",
+      "sourcePage": 11,
+      "sourceNumber": 896
+    },
+    {
+      "term": "키",
+      "translation": "Bo’y",
+      "sourcePage": 11,
+      "sourceNumber": 897
+    },
+    {
+      "term": "킬로그램",
+      "translation": "Kilogramm",
+      "sourcePage": 11,
+      "sourceNumber": 898
+    },
+    {
+      "term": "킬로미터",
+      "translation": "Kilometr",
+      "sourcePage": 11,
+      "sourceNumber": 899
+    },
+    {
+      "term": "탁구",
+      "translation": "Stol tennisi",
+      "sourcePage": 11,
+      "sourceNumber": 900
+    },
+    {
+      "term": "태국",
+      "translation": "Tailand",
+      "sourcePage": 12,
+      "sourceNumber": 901
+    },
+    {
+      "term": "태권도",
+      "translation": "Takvando",
+      "sourcePage": 12,
+      "sourceNumber": 902
+    },
+    {
+      "term": "태풍",
+      "translation": "Tayfun",
+      "sourcePage": 12,
+      "sourceNumber": 903
+    },
+    {
+      "term": "택시",
+      "translation": "Taksi",
+      "sourcePage": 12,
+      "sourceNumber": 904
+    },
+    {
+      "term": "터미널",
+      "translation": "So’nggi bekat",
+      "sourcePage": 12,
+      "sourceNumber": 905
+    },
+    {
+      "term": "테니스",
+      "translation": "Tennis",
+      "sourcePage": 12,
+      "sourceNumber": 906
+    },
+    {
+      "term": "테이블",
+      "translation": "Stol",
+      "sourcePage": 12,
+      "sourceNumber": 907
+    },
+    {
+      "term": "텔레비전",
+      "translation": "Televizor",
+      "sourcePage": 12,
+      "sourceNumber": 908
+    },
+    {
+      "term": "토마토",
+      "translation": "Pomidor",
+      "sourcePage": 12,
+      "sourceNumber": 909
+    },
+    {
+      "term": "토요일",
+      "translation": "Shanba",
+      "sourcePage": 12,
+      "sourceNumber": 910
+    },
+    {
+      "term": "통",
+      "translation": "Xat",
+      "sourcePage": 12,
+      "sourceNumber": 911
+    },
+    {
+      "term": "통장",
+      "translation": "Kartochka",
+      "sourcePage": 12,
+      "sourceNumber": 912
+    },
+    {
+      "term": "특징",
+      "translation": "Xususiyat",
+      "sourcePage": 12,
+      "sourceNumber": 913
+    },
+    {
+      "term": "티셔츠",
+      "translation": "Futbolka",
+      "sourcePage": 12,
+      "sourceNumber": 914
+    },
+    {
+      "term": "팀",
+      "translation": "Gurux",
+      "sourcePage": 12,
+      "sourceNumber": 915
+    },
+    {
+      "term": "파",
+      "translation": "Ko’kpiyoz",
+      "sourcePage": 12,
+      "sourceNumber": 916
+    },
+    {
+      "term": "파란색",
+      "translation": "Havorang",
+      "sourcePage": 12,
+      "sourceNumber": 917
+    },
+    {
+      "term": "파리",
+      "translation": "Pashsha/parij",
+      "sourcePage": 12,
+      "sourceNumber": 918
+    },
+    {
+      "term": "파티",
+      "translation": "O’tirish/kecha",
+      "sourcePage": 12,
+      "sourceNumber": 919
+    },
+    {
+      "term": "팔",
+      "translation": "Qo’l/8",
+      "sourcePage": 12,
+      "sourceNumber": 920
+    },
+    {
+      "term": "팔월",
+      "translation": "Avgust",
+      "sourcePage": 12,
+      "sourceNumber": 921
+    },
+    {
+      "term": "패션",
+      "translation": "Fason",
+      "sourcePage": 12,
+      "sourceNumber": 922
+    },
+    {
+      "term": "편지",
+      "translation": "Xat",
+      "sourcePage": 12,
+      "sourceNumber": 923
+    },
+    {
+      "term": "평일",
+      "translation": "Ish kunlari",
+      "sourcePage": 12,
+      "sourceNumber": 924
+    },
+    {
+      "term": "포도",
+      "translation": "Uzum",
+      "sourcePage": 12,
+      "sourceNumber": 925
+    },
+    {
+      "term": "포장",
+      "translation": "Upakofka qilish",
+      "sourcePage": 12,
+      "sourceNumber": 926
+    },
+    {
+      "term": "표",
+      "translation": "Bilet",
+      "sourcePage": 12,
+      "sourceNumber": 927
+    },
+    {
+      "term": "표현",
+      "translation": "Ifoda/qo’shimcha",
+      "sourcePage": 12,
+      "sourceNumber": 928
+    },
+    {
+      "term": "풀",
+      "translation": "Maysa/kley",
+      "sourcePage": 12,
+      "sourceNumber": 929
+    },
+    {
+      "term": "프랑스",
+      "translation": "Fransiya",
+      "sourcePage": 12,
+      "sourceNumber": 930
+    },
+    {
+      "term": "프로그램",
+      "translation": "Dastur",
+      "sourcePage": 12,
+      "sourceNumber": 931
+    },
+    {
+      "term": "피아노",
+      "translation": "Pianina",
+      "sourcePage": 12,
+      "sourceNumber": 932
+    },
+    {
+      "term": "피자",
+      "translation": "Pitsa",
+      "sourcePage": 12,
+      "sourceNumber": 933
+    },
+    {
+      "term": "필름",
+      "translation": "Film",
+      "sourcePage": 12,
+      "sourceNumber": 934
+    },
+    {
+      "term": "필통",
+      "translation": "Qalamdon",
+      "sourcePage": 12,
+      "sourceNumber": 935
+    },
+    {
+      "term": "하늘",
+      "translation": "Osmon",
+      "sourcePage": 12,
+      "sourceNumber": 936
+    },
+    {
+      "term": "하늘색",
+      "translation": "Osmonrang",
+      "sourcePage": 12,
+      "sourceNumber": 937
+    },
+    {
+      "term": "하루",
+      "translation": "Bir kun",
+      "sourcePage": 12,
+      "sourceNumber": 938
+    },
+    {
+      "term": "하숙",
+      "translation": "Ijara",
+      "sourcePage": 12,
+      "sourceNumber": 939
+    },
+    {
+      "term": "하숙집",
+      "translation": "Ijara uy",
+      "sourcePage": 12,
+      "sourceNumber": 940
+    },
+    {
+      "term": "하얀색",
+      "translation": "Oq rang",
+      "sourcePage": 12,
+      "sourceNumber": 941
+    },
+    {
+      "term": "학교",
+      "translation": "Maktab",
+      "sourcePage": 12,
+      "sourceNumber": 942
+    },
+    {
+      "term": "학기",
+      "translation": "Semestr",
+      "sourcePage": 12,
+      "sourceNumber": 943
+    },
+    {
+      "term": "학년",
+      "translation": "O’quv yili",
+      "sourcePage": 12,
+      "sourceNumber": 944
+    },
+    {
+      "term": "학생",
+      "translation": "O’quvchi",
+      "sourcePage": 12,
+      "sourceNumber": 945
+    },
+    {
+      "term": "학생증",
+      "translation": "O’quvchi bejiki",
+      "sourcePage": 12,
+      "sourceNumber": 946
+    },
+    {
+      "term": "학원",
+      "translation": "O’quv markazi",
+      "sourcePage": 12,
+      "sourceNumber": 947
+    },
+    {
+      "term": "한강",
+      "translation": "Han daryosi",
+      "sourcePage": 12,
+      "sourceNumber": 948
+    },
+    {
+      "term": "한국",
+      "translation": "Koreya",
+      "sourcePage": 12,
+      "sourceNumber": 949
+    },
+    {
+      "term": "한국어",
+      "translation": "Koreys tili",
+      "sourcePage": 12,
+      "sourceNumber": 950
+    },
+    {
+      "term": "한글",
+      "translation": "Alifbo",
+      "sourcePage": 12,
+      "sourceNumber": 951
+    },
+    {
+      "term": "한번",
+      "translation": "Bir marta",
+      "sourcePage": 12,
+      "sourceNumber": 952
+    },
+    {
+      "term": "한복",
+      "translation": "Koreya milliy kiyimi",
+      "sourcePage": 12,
+      "sourceNumber": 953
+    },
+    {
+      "term": "한식",
+      "translation": "Koreys ovqati",
+      "sourcePage": 12,
+      "sourceNumber": 954
+    },
+    {
+      "term": "한자",
+      "translation": "Iyeroglif",
+      "sourcePage": 12,
+      "sourceNumber": 955
+    },
+    {
+      "term": "할머니",
+      "translation": "Buvi",
+      "sourcePage": 12,
+      "sourceNumber": 956
+    },
+    {
+      "term": "할아버지",
+      "translation": "Opoqi",
+      "sourcePage": 12,
+      "sourceNumber": 957
+    },
+    {
+      "term": "할인",
+      "translation": "Narxni tushib berish",
+      "sourcePage": 12,
+      "sourceNumber": 958
+    },
+    {
+      "term": "합격",
+      "translation": "Imtixondan o’tish",
+      "sourcePage": 12,
+      "sourceNumber": 959
+    },
+    {
+      "term": "해",
+      "translation": "Yil/quyosh",
+      "sourcePage": 12,
+      "sourceNumber": 960
+    },
+    {
+      "term": "해외",
+      "translation": "Chet el",
+      "sourcePage": 12,
+      "sourceNumber": 961
+    },
+    {
+      "term": "해외여행",
+      "translation": "Chetel sayohati",
+      "sourcePage": 12,
+      "sourceNumber": 962
+    },
+    {
+      "term": "핸드폰",
+      "translation": "Qo’l telfon",
+      "sourcePage": 12,
+      "sourceNumber": 963
+    },
+    {
+      "term": "햄버거",
+      "translation": "Gamburger",
+      "sourcePage": 12,
+      "sourceNumber": 964
+    },
+    {
+      "term": "햇빛",
+      "translation": "Quyosh nuri",
+      "sourcePage": 12,
+      "sourceNumber": 965
+    },
+    {
+      "term": "행복",
+      "translation": "Baxt",
+      "sourcePage": 12,
+      "sourceNumber": 966
+    },
+    {
+      "term": "행사",
+      "translation": "Tadbir",
+      "sourcePage": 12,
+      "sourceNumber": 967
+    },
+    {
+      "term": "허리",
+      "translation": "Bel",
+      "sourcePage": 12,
+      "sourceNumber": 968
+    },
+    {
+      "term": "현금",
+      "translation": "Naqd pul",
+      "sourcePage": 12,
+      "sourceNumber": 969
+    },
+    {
+      "term": "현재",
+      "translation": "Xozirgi zamon",
+      "sourcePage": 12,
+      "sourceNumber": 970
+    },
+    {
+      "term": "형",
+      "translation": "Aka",
+      "sourcePage": 12,
+      "sourceNumber": 971
+    },
+    {
+      "term": "형제",
+      "translation": "Aka uka",
+      "sourcePage": 12,
+      "sourceNumber": 972
+    },
+    {
+      "term": "호랑이",
+      "translation": "Yo’lbars",
+      "sourcePage": 12,
+      "sourceNumber": 973
+    },
+    {
+      "term": "호수",
+      "translation": "Ko’l",
+      "sourcePage": 12,
+      "sourceNumber": 974
+    },
+    {
+      "term": "호스",
+      "translation": "Shlanka",
+      "sourcePage": 12,
+      "sourceNumber": 975
+    },
+    {
+      "term": "호주",
+      "translation": "Avstraliya",
+      "sourcePage": 12,
+      "sourceNumber": 976
+    },
+    {
+      "term": "호텔",
+      "translation": "Mehmonxona",
+      "sourcePage": 12,
+      "sourceNumber": 977
+    },
+    {
+      "term": "혼자",
+      "translation": "Yolg’iz",
+      "sourcePage": 12,
+      "sourceNumber": 978
+    },
+    {
+      "term": "홈페이지",
+      "translation": "Veb sahifa",
+      "sourcePage": 12,
+      "sourceNumber": 979
+    },
+    {
+      "term": "홍차",
+      "translation": "Qora choy",
+      "sourcePage": 12,
+      "sourceNumber": 980
+    },
+    {
+      "term": "화",
+      "translation": "Jaxl",
+      "sourcePage": 12,
+      "sourceNumber": 981
+    },
+    {
+      "term": "화가",
+      "translation": "Rassom",
+      "sourcePage": 12,
+      "sourceNumber": 982
+    },
+    {
+      "term": "화요일",
+      "translation": "Seshanba",
+      "sourcePage": 12,
+      "sourceNumber": 983
+    },
+    {
+      "term": "화장실",
+      "translation": "Xojatxona",
+      "sourcePage": 12,
+      "sourceNumber": 984
+    },
+    {
+      "term": "화장",
+      "translation": "Pardoz qilish",
+      "sourcePage": 12,
+      "sourceNumber": 985
+    },
+    {
+      "term": "화장품",
+      "translation": "Pardoz buyumi",
+      "sourcePage": 12,
+      "sourceNumber": 986
+    },
+    {
+      "term": "환자",
+      "translation": "Bemor",
+      "sourcePage": 12,
+      "sourceNumber": 987
+    },
+    {
+      "term": "회사",
+      "translation": "Firma",
+      "sourcePage": 12,
+      "sourceNumber": 988
+    },
+    {
+      "term": "회사원",
+      "translation": "Firma xodimi",
+      "sourcePage": 12,
+      "sourceNumber": 989
+    },
+    {
+      "term": "회색",
+      "translation": "Kul rang",
+      "sourcePage": 12,
+      "sourceNumber": 990
+    },
+    {
+      "term": "회의",
+      "translation": "Majlis",
+      "sourcePage": 13,
+      "sourceNumber": 991
+    },
+    {
+      "term": "횡단보도",
+      "translation": "Piyodalar o’tish yo’li",
+      "sourcePage": 13,
+      "sourceNumber": 992
+    },
+    {
+      "term": "후",
+      "translation": "Keyin",
+      "sourcePage": 13,
+      "sourceNumber": 993
+    },
+    {
+      "term": "후배",
+      "translation": "Ukaxon",
+      "sourcePage": 13,
+      "sourceNumber": 994
+    },
+    {
+      "term": "후식",
+      "translation": "Disert",
+      "sourcePage": 13,
+      "sourceNumber": 995
+    },
+    {
+      "term": "휴가",
+      "translation": "Ta’til",
+      "sourcePage": 13,
+      "sourceNumber": 996
+    },
+    {
+      "term": "휴대전화",
+      "translation": "Mobil telefon",
+      "sourcePage": 13,
+      "sourceNumber": 997
+    },
+    {
+      "term": "휴대폰",
+      "translation": "Mobil telefon",
+      "sourcePage": 13,
+      "sourceNumber": 998
+    },
+    {
+      "term": "휴식",
+      "translation": "Tanaffus",
+      "sourcePage": 13,
+      "sourceNumber": 999
+    },
+    {
+      "term": "휴일",
+      "translation": "Xordiq kun",
+      "sourcePage": 13,
+      "sourceNumber": 1000
+    },
+    {
+      "term": "휴지",
+      "translation": "Bumaga",
+      "sourcePage": 13,
+      "sourceNumber": 1001
+    },
+    {
+      "term": "휴지통",
+      "translation": "Bumaga idish",
+      "sourcePage": 13,
+      "sourceNumber": 1002
+    },
+    {
+      "term": "흰색",
+      "translation": "Oq rang",
+      "sourcePage": 13,
+      "sourceNumber": 1003
+    },
+    {
+      "term": "힘",
+      "translation": "Kuch",
+      "sourcePage": 13,
+      "sourceNumber": 1004
+    },
+    {
+      "term": "가다",
+      "translation": "Ketmoq/bormoq",
+      "sourcePage": 14,
+      "sourceNumber": 1
+    },
+    {
+      "term": "가르치다",
+      "translation": "O’rgatmoq",
+      "sourcePage": 14,
+      "sourceNumber": 2
+    },
+    {
+      "term": "가져가다",
+      "translation": "Olib ketmoq",
+      "sourcePage": 14,
+      "sourceNumber": 3
+    },
+    {
+      "term": "가져오다",
+      "translation": "Olib kelmoq",
+      "sourcePage": 14,
+      "sourceNumber": 4
+    },
+    {
+      "term": "가지다",
+      "translation": "Olmoq/ega bo’lmoq",
+      "sourcePage": 14,
+      "sourceNumber": 5
+    },
+    {
+      "term": "갈아타다",
+      "translation": "Peresadka qilmoq",
+      "sourcePage": 14,
+      "sourceNumber": 6
+    },
+    {
+      "term": "감다",
+      "translation": "O’ramoq/ko’zni yummoq",
+      "sourcePage": 14,
+      "sourceNumber": 7
+    },
+    {
+      "term": "감사하다",
+      "translation": "Minnatdor bo’lmoq",
+      "sourcePage": 14,
+      "sourceNumber": 8
+    },
+    {
+      "term": "갖다",
+      "translation": "Ega bo’lmoq",
+      "sourcePage": 14,
+      "sourceNumber": 9
+    },
+    {
+      "term": "걱정하다",
+      "translation": "Xavotirlanmoq",
+      "sourcePage": 14,
+      "sourceNumber": 10
+    },
+    {
+      "term": "건너가다",
+      "translation": "Kesib o’tmoq",
+      "sourcePage": 14,
+      "sourceNumber": 11
+    },
+    {
+      "term": "건너다",
+      "translation": "Yo’ldan O’tmoq",
+      "sourcePage": 14,
+      "sourceNumber": 12
+    },
+    {
+      "term": "걷다",
+      "translation": "Yurmoq",
+      "sourcePage": 14,
+      "sourceNumber": 13
+    },
+    {
+      "term": "걸다",
+      "translation": "Ilmoq",
+      "sourcePage": 14,
+      "sourceNumber": 14
+    },
+    {
+      "term": "걸리다",
+      "translation": "Ilinmoq/vaqt ketmoq",
+      "sourcePage": 14,
+      "sourceNumber": 15
+    },
+    {
+      "term": "걸어가다",
+      "translation": "Piyoda bormoq",
+      "sourcePage": 14,
+      "sourceNumber": 16
+    },
+    {
+      "term": "걸어오다",
+      "translation": "Piyoda kelmoq",
+      "sourcePage": 14,
+      "sourceNumber": 17
+    },
+    {
+      "term": "결석하다",
+      "translation": "Dars qoldirmoq",
+      "sourcePage": 14,
+      "sourceNumber": 18
+    },
+    {
+      "term": "결정하다",
+      "translation": "Qaror qilmoq",
+      "sourcePage": 14,
+      "sourceNumber": 19
+    },
+    {
+      "term": "결혼하다",
+      "translation": "Turmush qurmoq",
+      "sourcePage": 14,
+      "sourceNumber": 20
+    },
+    {
+      "term": "계산하다",
+      "translation": "Hisoblamoq",
+      "sourcePage": 14,
+      "sourceNumber": 21
+    },
+    {
+      "term": "계시다",
+      "translation": "Bor",
+      "sourcePage": 14,
+      "sourceNumber": 22
+    },
+    {
+      "term": "고르다",
+      "translation": "Tanlamoq",
+      "sourcePage": 14,
+      "sourceNumber": 23
+    },
+    {
+      "term": "고치다",
+      "translation": "Tuzatmoq",
+      "sourcePage": 14,
+      "sourceNumber": 24
+    },
+    {
+      "term": "공부하다",
+      "translation": "O’qimoq(joyda)",
+      "sourcePage": 14,
+      "sourceNumber": 25
+    },
+    {
+      "term": "관광하다",
+      "translation": "Sayoxat qilmoq",
+      "sourcePage": 14,
+      "sourceNumber": 26
+    },
+    {
+      "term": "구경하다",
+      "translation": "Tomosha qilmoq",
+      "sourcePage": 14,
+      "sourceNumber": 27
+    },
+    {
+      "term": "구하다",
+      "translation": "Topmoq",
+      "sourcePage": 14,
+      "sourceNumber": 28
+    },
+    {
+      "term": "굽다",
+      "translation": "Pishirmoq",
+      "sourcePage": 14,
+      "sourceNumber": 29
+    },
+    {
+      "term": "그리다",
+      "translation": "Chizmoq",
+      "sourcePage": 14,
+      "sourceNumber": 30
+    },
+    {
+      "term": "그치다",
+      "translation": "Tugamoq/tinmoq",
+      "sourcePage": 14,
+      "sourceNumber": 31
+    },
+    {
+      "term": "기다리다",
+      "translation": "Kutmoq",
+      "sourcePage": 14,
+      "sourceNumber": 32
+    },
+    {
+      "term": "기르다",
+      "translation": "Boqmoq",
+      "sourcePage": 14,
+      "sourceNumber": 33
+    },
+    {
+      "term": "기뻐하다",
+      "translation": "Hursand bo’lmoq",
+      "sourcePage": 14,
+      "sourceNumber": 34
+    },
+    {
+      "term": "기억하다",
+      "translation": "Eslamoq",
+      "sourcePage": 14,
+      "sourceNumber": 35
+    },
+    {
+      "term": "긴장되다",
+      "translation": "Hayajonlanmoq",
+      "sourcePage": 14,
+      "sourceNumber": 36
+    },
+    {
+      "term": "길다",
+      "translation": "Uzun",
+      "sourcePage": 14,
+      "sourceNumber": 37
+    },
+    {
+      "term": "깎다",
+      "translation": "Kesmoq/archmoq",
+      "sourcePage": 14,
+      "sourceNumber": 38
+    },
+    {
+      "term": "깨다",
+      "translation": "Sindirmoq/uyg’onmoq",
+      "sourcePage": 14,
+      "sourceNumber": 39
+    },
+    {
+      "term": "깨지다",
+      "translation": "Sinmoq",
+      "sourcePage": 14,
+      "sourceNumber": 40
+    },
+    {
+      "term": "꺼내다",
+      "translation": "Ichidan olmoq",
+      "sourcePage": 14,
+      "sourceNumber": 41
+    },
+    {
+      "term": "꾸다",
+      "translation": "Tush ko’rmoq",
+      "sourcePage": 14,
+      "sourceNumber": 42
+    },
+    {
+      "term": "끄다",
+      "translation": "O’chirmoq(elektrni)",
+      "sourcePage": 14,
+      "sourceNumber": 43
+    },
+    {
+      "term": "끓다",
+      "translation": "Qaynamoq",
+      "sourcePage": 14,
+      "sourceNumber": 44
+    },
+    {
+      "term": "끓이다",
+      "translation": "Qaynatmoq",
+      "sourcePage": 14,
+      "sourceNumber": 45
+    },
+    {
+      "term": "끝나다",
+      "translation": "Tugamoq",
+      "sourcePage": 14,
+      "sourceNumber": 46
+    },
+    {
+      "term": "끝내다",
+      "translation": "Tugatmoq",
+      "sourcePage": 14,
+      "sourceNumber": 47
+    },
+    {
+      "term": "끼다",
+      "translation": "Taqmoq/kiymoq",
+      "sourcePage": 14,
+      "sourceNumber": 48
+    },
+    {
+      "term": "나가다",
+      "translation": "Chiqmoq",
+      "sourcePage": 14,
+      "sourceNumber": 49
+    },
+    {
+      "term": "나누다",
+      "translation": "Bo’lmoq",
+      "sourcePage": 14,
+      "sourceNumber": 50
+    },
+    {
+      "term": "나다",
+      "translation": "Chiqmoq",
+      "sourcePage": 14,
+      "sourceNumber": 51
+    },
+    {
+      "term": "나빠지다",
+      "translation": "Yomonlashmoq",
+      "sourcePage": 14,
+      "sourceNumber": 52
+    },
+    {
+      "term": "나오다",
+      "translation": "Chiqmoq",
+      "sourcePage": 14,
+      "sourceNumber": 53
+    },
+    {
+      "term": "나타나다",
+      "translation": "Paydo bo’lmoq",
+      "sourcePage": 14,
+      "sourceNumber": 54
+    },
+    {
+      "term": "남기다",
+      "translation": "Qoldirmoq",
+      "sourcePage": 14,
+      "sourceNumber": 55
+    },
+    {
+      "term": "남다",
+      "translation": "Qolmoq",
+      "sourcePage": 14,
+      "sourceNumber": 56
+    },
+    {
+      "term": "내려가다",
+      "translation": "Tushib ketmoq",
+      "sourcePage": 14,
+      "sourceNumber": 57
+    },
+    {
+      "term": "내려오다",
+      "translation": "Tushib kelmoq",
+      "sourcePage": 14,
+      "sourceNumber": 58
+    },
+    {
+      "term": "내리다",
+      "translation": "Tushmoq",
+      "sourcePage": 14,
+      "sourceNumber": 59
+    },
+    {
+      "term": "넘다",
+      "translation": "Oshmoq",
+      "sourcePage": 14,
+      "sourceNumber": 60
+    },
+    {
+      "term": "넘어지다",
+      "translation": "Yeqilmoq",
+      "sourcePage": 14,
+      "sourceNumber": 61
+    },
+    {
+      "term": "넣다",
+      "translation": "Solmoq",
+      "sourcePage": 14,
+      "sourceNumber": 62
+    },
+    {
+      "term": "노력하다",
+      "translation": "Xarakat qilmoq",
+      "sourcePage": 14,
+      "sourceNumber": 63
+    },
+    {
+      "term": "놀다",
+      "translation": "O’ynamoq",
+      "sourcePage": 14,
+      "sourceNumber": 64
+    },
+    {
+      "term": "놀라다",
+      "translation": "Xayron qolmoq",
+      "sourcePage": 14,
+      "sourceNumber": 65
+    },
+    {
+      "term": "놓다",
+      "translation": "Qo’ymoq",
+      "sourcePage": 14,
+      "sourceNumber": 66
+    },
+    {
+      "term": "누르다",
+      "translation": "Bosmoq/ezmoq",
+      "sourcePage": 14,
+      "sourceNumber": 67
+    },
+    {
+      "term": "눕다",
+      "translation": "Yotmoq",
+      "sourcePage": 14,
+      "sourceNumber": 68
+    },
+    {
+      "term": "느끼다",
+      "translation": "Sezmoq",
+      "sourcePage": 14,
+      "sourceNumber": 69
+    },
+    {
+      "term": "늦다",
+      "translation": "Kechikmoq",
+      "sourcePage": 14,
+      "sourceNumber": 70
+    },
+    {
+      "term": "늘다",
+      "translation": "Ko’paymoq",
+      "sourcePage": 14,
+      "sourceNumber": 71
+    },
+    {
+      "term": "다녀오다",
+      "translation": "Borib kelmoq",
+      "sourcePage": 14,
+      "sourceNumber": 72
+    },
+    {
+      "term": "다니다",
+      "translation": "Qatnamoq",
+      "sourcePage": 14,
+      "sourceNumber": 73
+    },
+    {
+      "term": "다치다",
+      "translation": "Shikastlanmoq",
+      "sourcePage": 14,
+      "sourceNumber": 74
+    },
+    {
+      "term": "닦다",
+      "translation": "Artmoq/yuvmoq",
+      "sourcePage": 14,
+      "sourceNumber": 75
+    },
+    {
+      "term": "닫다",
+      "translation": "Yopmoq",
+      "sourcePage": 14,
+      "sourceNumber": 76
+    },
+    {
+      "term": "닫히다",
+      "translation": "Yopilmq",
+      "sourcePage": 14,
+      "sourceNumber": 77
+    },
+    {
+      "term": "달다",
+      "translation": "Osmoq",
+      "sourcePage": 14,
+      "sourceNumber": 78
+    },
+    {
+      "term": "달리다",
+      "translation": "Osilmoq",
+      "sourcePage": 14,
+      "sourceNumber": 79
+    },
+    {
+      "term": "닮다",
+      "translation": "O’xshamoq",
+      "sourcePage": 14,
+      "sourceNumber": 80
+    },
+    {
+      "term": "담그다",
+      "translation": "Botirmoq/bekitmoq",
+      "sourcePage": 14,
+      "sourceNumber": 81
+    },
+    {
+      "term": "대답하다",
+      "translation": "Javob bermoq",
+      "sourcePage": 14,
+      "sourceNumber": 82
+    },
+    {
+      "term": "덮다",
+      "translation": "Yopmoq/qoplamoq",
+      "sourcePage": 14,
+      "sourceNumber": 83
+    },
+    {
+      "term": "데리다",
+      "translation": "Yetaklamoq",
+      "sourcePage": 14,
+      "sourceNumber": 84
+    },
+    {
+      "term": "도와주다",
+      "translation": "Yordam bermoq",
+      "sourcePage": 14,
+      "sourceNumber": 85
+    },
+    {
+      "term": "도착하다",
+      "translation": "Yetib kelmoq",
+      "sourcePage": 14,
+      "sourceNumber": 86
+    },
+    {
+      "term": "돌아가다",
+      "translation": "Qaytib ketmoq",
+      "sourcePage": 14,
+      "sourceNumber": 87
+    },
+    {
+      "term": "돌아오다",
+      "translation": "Qaytib kelmoq",
+      "sourcePage": 14,
+      "sourceNumber": 88
+    },
+    {
+      "term": "돕다",
+      "translation": "Yordamlashmoq",
+      "sourcePage": 14,
+      "sourceNumber": 89
+    },
+    {
+      "term": "되다",
+      "translation": "Bo’lmoq",
+      "sourcePage": 14,
+      "sourceNumber": 90
+    },
+    {
+      "term": "두다",
+      "translation": "Qo’ymoq",
+      "sourcePage": 15,
+      "sourceNumber": 91
+    },
+    {
+      "term": "드리다",
+      "translation": "Bermoq",
+      "sourcePage": 15,
+      "sourceNumber": 92
+    },
+    {
+      "term": "드시다",
+      "translation": "Ichmoq/yemoq",
+      "sourcePage": 15,
+      "sourceNumber": 93
+    },
+    {
+      "term": "듣다",
+      "translation": "Eshitmoq",
+      "sourcePage": 15,
+      "sourceNumber": 94
+    },
+    {
+      "term": "들다",
+      "translation": "Ko’tarmoq/sarflamoq",
+      "sourcePage": 15,
+      "sourceNumber": 95
+    },
+    {
+      "term": "들어가다",
+      "translation": "Kirmoq",
+      "sourcePage": 15,
+      "sourceNumber": 96
+    },
+    {
+      "term": "들어오다",
+      "translation": "Kirmoq",
+      "sourcePage": 15,
+      "sourceNumber": 97
+    },
+    {
+      "term": "등산하다",
+      "translation": "Tog’ga chiqmoq",
+      "sourcePage": 15,
+      "sourceNumber": 98
+    },
+    {
+      "term": "뛰다",
+      "translation": "Sakramoq",
+      "sourcePage": 15,
+      "sourceNumber": 99
+    },
+    {
+      "term": "뜨다",
+      "translation": "Ko’tarilmoq",
+      "sourcePage": 15,
+      "sourceNumber": 100
+    },
+    {
+      "term": "마시다",
+      "translation": "Ichmoq",
+      "sourcePage": 15,
+      "sourceNumber": 101
+    },
+    {
+      "term": "만나다",
+      "translation": "Uchrashmoq",
+      "sourcePage": 15,
+      "sourceNumber": 102
+    },
+    {
+      "term": "만들다",
+      "translation": "Tayyorlamoq",
+      "sourcePage": 15,
+      "sourceNumber": 103
+    },
+    {
+      "term": "먹다",
+      "translation": "Yemoq",
+      "sourcePage": 15,
+      "sourceNumber": 104
+    },
+    {
+      "term": "모르다",
+      "translation": "Bilmaslik",
+      "sourcePage": 15,
+      "sourceNumber": 105
+    },
+    {
+      "term": "모으다",
+      "translation": "To’plamoq",
+      "sourcePage": 15,
+      "sourceNumber": 106
+    },
+    {
+      "term": "모이다",
+      "translation": "Yeg’ilmoq",
+      "sourcePage": 15,
+      "sourceNumber": 107
+    },
+    {
+      "term": "못하다",
+      "translation": "Qilolmaslik",
+      "sourcePage": 15,
+      "sourceNumber": 108
+    },
+    {
+      "term": "묻다",
+      "translation": "So’ramoq",
+      "sourcePage": 15,
+      "sourceNumber": 109
+    },
+    {
+      "term": "물어보다",
+      "translation": "So’rab ko’rmoq",
+      "sourcePage": 15,
+      "sourceNumber": 110
+    },
+    {
+      "term": "받다",
+      "translation": "Olmoq",
+      "sourcePage": 15,
+      "sourceNumber": 111
+    },
+    {
+      "term": "배우다",
+      "translation": "O’rganmoq",
+      "sourcePage": 15,
+      "sourceNumber": 112
+    },
+    {
+      "term": "버리다",
+      "translation": "Tashlamoq",
+      "sourcePage": 15,
+      "sourceNumber": 113
+    },
+    {
+      "term": "벌다",
+      "translation": "Topmoq(pul)",
+      "sourcePage": 15,
+      "sourceNumber": 114
+    },
+    {
+      "term": "벗다",
+      "translation": "Yechmoq",
+      "sourcePage": 15,
+      "sourceNumber": 115
+    },
+    {
+      "term": "보내다",
+      "translation": "Jo’natmoq",
+      "sourcePage": 15,
+      "sourceNumber": 116
+    },
+    {
+      "term": "보다",
+      "translation": "Ko’rmoq",
+      "sourcePage": 15,
+      "sourceNumber": 117
+    },
+    {
+      "term": "보이다",
+      "translation": "Ko’rinmoq",
+      "sourcePage": 15,
+      "sourceNumber": 118
+    },
+    {
+      "term": "볶다",
+      "translation": "Qovurmoq",
+      "sourcePage": 15,
+      "sourceNumber": 119
+    },
+    {
+      "term": "뵙다",
+      "translation": "Ko’rishmoq",
+      "sourcePage": 15,
+      "sourceNumber": 120
+    },
+    {
+      "term": "부르다",
+      "translation": "Chaqirmoq/kuylamoq",
+      "sourcePage": 15,
+      "sourceNumber": 121
+    },
+    {
+      "term": "부치다",
+      "translation": "Jo’natmoq/yelpimoq",
+      "sourcePage": 15,
+      "sourceNumber": 122
+    },
+    {
+      "term": "불다",
+      "translation": "Esmoq",
+      "sourcePage": 15,
+      "sourceNumber": 123
+    },
+    {
+      "term": "붓다",
+      "translation": "Quymoq/ishmoq",
+      "sourcePage": 15,
+      "sourceNumber": 124
+    },
+    {
+      "term": "붙다",
+      "translation": "Yopishmoq",
+      "sourcePage": 15,
+      "sourceNumber": 125
+    },
+    {
+      "term": "붙이다",
+      "translation": "Yopishtirmoq",
+      "sourcePage": 15,
+      "sourceNumber": 126
+    },
+    {
+      "term": "빌리다",
+      "translation": "Ijaraga olmoq",
+      "sourcePage": 15,
+      "sourceNumber": 127
+    },
+    {
+      "term": "빼다",
+      "translation": "Kesmoq/ayirmoq",
+      "sourcePage": 15,
+      "sourceNumber": 128
+    },
+    {
+      "term": "사귀다",
+      "translation": "Tanishmoq",
+      "sourcePage": 15,
+      "sourceNumber": 129
+    },
+    {
+      "term": "사다",
+      "translation": "Sotib olmoq",
+      "sourcePage": 15,
+      "sourceNumber": 130
+    },
+    {
+      "term": "사랑하다",
+      "translation": "Sevmoq",
+      "sourcePage": 15,
+      "sourceNumber": 131
+    },
+    {
+      "term": "사용하다",
+      "translation": "Foydalanmoq",
+      "sourcePage": 15,
+      "sourceNumber": 132
+    },
+    {
+      "term": "사인하다",
+      "translation": "Dasxat qo’ymoq",
+      "sourcePage": 15,
+      "sourceNumber": 133
+    },
+    {
+      "term": "산책하다",
+      "translation": "Sayr qilmoq",
+      "sourcePage": 15,
+      "sourceNumber": 134
+    },
+    {
+      "term": "살다",
+      "translation": "Yashamoq",
+      "sourcePage": 15,
+      "sourceNumber": 135
+    },
+    {
+      "term": "생각하다",
+      "translation": "O’ylamoq",
+      "sourcePage": 15,
+      "sourceNumber": 136
+    },
+    {
+      "term": "생각나다",
+      "translation": "Eslamoq",
+      "sourcePage": 15,
+      "sourceNumber": 137
+    },
+    {
+      "term": "생기다",
+      "translation": "Paydo bo’lmoq",
+      "sourcePage": 15,
+      "sourceNumber": 138
+    },
+    {
+      "term": "샤워하다",
+      "translation": "Dush qabul qilmoq",
+      "sourcePage": 15,
+      "sourceNumber": 139
+    },
+    {
+      "term": "서다",
+      "translation": "Turmoq",
+      "sourcePage": 15,
+      "sourceNumber": 140
+    },
+    {
+      "term": "선택하다",
+      "translation": "Tanlamoq",
+      "sourcePage": 15,
+      "sourceNumber": 141
+    },
+    {
+      "term": "선탠하다",
+      "translation": "Toblanmoq(oftobda)",
+      "sourcePage": 15,
+      "sourceNumber": 142
+    },
+    {
+      "term": "설명하다",
+      "translation": "Tushuntirmoq",
+      "sourcePage": 15,
+      "sourceNumber": 143
+    },
+    {
+      "term": "세수하다",
+      "translation": "Yuz qo’lni yuvmoq",
+      "sourcePage": 15,
+      "sourceNumber": 144
+    },
+    {
+      "term": "세우다",
+      "translation": "To’xtamoq",
+      "sourcePage": 15,
+      "sourceNumber": 145
+    },
+    {
+      "term": "세일하다",
+      "translation": "Chegirma bo’lmoq",
+      "sourcePage": 15,
+      "sourceNumber": 146
+    },
+    {
+      "term": "쇼핑하다",
+      "translation": "Bozor qilmoq",
+      "sourcePage": 15,
+      "sourceNumber": 147
+    },
+    {
+      "term": "쉬다",
+      "translation": "Dam olmoq",
+      "sourcePage": 15,
+      "sourceNumber": 148
+    },
+    {
+      "term": "슬퍼하다",
+      "translation": "Xafa bo’lmoq",
+      "sourcePage": 15,
+      "sourceNumber": 149
+    },
+    {
+      "term": "시키다",
+      "translation": "Buyurmoq",
+      "sourcePage": 15,
+      "sourceNumber": 150
+    },
+    {
+      "term": "신다",
+      "translation": "Kiymoq(oyoqqa)",
+      "sourcePage": 15,
+      "sourceNumber": 151
+    },
+    {
+      "term": "신청하다",
+      "translation": "Ariza bermoq",
+      "sourcePage": 15,
+      "sourceNumber": 152
+    },
+    {
+      "term": "싫어하다",
+      "translation": "Yoqtirmaslik",
+      "sourcePage": 15,
+      "sourceNumber": 153
+    },
+    {
+      "term": "싸다",
+      "translation": "O’ramoq/solmoq",
+      "sourcePage": 15,
+      "sourceNumber": 154
+    },
+    {
+      "term": "싸우다",
+      "translation": "Urushmoq",
+      "sourcePage": 15,
+      "sourceNumber": 155
+    },
+    {
+      "term": "쌓다",
+      "translation": "Yeg’moq",
+      "sourcePage": 15,
+      "sourceNumber": 156
+    },
+    {
+      "term": "쌓이다",
+      "translation": "Yeg’ilmoq",
+      "sourcePage": 15,
+      "sourceNumber": 157
+    },
+    {
+      "term": "썰다",
+      "translation": "To’gramoq",
+      "sourcePage": 15,
+      "sourceNumber": 158
+    },
+    {
+      "term": "쓰다 1",
+      "translation": "Yozmoq",
+      "sourcePage": 15,
+      "sourceNumber": 159
+    },
+    {
+      "term": "쓰다 2",
+      "translation": "Kiymoq(boshga)",
+      "sourcePage": 15,
+      "sourceNumber": 160
+    },
+    {
+      "term": "쓰다 3",
+      "translation": "Ishlatmoq",
+      "sourcePage": 15,
+      "sourceNumber": 161
+    },
+    {
+      "term": "쓰이다",
+      "translation": "Yozilmoq",
+      "sourcePage": 15,
+      "sourceNumber": 162
+    },
+    {
+      "term": "씹다",
+      "translation": "Chaynamoq",
+      "sourcePage": 15,
+      "sourceNumber": 163
+    },
+    {
+      "term": "씻다",
+      "translation": "Yuvmoq",
+      "sourcePage": 15,
+      "sourceNumber": 164
+    },
+    {
+      "term": "안내하다",
+      "translation": "Malumot bermoq",
+      "sourcePage": 15,
+      "sourceNumber": 165
+    },
+    {
+      "term": "안다",
+      "translation": "Quchoqlamoq",
+      "sourcePage": 15,
+      "sourceNumber": 166
+    },
+    {
+      "term": "앉다",
+      "translation": "O’tirmoq",
+      "sourcePage": 15,
+      "sourceNumber": 167
+    },
+    {
+      "term": "알다",
+      "translation": "Bilmoq",
+      "sourcePage": 15,
+      "sourceNumber": 168
+    },
+    {
+      "term": "알리다",
+      "translation": "Bildirmoq",
+      "sourcePage": 15,
+      "sourceNumber": 169
+    },
+    {
+      "term": "얘기하다",
+      "translation": "Suhbatlashmoq",
+      "sourcePage": 15,
+      "sourceNumber": 170
+    },
+    {
+      "term": "어울리다",
+      "translation": "Yarashmoq",
+      "sourcePage": 15,
+      "sourceNumber": 171
+    },
+    {
+      "term": "연습하다",
+      "translation": "Mashq qilmoq",
+      "sourcePage": 15,
+      "sourceNumber": 172
+    },
+    {
+      "term": "열다",
+      "translation": "Ochmoq",
+      "sourcePage": 15,
+      "sourceNumber": 173
+    },
+    {
+      "term": "열리다",
+      "translation": "Ochilmoq",
+      "sourcePage": 15,
+      "sourceNumber": 174
+    },
+    {
+      "term": "오다",
+      "translation": "Kelmoq",
+      "sourcePage": 15,
+      "sourceNumber": 175
+    },
+    {
+      "term": "오르다",
+      "translation": "Ko’tarilmoq/chiqmoq",
+      "sourcePage": 15,
+      "sourceNumber": 176
+    },
+    {
+      "term": "올라가다",
+      "translation": "Chiqib bormoq",
+      "sourcePage": 15,
+      "sourceNumber": 177
+    },
+    {
+      "term": "올라오다",
+      "translation": "Chiqib kelmoq",
+      "sourcePage": 15,
+      "sourceNumber": 178
+    },
+    {
+      "term": "옮기다",
+      "translation": "Ko’chirmoq",
+      "sourcePage": 15,
+      "sourceNumber": 179
+    },
+    {
+      "term": "완성하다",
+      "translation": "Oxiriga yetkazmoq",
+      "sourcePage": 15,
+      "sourceNumber": 180
+    },
+    {
+      "term": "외우다",
+      "translation": "Yodlamoq",
+      "sourcePage": 16,
+      "sourceNumber": 181
+    },
+    {
+      "term": "외출하다",
+      "translation": "Tashqariga chiqmoq",
+      "sourcePage": 16,
+      "sourceNumber": 182
+    },
+    {
+      "term": "운동하다",
+      "translation": "Shug’ullanmoq",
+      "sourcePage": 16,
+      "sourceNumber": 183
+    },
+    {
+      "term": "운전하다",
+      "translation": "Mashina haydamoq",
+      "sourcePage": 16,
+      "sourceNumber": 184
+    },
+    {
+      "term": "울다",
+      "translation": "Yeg’lamoq",
+      "sourcePage": 16,
+      "sourceNumber": 185
+    },
+    {
+      "term": "울리다",
+      "translation": "Yeg’latmoq/jiringlamoq",
+      "sourcePage": 16,
+      "sourceNumber": 186
+    },
+    {
+      "term": "움직이다",
+      "translation": "Qo’zg’almoq",
+      "sourcePage": 16,
+      "sourceNumber": 187
+    },
+    {
+      "term": "웃기다",
+      "translation": "Kuldirmoq",
+      "sourcePage": 16,
+      "sourceNumber": 188
+    },
+    {
+      "term": "웃다",
+      "translation": "Kulmoq",
+      "sourcePage": 16,
+      "sourceNumber": 189
+    },
+    {
+      "term": "원하다",
+      "translation": "Xoxlamoq",
+      "sourcePage": 16,
+      "sourceNumber": 190
+    },
+    {
+      "term": "위하다",
+      "translation": "Uchun qilmoq",
+      "sourcePage": 16,
+      "sourceNumber": 191
+    },
+    {
+      "term": "이야기하다",
+      "translation": "Suhbatlashmoq",
+      "sourcePage": 16,
+      "sourceNumber": 192
+    },
+    {
+      "term": "이해하다",
+      "translation": "Tushunmoq",
+      "sourcePage": 16,
+      "sourceNumber": 193
+    },
+    {
+      "term": "인사하다",
+      "translation": "Salomlashmoq",
+      "sourcePage": 16,
+      "sourceNumber": 194
+    },
+    {
+      "term": "일어나다",
+      "translation": "Uyg’onmoq",
+      "sourcePage": 16,
+      "sourceNumber": 195
+    },
+    {
+      "term": "일하다",
+      "translation": "Ishlamoq",
+      "sourcePage": 16,
+      "sourceNumber": 196
+    },
+    {
+      "term": "읽다",
+      "translation": "O’qimoq",
+      "sourcePage": 16,
+      "sourceNumber": 197
+    },
+    {
+      "term": "잃다",
+      "translation": "Yo’qotmoq",
+      "sourcePage": 16,
+      "sourceNumber": 198
+    },
+    {
+      "term": "잃어버리다",
+      "translation": "Yo’qotib qo’ymoq",
+      "sourcePage": 16,
+      "sourceNumber": 199
+    },
+    {
+      "term": "입다",
+      "translation": "Kiymoq",
+      "sourcePage": 16,
+      "sourceNumber": 200
+    },
+    {
+      "term": "입원하다",
+      "translation": "Kasalxonaga tushmoq",
+      "sourcePage": 16,
+      "sourceNumber": 201
+    },
+    {
+      "term": "있다",
+      "translation": "Bor",
+      "sourcePage": 16,
+      "sourceNumber": 202
+    },
+    {
+      "term": "잊다",
+      "translation": "Unutmoq",
+      "sourcePage": 16,
+      "sourceNumber": 203
+    },
+    {
+      "term": "잊어버리다",
+      "translation": "Unutib qo’ymoq",
+      "sourcePage": 16,
+      "sourceNumber": 204
+    },
+    {
+      "term": "자다",
+      "translation": "Uxlamoq",
+      "sourcePage": 16,
+      "sourceNumber": 205
+    },
+    {
+      "term": "자르다",
+      "translation": "Kesmoq",
+      "sourcePage": 16,
+      "sourceNumber": 206
+    },
+    {
+      "term": "잘못하다",
+      "translation": "Xato qilmoq",
+      "sourcePage": 16,
+      "sourceNumber": 207
+    },
+    {
+      "term": "잘하다",
+      "translation": "Yaxshi bajarmoq",
+      "sourcePage": 16,
+      "sourceNumber": 208
+    },
+    {
+      "term": "잠자다",
+      "translation": "Uxlamoq",
+      "sourcePage": 16,
+      "sourceNumber": 209
+    },
+    {
+      "term": "잡다",
+      "translation": "Ushlamoq",
+      "sourcePage": 16,
+      "sourceNumber": 210
+    },
+    {
+      "term": "잡수시다",
+      "translation": "Yemoq",
+      "sourcePage": 16,
+      "sourceNumber": 211
+    },
+    {
+      "term": "적다",
+      "translation": "Yozmoq",
+      "sourcePage": 16,
+      "sourceNumber": 212
+    },
+    {
+      "term": "전하다",
+      "translation": "Yetkazmoq",
+      "sourcePage": 16,
+      "sourceNumber": 213
+    },
+    {
+      "term": "정리하다",
+      "translation": "Yeg’ishtirmoq",
+      "sourcePage": 16,
+      "sourceNumber": 214
+    },
+    {
+      "term": "정하다",
+      "translation": "Belgilamoq",
+      "sourcePage": 16,
+      "sourceNumber": 215
+    },
+    {
+      "term": "조심하다",
+      "translation": "Extiyot bo’lmoq",
+      "sourcePage": 16,
+      "sourceNumber": 216
+    },
+    {
+      "term": "졸업하다",
+      "translation": "Bitirmoq",
+      "sourcePage": 16,
+      "sourceNumber": 217
+    },
+    {
+      "term": "좋아하다",
+      "translation": "Yoqtirmoq",
+      "sourcePage": 16,
+      "sourceNumber": 218
+    },
+    {
+      "term": "주다",
+      "translation": "Bermoq",
+      "sourcePage": 16,
+      "sourceNumber": 219
+    },
+    {
+      "term": "주무시다",
+      "translation": "Uxlamoq",
+      "sourcePage": 16,
+      "sourceNumber": 220
+    },
+    {
+      "term": "주문하다",
+      "translation": "Buyurtma bermoq",
+      "sourcePage": 16,
+      "sourceNumber": 221
+    },
+    {
+      "term": "주차하다",
+      "translation": "To’xtamoq",
+      "sourcePage": 16,
+      "sourceNumber": 222
+    },
+    {
+      "term": "죽다",
+      "translation": "O’lmoq",
+      "sourcePage": 16,
+      "sourceNumber": 223
+    },
+    {
+      "term": "준비하다",
+      "translation": "Tayyorlamoq",
+      "sourcePage": 16,
+      "sourceNumber": 224
+    },
+    {
+      "term": "줄다",
+      "translation": "Kichraymoq/qisqarmoq",
+      "sourcePage": 16,
+      "sourceNumber": 225
+    },
+    {
+      "term": "즐거워하다",
+      "translation": "Miriqmoq",
+      "sourcePage": 16,
+      "sourceNumber": 226
+    },
+    {
+      "term": "즐기다",
+      "translation": "Zavqlanmoq",
+      "sourcePage": 16,
+      "sourceNumber": 227
+    },
+    {
+      "term": "지나다",
+      "translation": "O’tmoq",
+      "sourcePage": 16,
+      "sourceNumber": 228
+    },
+    {
+      "term": "지내다",
+      "translation": "O’tkazmoq",
+      "sourcePage": 16,
+      "sourceNumber": 229
+    },
+    {
+      "term": "지키다",
+      "translation": "Amal qilmoq",
+      "sourcePage": 16,
+      "sourceNumber": 230
+    },
+    {
+      "term": "질문하다",
+      "translation": "Savol bermoq",
+      "sourcePage": 16,
+      "sourceNumber": 231
+    },
+    {
+      "term": "짓다",
+      "translation": "Qurmoq/barpo qilmoq",
+      "sourcePage": 16,
+      "sourceNumber": 232
+    },
+    {
+      "term": "찍다",
+      "translation": "Rasmga tushmoq",
+      "sourcePage": 16,
+      "sourceNumber": 233
+    },
+    {
+      "term": "차다",
+      "translation": "Tepmoq/taqmoq",
+      "sourcePage": 16,
+      "sourceNumber": 234
+    },
+    {
+      "term": "차리다",
+      "translation": "Kiymoq/yozmoq",
+      "sourcePage": 16,
+      "sourceNumber": 235
+    },
+    {
+      "term": "찾다",
+      "translation": "Qidirmoq",
+      "sourcePage": 16,
+      "sourceNumber": 236
+    },
+    {
+      "term": "찾아가다",
+      "translation": "Yo’qlab bormoq",
+      "sourcePage": 16,
+      "sourceNumber": 237
+    },
+    {
+      "term": "찾아오다",
+      "translation": "Yo’qlab kelmoq",
+      "sourcePage": 16,
+      "sourceNumber": 238
+    },
+    {
+      "term": "청소하다",
+      "translation": "Tozalamoq",
+      "sourcePage": 16,
+      "sourceNumber": 239
+    },
+    {
+      "term": "초대하다",
+      "translation": "Taklif qilmoq",
+      "sourcePage": 16,
+      "sourceNumber": 240
+    },
+    {
+      "term": "추다",
+      "translation": "Raqsga tushmoq",
+      "sourcePage": 16,
+      "sourceNumber": 241
+    },
+    {
+      "term": "축하하다",
+      "translation": "Tabriklamoq",
+      "sourcePage": 16,
+      "sourceNumber": 242
+    },
+    {
+      "term": "출근하다",
+      "translation": "Ishga bormoq",
+      "sourcePage": 16,
+      "sourceNumber": 243
+    },
+    {
+      "term": "출발하다",
+      "translation": "Yo’lga chiqmoq",
+      "sourcePage": 16,
+      "sourceNumber": 244
+    },
+    {
+      "term": "춤추다",
+      "translation": "Raqsga tushmoq",
+      "sourcePage": 16,
+      "sourceNumber": 245
+    },
+    {
+      "term": "취소하다",
+      "translation": "Bekor qilmoq",
+      "sourcePage": 16,
+      "sourceNumber": 246
+    },
+    {
+      "term": "취직하다",
+      "translation": "Ishga kirmoq",
+      "sourcePage": 16,
+      "sourceNumber": 247
+    },
+    {
+      "term": "치다",
+      "translation": "O’ynamoq/cholmoq",
+      "sourcePage": 16,
+      "sourceNumber": 248
+    },
+    {
+      "term": "켜다",
+      "translation": "Yoqmoq",
+      "sourcePage": 16,
+      "sourceNumber": 249
+    },
+    {
+      "term": "타다",
+      "translation": "Chiqmoq/minmoq",
+      "sourcePage": 16,
+      "sourceNumber": 250
+    },
+    {
+      "term": "태어나다",
+      "translation": "Tug’ilmoq",
+      "sourcePage": 16,
+      "sourceNumber": 251
+    },
+    {
+      "term": "통하다",
+      "translation": "Bog’liq bo’lmoq",
+      "sourcePage": 16,
+      "sourceNumber": 252
+    },
+    {
+      "term": "퇴근하다",
+      "translation": "Ishdan qaytmoq",
+      "sourcePage": 16,
+      "sourceNumber": 253
+    },
+    {
+      "term": "퇴원하다",
+      "translation": "Kasalxonadan chiqmoq",
+      "sourcePage": 16,
+      "sourceNumber": 254
+    },
+    {
+      "term": "틀다",
+      "translation": "Yoqmoq",
+      "sourcePage": 16,
+      "sourceNumber": 255
+    },
+    {
+      "term": "틀리다",
+      "translation": "Noto’g’ri qilmoq",
+      "sourcePage": 16,
+      "sourceNumber": 256
+    },
+    {
+      "term": "팔다",
+      "translation": "Sotmoq",
+      "sourcePage": 16,
+      "sourceNumber": 257
+    },
+    {
+      "term": "펴다",
+      "translation": "Ochmoq",
+      "sourcePage": 16,
+      "sourceNumber": 258
+    },
+    {
+      "term": "풀다",
+      "translation": "Yechmoq",
+      "sourcePage": 16,
+      "sourceNumber": 259
+    },
+    {
+      "term": "피다",
+      "translation": "Ochilmoq",
+      "sourcePage": 16,
+      "sourceNumber": 260
+    },
+    {
+      "term": "피우다",
+      "translation": "Chekmoq",
+      "sourcePage": 16,
+      "sourceNumber": 261
+    },
+    {
+      "term": "하다",
+      "translation": "Qilmoq",
+      "sourcePage": 16,
+      "sourceNumber": 262
+    },
+    {
+      "term": "합격하다",
+      "translation": "Imtioxondan o’tmoq",
+      "sourcePage": 16,
+      "sourceNumber": 263
+    },
+    {
+      "term": "합의하다",
+      "translation": "Kelishuvga kelmoq",
+      "sourcePage": 16,
+      "sourceNumber": 264
+    },
+    {
+      "term": "항복하다",
+      "translation": "Taslim bo’lmoq",
+      "sourcePage": 16,
+      "sourceNumber": 265
+    },
+    {
+      "term": "해고하다",
+      "translation": "Ishdan bo’shatmoq",
+      "sourcePage": 16,
+      "sourceNumber": 266
+    },
+    {
+      "term": "화나다",
+      "translation": "Jaxli chiqmoq",
+      "sourcePage": 16,
+      "sourceNumber": 267
+    },
+    {
+      "term": "화내다",
+      "translation": "So’kmoq",
+      "sourcePage": 16,
+      "sourceNumber": 268
+    },
+    {
+      "term": "확인하다",
+      "translation": "Tekshirmoq",
+      "sourcePage": 16,
+      "sourceNumber": 269
+    },
+    {
+      "term": "환영하다",
+      "translation": "Xush kelmoq",
+      "sourcePage": 16,
+      "sourceNumber": 270
+    },
+    {
+      "term": "가깝다",
+      "translation": "Yaqin",
+      "sourcePage": 17,
+      "sourceNumber": 1
+    },
+    {
+      "term": "가볍다",
+      "translation": "Yengil",
+      "sourcePage": 17,
+      "sourceNumber": 2
+    },
+    {
+      "term": "간단하다",
+      "translation": "Oddiy/sodda",
+      "sourcePage": 17,
+      "sourceNumber": 3
+    },
+    {
+      "term": "같다",
+      "translation": "O’xshash",
+      "sourcePage": 17,
+      "sourceNumber": 4
+    },
+    {
+      "term": "건강하다",
+      "translation": "Sog’lom",
+      "sourcePage": 17,
+      "sourceNumber": 5
+    },
+    {
+      "term": "고맙다",
+      "translation": "Rahmat",
+      "sourcePage": 17,
+      "sourceNumber": 6
+    },
+    {
+      "term": "고프다",
+      "translation": "Qorin ochmoq",
+      "sourcePage": 17,
+      "sourceNumber": 7
+    },
+    {
+      "term": "곱다",
+      "translation": "Chiroyli",
+      "sourcePage": 17,
+      "sourceNumber": 8
+    },
+    {
+      "term": "괜찮다",
+      "translation": "Hech qisi yo’q/yaxshi",
+      "sourcePage": 17,
+      "sourceNumber": 9
+    },
+    {
+      "term": "귀엽다",
+      "translation": "Yoqimtoy",
+      "sourcePage": 17,
+      "sourceNumber": 10
+    },
+    {
+      "term": "그렇다",
+      "translation": "Shunday",
+      "sourcePage": 17,
+      "sourceNumber": 11
+    },
+    {
+      "term": "급하다",
+      "translation": "Shoshilinch",
+      "sourcePage": 17,
+      "sourceNumber": 12
+    },
+    {
+      "term": "기쁘다",
+      "translation": "Hursand",
+      "sourcePage": 17,
+      "sourceNumber": 13
+    },
+    {
+      "term": "깊다",
+      "translation": "Chuqur",
+      "sourcePage": 17,
+      "sourceNumber": 14
+    },
+    {
+      "term": "까맣다",
+      "translation": "Qora",
+      "sourcePage": 17,
+      "sourceNumber": 15
+    },
+    {
+      "term": "깨끗하다",
+      "translation": "Toza/ozoda",
+      "sourcePage": 17,
+      "sourceNumber": 16
+    },
+    {
+      "term": "나쁘다",
+      "translation": "Yomon",
+      "sourcePage": 17,
+      "sourceNumber": 17
+    },
+    {
+      "term": "날씬하다",
+      "translation": "Ozg’in",
+      "sourcePage": 17,
+      "sourceNumber": 18
+    },
+    {
+      "term": "낡다",
+      "translation": "Eski",
+      "sourcePage": 17,
+      "sourceNumber": 19
+    },
+    {
+      "term": "낮다",
+      "translation": "Past",
+      "sourcePage": 17,
+      "sourceNumber": 20
+    },
+    {
+      "term": "넓다",
+      "translation": "Keng",
+      "sourcePage": 17,
+      "sourceNumber": 21
+    },
+    {
+      "term": "높다",
+      "translation": "Baland",
+      "sourcePage": 17,
+      "sourceNumber": 22
+    },
+    {
+      "term": "느리다",
+      "translation": "Sekin",
+      "sourcePage": 17,
+      "sourceNumber": 23
+    },
+    {
+      "term": "늙다",
+      "translation": "Qari",
+      "sourcePage": 17,
+      "sourceNumber": 24
+    },
+    {
+      "term": "다르다",
+      "translation": "Boshqacha",
+      "sourcePage": 17,
+      "sourceNumber": 25
+    },
+    {
+      "term": "더럽다",
+      "translation": "Iflos/kir",
+      "sourcePage": 17,
+      "sourceNumber": 26
+    },
+    {
+      "term": "덥다",
+      "translation": "Issiq",
+      "sourcePage": 17,
+      "sourceNumber": 27
+    },
+    {
+      "term": "두껍다",
+      "translation": "Qalin",
+      "sourcePage": 17,
+      "sourceNumber": 28
+    },
+    {
+      "term": "따뜻하다",
+      "translation": "Iliq",
+      "sourcePage": 17,
+      "sourceNumber": 29
+    },
+    {
+      "term": "딱딱하다",
+      "translation": "Qattiq",
+      "sourcePage": 17,
+      "sourceNumber": 30
+    },
+    {
+      "term": "똑같다",
+      "translation": "O’xshash",
+      "sourcePage": 17,
+      "sourceNumber": 31
+    },
+    {
+      "term": "똑똑하다",
+      "translation": "Aqlli",
+      "sourcePage": 17,
+      "sourceNumber": 32
+    },
+    {
+      "term": "뚱뚱하다",
+      "translation": "Semiz",
+      "sourcePage": 17,
+      "sourceNumber": 33
+    },
+    {
+      "term": "뜨겁다",
+      "translation": "Issiq",
+      "sourcePage": 17,
+      "sourceNumber": 34
+    },
+    {
+      "term": "많다",
+      "translation": "Ko’p",
+      "sourcePage": 17,
+      "sourceNumber": 35
+    },
+    {
+      "term": "맑다",
+      "translation": "Ochiq(xavo)",
+      "sourcePage": 17,
+      "sourceNumber": 36
+    },
+    {
+      "term": "맛없다",
+      "translation": "Bemaza",
+      "sourcePage": 17,
+      "sourceNumber": 37
+    },
+    {
+      "term": "맛있다",
+      "translation": "Mazali",
+      "sourcePage": 17,
+      "sourceNumber": 38
+    },
+    {
+      "term": "맵다",
+      "translation": "Achchiq",
+      "sourcePage": 17,
+      "sourceNumber": 39
+    },
+    {
+      "term": "멀다",
+      "translation": "Uzoq",
+      "sourcePage": 17,
+      "sourceNumber": 40
+    },
+    {
+      "term": "멋있다",
+      "translation": "Olifta",
+      "sourcePage": 17,
+      "sourceNumber": 41
+    },
+    {
+      "term": "못생기다",
+      "translation": "Xunuk",
+      "sourcePage": 17,
+      "sourceNumber": 42
+    },
+    {
+      "term": "무겁다",
+      "translation": "Og’ir",
+      "sourcePage": 17,
+      "sourceNumber": 43
+    },
+    {
+      "term": "무섭다",
+      "translation": "Qo’rqinchli",
+      "sourcePage": 17,
+      "sourceNumber": 44
+    },
+    {
+      "term": "미안하다",
+      "translation": "Uzr",
+      "sourcePage": 17,
+      "sourceNumber": 45
+    },
+    {
+      "term": "바쁘다",
+      "translation": "Band",
+      "sourcePage": 17,
+      "sourceNumber": 46
+    },
+    {
+      "term": "반갑다",
+      "translation": "Hursand",
+      "sourcePage": 17,
+      "sourceNumber": 47
+    },
+    {
+      "term": "밝다",
+      "translation": "Oydin/yorug’",
+      "sourcePage": 17,
+      "sourceNumber": 48
+    },
+    {
+      "term": "배고프다",
+      "translation": "Qorin ochmoq",
+      "sourcePage": 17,
+      "sourceNumber": 49
+    },
+    {
+      "term": "배부르다",
+      "translation": "Qorin to’q",
+      "sourcePage": 17,
+      "sourceNumber": 50
+    },
+    {
+      "term": "복잡하다",
+      "translation": "Tiqilinch",
+      "sourcePage": 17,
+      "sourceNumber": 51
+    },
+    {
+      "term": "부끄럽다",
+      "translation": "Uyalmoq",
+      "sourcePage": 17,
+      "sourceNumber": 52
+    },
+    {
+      "term": "부드럽다",
+      "translation": "Yumshoq",
+      "sourcePage": 17,
+      "sourceNumber": 53
+    },
+    {
+      "term": "부지런하다",
+      "translation": "Tirishqoq",
+      "sourcePage": 17,
+      "sourceNumber": 54
+    },
+    {
+      "term": "불편하다",
+      "translation": "Noqulay",
+      "sourcePage": 17,
+      "sourceNumber": 55
+    },
+    {
+      "term": "비슷하다",
+      "translation": "O’xshash",
+      "sourcePage": 17,
+      "sourceNumber": 56
+    },
+    {
+      "term": "비싸다",
+      "translation": "Qimmat",
+      "sourcePage": 17,
+      "sourceNumber": 57
+    },
+    {
+      "term": "빠르다",
+      "translation": "Tez",
+      "sourcePage": 17,
+      "sourceNumber": 58
+    },
+    {
+      "term": "빨갛다",
+      "translation": "Qizil",
+      "sourcePage": 17,
+      "sourceNumber": 59
+    },
+    {
+      "term": "쉽다",
+      "translation": "Oson",
+      "sourcePage": 17,
+      "sourceNumber": 60
+    },
+    {
+      "term": "슬프다",
+      "translation": "Xafa",
+      "sourcePage": 17,
+      "sourceNumber": 61
+    },
+    {
+      "term": "시끄럽다",
+      "translation": "Shovqin",
+      "sourcePage": 17,
+      "sourceNumber": 62
+    },
+    {
+      "term": "시다",
+      "translation": "Nordon",
+      "sourcePage": 17,
+      "sourceNumber": 63
+    },
+    {
+      "term": "시원하다",
+      "translation": "Salqin",
+      "sourcePage": 17,
+      "sourceNumber": 64
+    },
+    {
+      "term": "신나다",
+      "translation": "Ko’ngli ko’tarilmoq",
+      "sourcePage": 17,
+      "sourceNumber": 65
+    },
+    {
+      "term": "싫다",
+      "translation": "Yoqtirmaslik",
+      "sourcePage": 17,
+      "sourceNumber": 66
+    },
+    {
+      "term": "심하다",
+      "translation": "Jiddiy",
+      "sourcePage": 17,
+      "sourceNumber": 67
+    },
+    {
+      "term": "싸다",
+      "translation": "Orzon",
+      "sourcePage": 17,
+      "sourceNumber": 68
+    },
+    {
+      "term": "쓰다",
+      "translation": "Achchiq(dori tam)",
+      "sourcePage": 17,
+      "sourceNumber": 69
+    },
+    {
+      "term": "아니다",
+      "translation": "Emas",
+      "sourcePage": 17,
+      "sourceNumber": 70
+    },
+    {
+      "term": "아름답다",
+      "translation": "Go’zal",
+      "sourcePage": 17,
+      "sourceNumber": 71
+    },
+    {
+      "term": "아프다",
+      "translation": "Og’rimoq",
+      "sourcePage": 17,
+      "sourceNumber": 72
+    },
+    {
+      "term": "안전하다",
+      "translation": "Xavfsiz",
+      "sourcePage": 17,
+      "sourceNumber": 73
+    },
+    {
+      "term": "알맞다",
+      "translation": "Tog’ri",
+      "sourcePage": 17,
+      "sourceNumber": 74
+    },
+    {
+      "term": "약하다",
+      "translation": "Zaif",
+      "sourcePage": 17,
+      "sourceNumber": 75
+    },
+    {
+      "term": "얇다",
+      "translation": "Yupqa",
+      "sourcePage": 17,
+      "sourceNumber": 76
+    },
+    {
+      "term": "얕다",
+      "translation": "Sayoz",
+      "sourcePage": 17,
+      "sourceNumber": 77
+    },
+    {
+      "term": "어둡다",
+      "translation": "Qorong’u",
+      "sourcePage": 17,
+      "sourceNumber": 78
+    },
+    {
+      "term": "어떻다",
+      "translation": "Qanday",
+      "sourcePage": 17,
+      "sourceNumber": 79
+    },
+    {
+      "term": "어렵다",
+      "translation": "Qiyin",
+      "sourcePage": 17,
+      "sourceNumber": 80
+    },
+    {
+      "term": "어리다",
+      "translation": "Yosh",
+      "sourcePage": 17,
+      "sourceNumber": 81
+    },
+    {
+      "term": "없다",
+      "translation": "Yo’q",
+      "sourcePage": 17,
+      "sourceNumber": 82
+    },
+    {
+      "term": "예쁘다",
+      "translation": "Chiroyli",
+      "sourcePage": 17,
+      "sourceNumber": 83
+    },
+    {
+      "term": "외롭다",
+      "translation": "Yolg’izlikdan zerikmoq",
+      "sourcePage": 17,
+      "sourceNumber": 84
+    },
+    {
+      "term": "위험하다",
+      "translation": "Xavfli",
+      "sourcePage": 17,
+      "sourceNumber": 85
+    },
+    {
+      "term": "유명하다",
+      "translation": "Mashxur",
+      "sourcePage": 17,
+      "sourceNumber": 86
+    },
+    {
+      "term": "이렇다",
+      "translation": "Bunday",
+      "sourcePage": 17,
+      "sourceNumber": 87
+    },
+    {
+      "term": "이상하다",
+      "translation": "G’alati",
+      "sourcePage": 17,
+      "sourceNumber": 88
+    },
+    {
+      "term": "작다",
+      "translation": "Kichkina",
+      "sourcePage": 17,
+      "sourceNumber": 89
+    },
+    {
+      "term": "잘생기다",
+      "translation": "Kelishgan",
+      "sourcePage": 17,
+      "sourceNumber": 90
+    },
+    {
+      "term": "재미없다",
+      "translation": "Zerikarli",
+      "sourcePage": 18,
+      "sourceNumber": 91
+    },
+    {
+      "term": "재미있다",
+      "translation": "Qiziqarli",
+      "sourcePage": 18,
+      "sourceNumber": 92
+    },
+    {
+      "term": "적다",
+      "translation": "Oz/kam",
+      "sourcePage": 18,
+      "sourceNumber": 93
+    },
+    {
+      "term": "젊다",
+      "translation": "Yosh",
+      "sourcePage": 18,
+      "sourceNumber": 94
+    },
+    {
+      "term": "조용하다",
+      "translation": "Tinch",
+      "sourcePage": 18,
+      "sourceNumber": 95
+    },
+    {
+      "term": "좁다",
+      "translation": "Tor",
+      "sourcePage": 18,
+      "sourceNumber": 96
+    },
+    {
+      "term": "좋다",
+      "translation": "Yaxshi",
+      "sourcePage": 18,
+      "sourceNumber": 97
+    },
+    {
+      "term": "죄송하다",
+      "translation": "Uzr",
+      "sourcePage": 18,
+      "sourceNumber": 98
+    },
+    {
+      "term": "중요하다",
+      "translation": "Muhim",
+      "sourcePage": 18,
+      "sourceNumber": 99
+    },
+    {
+      "term": "즐겁다",
+      "translation": "Quvnoq",
+      "sourcePage": 18,
+      "sourceNumber": 100
+    },
+    {
+      "term": "짜다",
+      "translation": "Shovqin",
+      "sourcePage": 18,
+      "sourceNumber": 101
+    },
+    {
+      "term": "짧다",
+      "translation": "Kalta",
+      "sourcePage": 18,
+      "sourceNumber": 102
+    },
+    {
+      "term": "차갑다",
+      "translation": "Sovuq/muzdek",
+      "sourcePage": 18,
+      "sourceNumber": 103
+    },
+    {
+      "term": "착하다",
+      "translation": "Ohko’ngil",
+      "sourcePage": 18,
+      "sourceNumber": 104
+    },
+    {
+      "term": "춥다",
+      "translation": "Sovuq",
+      "sourcePage": 18,
+      "sourceNumber": 105
+    },
+    {
+      "term": "친절하다",
+      "translation": "Mehribon",
+      "sourcePage": 18,
+      "sourceNumber": 106
+    },
+    {
+      "term": "친하다",
+      "translation": "Yaqin",
+      "sourcePage": 18,
+      "sourceNumber": 107
+    },
+    {
+      "term": "크다",
+      "translation": "Katta",
+      "sourcePage": 18,
+      "sourceNumber": 108
+    },
+    {
+      "term": "편하다",
+      "translation": "Qulay",
+      "sourcePage": 18,
+      "sourceNumber": 109
+    },
+    {
+      "term": "피곤하다",
+      "translation": "Charchamoq",
+      "sourcePage": 18,
+      "sourceNumber": 110
+    },
+    {
+      "term": "필요하다",
+      "translation": "Kerak",
+      "sourcePage": 18,
+      "sourceNumber": 111
+    },
+    {
+      "term": "한가하다",
+      "translation": "Bo’sh bo’lmoq",
+      "sourcePage": 18,
+      "sourceNumber": 112
+    },
+    {
+      "term": "흐리다",
+      "translation": "Bulutli",
+      "sourcePage": 18,
+      "sourceNumber": 113
+    },
+    {
+      "term": "힘들다",
+      "translation": "Qiyin/qiynalmoq",
+      "sourcePage": 18,
+      "sourceNumber": 114
+    },
+    {
+      "term": "미끄럽다",
+      "translation": "Sirpanchiq",
+      "sourcePage": 18,
+      "sourceNumber": 115
+    },
+    {
+      "term": "밉다",
+      "translation": "Nafratli",
+      "sourcePage": 18,
+      "sourceNumber": 116
+    },
+    {
+      "term": "가끔",
+      "translation": "Ba’zan",
+      "sourcePage": 19,
+      "sourceNumber": 1
+    },
+    {
+      "term": "가장",
+      "translation": "Eng",
+      "sourcePage": 19,
+      "sourceNumber": 2
+    },
+    {
+      "term": "간단히",
+      "translation": "Oddiy",
+      "sourcePage": 19,
+      "sourceNumber": 3
+    },
+    {
+      "term": "갑자기",
+      "translation": "To’satdan",
+      "sourcePage": 19,
+      "sourceNumber": 4
+    },
+    {
+      "term": "같이",
+      "translation": "Birga",
+      "sourcePage": 19,
+      "sourceNumber": 5
+    },
+    {
+      "term": "거의",
+      "translation": "Deyarli",
+      "sourcePage": 19,
+      "sourceNumber": 6
+    },
+    {
+      "term": "계속",
+      "translation": "Davomiy",
+      "sourcePage": 19,
+      "sourceNumber": 7
+    },
+    {
+      "term": "곧",
+      "translation": "Tez orada/yaqinda",
+      "sourcePage": 19,
+      "sourceNumber": 8
+    },
+    {
+      "term": "그냥",
+      "translation": "Shunchaki",
+      "sourcePage": 19,
+      "sourceNumber": 9
+    },
+    {
+      "term": "그래서",
+      "translation": "Shuning uchun",
+      "sourcePage": 19,
+      "sourceNumber": 10
+    },
+    {
+      "term": "그러나",
+      "translation": "Biroq",
+      "sourcePage": 19,
+      "sourceNumber": 11
+    },
+    {
+      "term": "그러니까",
+      "translation": "Shu sababli",
+      "sourcePage": 19,
+      "sourceNumber": 12
+    },
+    {
+      "term": "그러면",
+      "translation": "Unday bo’lsa",
+      "sourcePage": 19,
+      "sourceNumber": 13
+    },
+    {
+      "term": "그런데",
+      "translation": "Lekin",
+      "sourcePage": 19,
+      "sourceNumber": 14
+    },
+    {
+      "term": "그럼",
+      "translation": "Unda",
+      "sourcePage": 19,
+      "sourceNumber": 15
+    },
+    {
+      "term": "그렇지만",
+      "translation": "Ammo",
+      "sourcePage": 19,
+      "sourceNumber": 16
+    },
+    {
+      "term": "그리고",
+      "translation": "Va hamda",
+      "sourcePage": 19,
+      "sourceNumber": 17
+    },
+    {
+      "term": "그만",
+      "translation": "Bas/yetar",
+      "sourcePage": 19,
+      "sourceNumber": 18
+    },
+    {
+      "term": "금방",
+      "translation": "Darxol",
+      "sourcePage": 19,
+      "sourceNumber": 19
+    },
+    {
+      "term": "깜짝",
+      "translation": "Birdan/Hayron qolarli",
+      "sourcePage": 19,
+      "sourceNumber": 20
+    },
+    {
+      "term": "꼭",
+      "translation": "Aniq",
+      "sourcePage": 19,
+      "sourceNumber": 21
+    },
+    {
+      "term": "너무",
+      "translation": "Judayam",
+      "sourcePage": 19,
+      "sourceNumber": 22
+    },
+    {
+      "term": "늘",
+      "translation": "Doim",
+      "sourcePage": 19,
+      "sourceNumber": 23
+    },
+    {
+      "term": "다",
+      "translation": "Hammasi",
+      "sourcePage": 19,
+      "sourceNumber": 24
+    },
+    {
+      "term": "다시",
+      "translation": "Yana/qayta",
+      "sourcePage": 19,
+      "sourceNumber": 25
+    },
+    {
+      "term": "더",
+      "translation": "Yanada/ko’proq",
+      "sourcePage": 19,
+      "sourceNumber": 26
+    },
+    {
+      "term": "따로",
+      "translation": "Alohida",
+      "sourcePage": 19,
+      "sourceNumber": 27
+    },
+    {
+      "term": "또",
+      "translation": "Yana",
+      "sourcePage": 19,
+      "sourceNumber": 28
+    },
+    {
+      "term": "또는",
+      "translation": "Yoki",
+      "sourcePage": 19,
+      "sourceNumber": 29
+    },
+    {
+      "term": "똑바로",
+      "translation": "Tog’riga",
+      "sourcePage": 19,
+      "sourceNumber": 30
+    },
+    {
+      "term": "많이",
+      "translation": "Ko’p",
+      "sourcePage": 19,
+      "sourceNumber": 31
+    },
+    {
+      "term": "매우",
+      "translation": "Juda",
+      "sourcePage": 19,
+      "sourceNumber": 32
+    },
+    {
+      "term": "먼저",
+      "translation": "Oldinroq",
+      "sourcePage": 19,
+      "sourceNumber": 33
+    },
+    {
+      "term": "모두",
+      "translation": "Hamma",
+      "sourcePage": 19,
+      "sourceNumber": 34
+    },
+    {
+      "term": "못",
+      "translation": "Qilolmaslik",
+      "sourcePage": 19,
+      "sourceNumber": 35
+    },
+    {
+      "term": "무척",
+      "translation": "Juda",
+      "sourcePage": 19,
+      "sourceNumber": 36
+    },
+    {
+      "term": "미리",
+      "translation": "Oldinroq",
+      "sourcePage": 19,
+      "sourceNumber": 37
+    },
+    {
+      "term": "바로",
+      "translation": "O’sha zahoti",
+      "sourcePage": 19,
+      "sourceNumber": 38
+    },
+    {
+      "term": "벌써",
+      "translation": "Bir pasta",
+      "sourcePage": 19,
+      "sourceNumber": 39
+    },
+    {
+      "term": "별로",
+      "translation": "Unchalik",
+      "sourcePage": 19,
+      "sourceNumber": 40
+    },
+    {
+      "term": "빨리",
+      "translation": "Tez",
+      "sourcePage": 19,
+      "sourceNumber": 41
+    },
+    {
+      "term": "새로",
+      "translation": "Yangi",
+      "sourcePage": 19,
+      "sourceNumber": 42
+    },
+    {
+      "term": "서로",
+      "translation": "Bir biri bilan",
+      "sourcePage": 19,
+      "sourceNumber": 43
+    },
+    {
+      "term": "아까",
+      "translation": "Sal oldin",
+      "sourcePage": 19,
+      "sourceNumber": 44
+    },
+    {
+      "term": "아마",
+      "translation": "Extimol/balki",
+      "sourcePage": 19,
+      "sourceNumber": 45
+    },
+    {
+      "term": "아주",
+      "translation": "Juda",
+      "sourcePage": 19,
+      "sourceNumber": 46
+    },
+    {
+      "term": "아직",
+      "translation": "Hali",
+      "sourcePage": 19,
+      "sourceNumber": 47
+    },
+    {
+      "term": "안",
+      "translation": "Emas",
+      "sourcePage": 19,
+      "sourceNumber": 48
+    },
+    {
+      "term": "약간",
+      "translation": "Biroz",
+      "sourcePage": 19,
+      "sourceNumber": 49
+    },
+    {
+      "term": "어서",
+      "translation": "Tezroq",
+      "sourcePage": 19,
+      "sourceNumber": 50
+    },
+    {
+      "term": "언제나",
+      "translation": "Har qachon",
+      "sourcePage": 19,
+      "sourceNumber": 51
+    },
+    {
+      "term": "얼마나",
+      "translation": "Har qancha/bir qancha",
+      "sourcePage": 19,
+      "sourceNumber": 52
+    },
+    {
+      "term": "없이 (힘없이)",
+      "translation": "-Siz (kuchsiz)",
+      "sourcePage": 19,
+      "sourceNumber": 53
+    },
+    {
+      "term": "열심히",
+      "translation": "Astoydil",
+      "sourcePage": 19,
+      "sourceNumber": 54
+    },
+    {
+      "term": "오래",
+      "translation": "Uzoq vaqt",
+      "sourcePage": 19,
+      "sourceNumber": 55
+    },
+    {
+      "term": "왜",
+      "translation": "Nimaga",
+      "sourcePage": 19,
+      "sourceNumber": 56
+    },
+    {
+      "term": "왜냐하면",
+      "translation": "Chunki",
+      "sourcePage": 19,
+      "sourceNumber": 57
+    },
+    {
+      "term": "우선",
+      "translation": "Avvalo",
+      "sourcePage": 19,
+      "sourceNumber": 58
+    },
+    {
+      "term": "이따가",
+      "translation": "Sal turib",
+      "sourcePage": 19,
+      "sourceNumber": 59
+    },
+    {
+      "term": "이미",
+      "translation": "Allaqachon",
+      "sourcePage": 19,
+      "sourceNumber": 60
+    },
+    {
+      "term": "이제",
+      "translation": "Endi",
+      "sourcePage": 19,
+      "sourceNumber": 61
+    },
+    {
+      "term": "일찍",
+      "translation": "Erta",
+      "sourcePage": 19,
+      "sourceNumber": 62
+    },
+    {
+      "term": "자꾸",
+      "translation": "Tez tez",
+      "sourcePage": 19,
+      "sourceNumber": 63
+    },
+    {
+      "term": "자주",
+      "translation": "Tez tez",
+      "sourcePage": 19,
+      "sourceNumber": 64
+    },
+    {
+      "term": "잘",
+      "translation": "Yaxshi",
+      "sourcePage": 19,
+      "sourceNumber": 65
+    },
+    {
+      "term": "잘못",
+      "translation": "Xato",
+      "sourcePage": 19,
+      "sourceNumber": 66
+    },
+    {
+      "term": "전혀",
+      "translation": "Umuman",
+      "sourcePage": 19,
+      "sourceNumber": 67
+    },
+    {
+      "term": "정말",
+      "translation": "Rostan",
+      "sourcePage": 19,
+      "sourceNumber": 68
+    },
+    {
+      "term": "조용히",
+      "translation": "Tinch/jim",
+      "sourcePage": 19,
+      "sourceNumber": 69
+    },
+    {
+      "term": "좀",
+      "translation": "Biroz",
+      "sourcePage": 19,
+      "sourceNumber": 70
+    },
+    {
+      "term": "주로",
+      "translation": "Asosan",
+      "sourcePage": 19,
+      "sourceNumber": 71
+    },
+    {
+      "term": "직접",
+      "translation": "Bevosita",
+      "sourcePage": 19,
+      "sourceNumber": 72
+    },
+    {
+      "term": "참",
+      "translation": "Haqiqatdan",
+      "sourcePage": 19,
+      "sourceNumber": 73
+    },
+    {
+      "term": "천천히",
+      "translation": "Sekin",
+      "sourcePage": 19,
+      "sourceNumber": 74
+    },
+    {
+      "term": "특별히",
+      "translation": "Maxsus",
+      "sourcePage": 19,
+      "sourceNumber": 75
+    },
+    {
+      "term": "특히",
+      "translation": "Ayniqsa",
+      "sourcePage": 19,
+      "sourceNumber": 76
+    },
+    {
+      "term": "푹",
+      "translation": "Yetarlicha",
+      "sourcePage": 19,
+      "sourceNumber": 77
+    },
+    {
+      "term": "하지만",
+      "translation": "Ammo",
+      "sourcePage": 19,
+      "sourceNumber": 78
+    },
+    {
+      "term": "함께",
+      "translation": "Birga",
+      "sourcePage": 19,
+      "sourceNumber": 79
+    },
+    {
+      "term": "항상",
+      "translation": "Xar doim",
+      "sourcePage": 19,
+      "sourceNumber": 80
+    },
+    {
+      "term": "거기",
+      "translation": "U yer",
+      "sourcePage": 20,
+      "sourceNumber": 1
+    },
+    {
+      "term": "그",
+      "translation": "U",
+      "sourcePage": 20,
+      "sourceNumber": 2
+    },
+    {
+      "term": "그거",
+      "translation": "U narsa",
+      "sourcePage": 20,
+      "sourceNumber": 3
+    },
+    {
+      "term": "그것",
+      "translation": "U narsa",
+      "sourcePage": 20,
+      "sourceNumber": 4
+    },
+    {
+      "term": "그게",
+      "translation": "U narsa",
+      "sourcePage": 20,
+      "sourceNumber": 5
+    },
+    {
+      "term": "그곳",
+      "translation": "U joy",
+      "sourcePage": 20,
+      "sourceNumber": 6
+    },
+    {
+      "term": "그대",
+      "translation": "Sen",
+      "sourcePage": 20,
+      "sourceNumber": 7
+    },
+    {
+      "term": "그런",
+      "translation": "Unday",
+      "sourcePage": 20,
+      "sourceNumber": 8
+    },
+    {
+      "term": "그분",
+      "translation": "U kishi",
+      "sourcePage": 20,
+      "sourceNumber": 9
+    },
+    {
+      "term": "그쪽",
+      "translation": "U tomon",
+      "sourcePage": 20,
+      "sourceNumber": 10
+    },
+    {
+      "term": "나",
+      "translation": "Men",
+      "sourcePage": 20,
+      "sourceNumber": 11
+    },
+    {
+      "term": "나는",
+      "translation": "Men",
+      "sourcePage": 20,
+      "sourceNumber": 12
+    },
+    {
+      "term": "나의",
+      "translation": "Mening",
+      "sourcePage": 20,
+      "sourceNumber": 13
+    },
+    {
+      "term": "내",
+      "translation": "Mening",
+      "sourcePage": 20,
+      "sourceNumber": 14
+    },
+    {
+      "term": "내가",
+      "translation": "Men",
+      "sourcePage": 20,
+      "sourceNumber": 15
+    },
+    {
+      "term": "너",
+      "translation": "Sen",
+      "sourcePage": 20,
+      "sourceNumber": 16
+    },
+    {
+      "term": "너는",
+      "translation": "Sen",
+      "sourcePage": 20,
+      "sourceNumber": 17
+    },
+    {
+      "term": "너의",
+      "translation": "Sening",
+      "sourcePage": 20,
+      "sourceNumber": 18
+    },
+    {
+      "term": "네",
+      "translation": "Sening",
+      "sourcePage": 20,
+      "sourceNumber": 19
+    },
+    {
+      "term": "네가",
+      "translation": "Sen",
+      "sourcePage": 20,
+      "sourceNumber": 20
+    },
+    {
+      "term": "넷째",
+      "translation": "To’rtinchi",
+      "sourcePage": 20,
+      "sourceNumber": 21
+    },
+    {
+      "term": "누가",
+      "translation": "Kim",
+      "sourcePage": 20,
+      "sourceNumber": 22
+    },
+    {
+      "term": "누구",
+      "translation": "Kim",
+      "sourcePage": 20,
+      "sourceNumber": 23
+    },
+    {
+      "term": "다른",
+      "translation": "Boshqa",
+      "sourcePage": 20,
+      "sourceNumber": 24
+    },
+    {
+      "term": "당신",
+      "translation": "Siz",
+      "sourcePage": 20,
+      "sourceNumber": 25
+    },
+    {
+      "term": "두",
+      "translation": "Ikki",
+      "sourcePage": 20,
+      "sourceNumber": 26
+    },
+    {
+      "term": "둘째",
+      "translation": "Ikkinchi",
+      "sourcePage": 20,
+      "sourceNumber": 27
+    },
+    {
+      "term": "몇",
+      "translation": "Necha",
+      "sourcePage": 20,
+      "sourceNumber": 28
+    },
+    {
+      "term": "모든",
+      "translation": "Hammasi",
+      "sourcePage": 20,
+      "sourceNumber": 29
+    },
+    {
+      "term": "무슨",
+      "translation": "Qaysi",
+      "sourcePage": 20,
+      "sourceNumber": 30
+    },
+    {
+      "term": "무엇",
+      "translation": "Nima",
+      "sourcePage": 20,
+      "sourceNumber": 31
+    },
+    {
+      "term": "뭐",
+      "translation": "Nima",
+      "sourcePage": 20,
+      "sourceNumber": 32
+    },
+    {
+      "term": "새",
+      "translation": "Yangi",
+      "sourcePage": 20,
+      "sourceNumber": 33
+    },
+    {
+      "term": "아무",
+      "translation": "Xech/har",
+      "sourcePage": 20,
+      "sourceNumber": 34
+    },
+    {
+      "term": "약",
+      "translation": "Taxminan",
+      "sourcePage": 20,
+      "sourceNumber": 35
+    },
+    {
+      "term": "어느",
+      "translation": "Qaysi",
+      "sourcePage": 20,
+      "sourceNumber": 36
+    },
+    {
+      "term": "어디",
+      "translation": "Qayer",
+      "sourcePage": 20,
+      "sourceNumber": 37
+    },
+    {
+      "term": "어떤",
+      "translation": "Qanday",
+      "sourcePage": 20,
+      "sourceNumber": 38
+    },
+    {
+      "term": "어떻게",
+      "translation": "Qanday qilib",
+      "sourcePage": 20,
+      "sourceNumber": 39
+    },
+    {
+      "term": "여기",
+      "translation": "Bu yer",
+      "sourcePage": 20,
+      "sourceNumber": 40
+    },
+    {
+      "term": "아이구",
+      "translation": "Obbo",
+      "sourcePage": 20,
+      "sourceNumber": 41
+    },
+    {
+      "term": "여러",
+      "translation": "Har",
+      "sourcePage": 20,
+      "sourceNumber": 42
+    },
+    {
+      "term": "여러분",
+      "translation": "Azizlar/har kishi",
+      "sourcePage": 20,
+      "sourceNumber": 43
+    },
+    {
+      "term": "우리",
+      "translation": "Bizning",
+      "sourcePage": 20,
+      "sourceNumber": 44
+    },
+    {
+      "term": "이",
+      "translation": "Bu",
+      "sourcePage": 20,
+      "sourceNumber": 45
+    },
+    {
+      "term": "이거",
+      "translation": "Bu narsa",
+      "sourcePage": 20,
+      "sourceNumber": 46
+    },
+    {
+      "term": "이것",
+      "translation": "Bu narsa",
+      "sourcePage": 20,
+      "sourceNumber": 47
+    },
+    {
+      "term": "이게",
+      "translation": "Bu narsa",
+      "sourcePage": 20,
+      "sourceNumber": 48
+    },
+    {
+      "term": "이곳",
+      "translation": "Bu joy",
+      "sourcePage": 20,
+      "sourceNumber": 49
+    },
+    {
+      "term": "이런",
+      "translation": "Bunday",
+      "sourcePage": 20,
+      "sourceNumber": 50
+    },
+    {
+      "term": "이분",
+      "translation": "Bu kishi",
+      "sourcePage": 20,
+      "sourceNumber": 51
+    },
+    {
+      "term": "이쪽",
+      "translation": "Bu tomon",
+      "sourcePage": 20,
+      "sourceNumber": 52
+    },
+    {
+      "term": "자기",
+      "translation": "O’zi",
+      "sourcePage": 20,
+      "sourceNumber": 53
+    },
+    {
+      "term": "저",
+      "translation": "Men",
+      "sourcePage": 20,
+      "sourceNumber": 54
+    },
+    {
+      "term": "저",
+      "translation": "Anavi",
+      "sourcePage": 20,
+      "sourceNumber": 55
+    },
+    {
+      "term": "저거",
+      "translation": "Anavi narsa",
+      "sourcePage": 20,
+      "sourceNumber": 56
+    },
+    {
+      "term": "저것",
+      "translation": "Anavi narsa",
+      "sourcePage": 20,
+      "sourceNumber": 57
+    },
+    {
+      "term": "저게",
+      "translation": "Anu narsa",
+      "sourcePage": 20,
+      "sourceNumber": 58
+    },
+    {
+      "term": "저곳",
+      "translation": "Anavi joy",
+      "sourcePage": 20,
+      "sourceNumber": 59
+    },
+    {
+      "term": "저기",
+      "translation": "Anavi yer/ana",
+      "sourcePage": 20,
+      "sourceNumber": 60
+    },
+    {
+      "term": "저는",
+      "translation": "Men",
+      "sourcePage": 20,
+      "sourceNumber": 61
+    },
+    {
+      "term": "저분",
+      "translation": "Anavi kishi",
+      "sourcePage": 20,
+      "sourceNumber": 62
+    },
+    {
+      "term": "저의",
+      "translation": "Mening",
+      "sourcePage": 20,
+      "sourceNumber": 63
+    },
+    {
+      "term": "저쪽",
+      "translation": "Anavi tomon",
+      "sourcePage": 20,
+      "sourceNumber": 64
+    },
+    {
+      "term": "저희",
+      "translation": "Bizning",
+      "sourcePage": 20,
+      "sourceNumber": 65
+    },
+    {
+      "term": "전",
+      "translation": "Oldin",
+      "sourcePage": 20,
+      "sourceNumber": 66
+    },
+    {
+      "term": "제",
+      "translation": "Mening",
+      "sourcePage": 20,
+      "sourceNumber": 67
+    },
+    {
+      "term": "제가",
+      "translation": "Men",
+      "sourcePage": 20,
+      "sourceNumber": 68
+    },
+    {
+      "term": "첫",
+      "translation": "Birinchi",
+      "sourcePage": 20,
+      "sourceNumber": 69
+    },
+    {
+      "term": "첫째",
+      "translation": "Birinchi",
+      "sourcePage": 20,
+      "sourceNumber": 70
+    },
+    {
+      "term": "한",
+      "translation": "Bir",
+      "sourcePage": 20,
+      "sourceNumber": 71
+    },
+    {
+      "term": "그래",
+      "translation": "Xa shunday",
+      "sourcePage": 20,
+      "sourceNumber": 72
+    },
+    {
+      "term": "글쎄요",
+      "translation": "Bilmasam",
+      "sourcePage": 20,
+      "sourceNumber": 73
+    },
+    {
+      "term": "네",
+      "translation": "Xa",
+      "sourcePage": 20,
+      "sourceNumber": 74
+    },
+    {
+      "term": "님",
+      "translation": "Janob",
+      "sourcePage": 20,
+      "sourceNumber": 75
+    },
+    {
+      "term": "어머",
+      "translation": "O/yo tavba",
+      "sourcePage": 20,
+      "sourceNumber": 76
+    },
+    {
+      "term": "여보세요",
+      "translation": "Allo/eshitaman",
+      "sourcePage": 20,
+      "sourceNumber": 77
+    },
+    {
+      "term": "예",
+      "translation": "Xa",
+      "sourcePage": 20,
+      "sourceNumber": 78
+    },
+    {
+      "term": "와",
+      "translation": "Vao",
+      "sourcePage": 20,
+      "sourceNumber": 79
+    },
+    {
+      "term": "응",
+      "translation": "Xm",
+      "sourcePage": 20,
+      "sourceNumber": 80
+    },
+    {
+      "term": "자",
+      "translation": "Xo’sh",
+      "sourcePage": 20,
+      "sourceNumber": 81
+    },
+    {
+      "term": "쯤",
+      "translation": "Cha/taxminan",
+      "sourcePage": 20,
+      "sourceNumber": 82
+    }
+  ]
+}

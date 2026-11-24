@@ -1,0 +1,488 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum MemberRole {
+  MEMBER
+  ADMIN
+}
+
+enum AuthMethod {
+  NICKNAME
+  GOOGLE
+  TELEGRAM
+}
+
+enum ChallengePurpose {
+  LINK_GMAIL
+  RESET_PASSWORD
+}
+
+enum ExamKind {
+  OFFICIAL
+  MOCK
+  VOCABULARY
+}
+
+enum SectionKind {
+  LISTENING
+  READING
+  WRITING
+  VOCABULARY
+}
+
+enum QuestionKind {
+  CHOICE
+  TEXT
+}
+
+enum AttemptStatus {
+  IN_PROGRESS
+  PAUSED
+  COMPLETED
+}
+
+enum SubmissionReason {
+  MANUAL
+  TIMEOUT
+}
+
+model Member {
+  id               String              @id @default(uuid()) @db.Uuid
+  memberNick       String
+  memberNickKey    String              @unique
+  memberFullName   String
+  memberPhone      String?
+  memberAge        Int?
+  providerImageUrl String?
+  memberImageId    String?             @db.Uuid
+  memberImage      MediaAsset?         @relation("MemberAvatar", fields: [memberImageId], references: [id])
+  memberAuthType   AuthMethod
+  memberPoints     Int                 @default(0)
+  recoveryEmail    String?             @unique
+  role             MemberRole          @default(MEMBER)
+  createdAt        DateTime            @default(now())
+  updatedAt        DateTime            @updatedAt
+  identities       AuthIdentity[]
+  credential       PasswordCredential?
+  sessions         AuthSession[]
+  challenges       AuthChallenge[]
+  oauthFlows       OAuthFlow[]
+  uploads          MediaAsset[]        @relation("MediaOwner")
+  attempts         Attempt[]
+  points           PointEvent[]
+  words            VocabularyEntry[]
+
+  @@index([memberPoints])
+  @@map("members")
+}
+
+model AuthIdentity {
+  id       String     @id @default(uuid()) @db.Uuid
+  memberId String     @db.Uuid
+  member   Member     @relation(fields: [memberId], references: [id], onDelete: Cascade)
+  method   AuthMethod
+  subject  String
+  email    String?
+
+  @@unique([method, subject])
+  @@unique([memberId, method])
+  @@map("auth_identities")
+}
+
+model PasswordCredential {
+  memberId String @id @db.Uuid
+  member   Member @relation(fields: [memberId], references: [id], onDelete: Cascade)
+  hash     String
+
+  @@map("password_credentials")
+}
+
+model AuthSession {
+  id          String     @id @default(uuid()) @db.Uuid
+  memberId    String     @db.Uuid
+  member      Member     @relation(fields: [memberId], references: [id], onDelete: Cascade)
+  method      AuthMethod
+  refreshHash String
+  expiresAt   DateTime
+  revokedAt   DateTime?
+  createdAt   DateTime   @default(now())
+
+  @@index([memberId, revokedAt])
+  @@index([expiresAt])
+  @@map("auth_sessions")
+}
+
+model AuthChallenge {
+  id             String           @id @default(uuid()) @db.Uuid
+  memberId       String           @db.Uuid
+  member         Member           @relation(fields: [memberId], references: [id], onDelete: Cascade)
+  purpose        ChallengePurpose
+  email          String
+  subject        String?
+  codeHash       String
+  attempts       Int              @default(0)
+  expiresAt      DateTime
+  consumedAt     DateTime?
+  grantHash      String?
+  grantExpiresAt DateTime?
+  grantUsedAt    DateTime?
+  createdAt      DateTime         @default(now())
+
+  @@index([memberId, purpose, createdAt])
+  @@map("auth_challenges")
+}
+
+model OAuthFlow {
+  id        String     @id
+  method    AuthMethod
+  verifier  String
+  nonce     String
+  memberId  String?    @db.Uuid
+  member    Member?    @relation(fields: [memberId], references: [id], onDelete: Cascade)
+  returnTo  String
+  expiresAt DateTime
+
+  @@index([expiresAt])
+  @@map("oauth_flows")
+}
+
+model AuthThrottle {
+  key       String   @id
+  hits      Int
+  expiresAt DateTime
+
+  @@index([expiresAt])
+  @@map("auth_throttles")
+}
+
+model ExamLanguage {
+  code     String            @id
+  name     String
+  active   Boolean           @default(true)
+  families ExamFamily[]
+  exams    Exam[]
+  words    VocabularyEntry[]
+
+  @@map("exam_languages")
+}
+
+model ExamFamily {
+  id           String       @id @default(uuid()) @db.Uuid
+  languageCode String
+  language     ExamLanguage @relation(fields: [languageCode], references: [code])
+  key          String
+  name         String
+  exams        Exam[]
+
+  @@unique([languageCode, key])
+  @@map("exam_families")
+}
+
+model Menu {
+  id        String         @id @default(uuid()) @db.Uuid
+  parentId  String?        @db.Uuid
+  parent    Menu?          @relation("MenuChildren", fields: [parentId], references: [id], onDelete: Restrict)
+  children  Menu[]         @relation("MenuChildren")
+  slug      String         @unique
+  systemKey String?        @unique
+  name      String
+  sortOrder Int            @default(0)
+  published Boolean        @default(false)
+  exams     ExamMenuLink[]
+
+  @@index([parentId, sortOrder])
+  @@map("menus")
+}
+
+model Exam {
+  id               String             @id @default(uuid()) @db.Uuid
+  slug             String             @unique
+  kind             ExamKind
+  languageCode     String
+  language         ExamLanguage       @relation(fields: [languageCode], references: [code])
+  familyId         String?            @db.Uuid
+  family           ExamFamily?        @relation(fields: [familyId], references: [id])
+  currentVersionId String?            @unique @db.Uuid
+  currentVersion   ExamVersion?       @relation("CurrentVersion", fields: [currentVersionId], references: [id])
+  dailyPracticeDate DateTime?          @unique @db.Date
+  archivedAt       DateTime?
+  versions         ExamVersion[]      @relation("ExamVersions")
+  menus            ExamMenuLink[]
+  attempts         Attempt[]
+  pointEvents      PointEvent[]
+  wordSources      VocabularySource[]
+  createdAt        DateTime           @default(now())
+
+  @@index([kind, languageCode, archivedAt])
+  @@map("exams")
+}
+
+model ExamMenuLink {
+  examId    String @db.Uuid
+  menuId    String @db.Uuid
+  exam      Exam   @relation(fields: [examId], references: [id], onDelete: Cascade)
+  menu      Menu   @relation(fields: [menuId], references: [id], onDelete: Cascade)
+  sortOrder Int    @default(0)
+
+  @@id([examId, menuId])
+  @@index([menuId, sortOrder])
+  @@map("exam_menu_links")
+}
+
+model ExamVersion {
+  id              String        @id @default(uuid()) @db.Uuid
+  examId          String        @db.Uuid
+  exam            Exam          @relation("ExamVersions", fields: [examId], references: [id], onDelete: Cascade)
+  currentFor      Exam?         @relation("CurrentVersion")
+  number          Int
+  title           String
+  description     String?
+  durationSeconds Int
+  coverId         String?       @db.Uuid
+  cover           MediaAsset?   @relation("ExamCover", fields: [coverId], references: [id])
+  publishedAt     DateTime?
+  variants        ExamVariant[]
+  attempts        Attempt[]
+  createdAt       DateTime      @default(now())
+
+  @@unique([examId, number])
+  @@map("exam_versions")
+}
+
+model ExamVariant {
+  id        String        @id @default(uuid()) @db.Uuid
+  versionId String        @db.Uuid
+  version   ExamVersion   @relation(fields: [versionId], references: [id], onDelete: Cascade)
+  label     String
+  sortOrder Int
+  sections  ExamSection[]
+  attempts  Attempt[]
+
+  @@unique([versionId, sortOrder])
+  @@map("exam_variants")
+}
+
+model ExamSection {
+  id              String          @id @default(uuid()) @db.Uuid
+  variantId       String          @db.Uuid
+  variant         ExamVariant     @relation(fields: [variantId], references: [id], onDelete: Cascade)
+  kind            SectionKind
+  title           String?
+  instructions    String?
+  sortOrder       Int
+  durationSeconds Int
+  audioMaxPlays   Int?
+  groups          QuestionGroup[]
+  questions       Question[]
+
+  @@unique([variantId, kind])
+  @@unique([variantId, sortOrder])
+  @@map("exam_sections")
+}
+
+model QuestionGroup {
+  id            String              @id @default(uuid()) @db.Uuid
+  sectionId     String              @db.Uuid
+  section       ExamSection         @relation(fields: [sectionId], references: [id], onDelete: Cascade)
+  passage       String?
+  imageId       String?             @db.Uuid
+  image         MediaAsset?         @relation("GroupImage", fields: [imageId], references: [id])
+  audioId       String?             @db.Uuid
+  audio         MediaAsset?         @relation("GroupAudio", fields: [audioId], references: [id])
+  audioStartMs  Int?
+  audioEndMs    Int?
+  audioMaxPlays Int?
+  questions     Question[]
+  audioStates   AttemptAudioState[]
+
+  @@index([sectionId])
+  @@map("question_groups")
+}
+
+model Question {
+  id                  String             @id @default(uuid()) @db.Uuid
+  sectionId           String             @db.Uuid
+  section             ExamSection        @relation(fields: [sectionId], references: [id], onDelete: Cascade)
+  groupId             String?            @db.Uuid
+  group               QuestionGroup?     @relation(fields: [groupId], references: [id], onDelete: SetNull)
+  kind                QuestionKind
+  prompt              String
+  imageId             String?            @db.Uuid
+  image               MediaAsset?        @relation("QuestionImage", fields: [imageId], references: [id])
+  sortOrder           Int
+  points              Int
+  explanation         String?
+  sampleAnswer        String?
+  sampleAnswerImageId String?            @db.Uuid
+  sampleAnswerImage   MediaAsset?        @relation("QuestionSampleAnswerImage", fields: [sampleAnswerImageId], references: [id])
+  choices             Choice[]
+  answers             AttemptAnswer[]
+  wordSources         VocabularySource[]
+
+  @@unique([sectionId, sortOrder])
+  @@map("questions")
+}
+
+model Choice {
+  id         String          @id @default(uuid()) @db.Uuid
+  questionId String          @db.Uuid
+  question   Question        @relation(fields: [questionId], references: [id], onDelete: Cascade)
+  text       String?
+  imageId    String?         @db.Uuid
+  image      MediaAsset?     @relation("ChoiceImage", fields: [imageId], references: [id])
+  sortOrder  Int
+  correct    Boolean
+  answers    AttemptAnswer[]
+
+  @@unique([questionId, sortOrder])
+  @@map("choices")
+}
+
+model MediaAsset {
+  id                  String          @id @default(uuid()) @db.Uuid
+  ownerId             String          @db.Uuid
+  owner               Member          @relation("MediaOwner", fields: [ownerId], references: [id])
+  key                 String          @unique
+  contentType         String
+  sizeBytes           Int
+  durationMs          Int?
+  uploadedAt          DateTime?
+  createdAt           DateTime        @default(now())
+  avatars             Member[]        @relation("MemberAvatar")
+  examCovers          ExamVersion[]   @relation("ExamCover")
+  groupImages         QuestionGroup[] @relation("GroupImage")
+  groupAudio          QuestionGroup[] @relation("GroupAudio")
+  questionImages      Question[]      @relation("QuestionImage")
+  writingSampleImages Question[]      @relation("QuestionSampleAnswerImage")
+  choiceImages        Choice[]        @relation("ChoiceImage")
+
+  @@index([ownerId, createdAt])
+  @@map("media_assets")
+}
+
+model Attempt {
+  id                String                 @id @default(uuid()) @db.Uuid
+  memberId          String                 @db.Uuid
+  member            Member                 @relation(fields: [memberId], references: [id], onDelete: Cascade)
+  examId            String                 @db.Uuid
+  exam              Exam                   @relation(fields: [examId], references: [id])
+  versionId         String                 @db.Uuid
+  version           ExamVersion            @relation(fields: [versionId], references: [id])
+  variantId         String                 @db.Uuid
+  variant           ExamVariant            @relation(fields: [variantId], references: [id])
+  mode              String
+  status            AttemptStatus          @default(IN_PROGRESS)
+  durationMs        Int
+  deadlineAt        DateTime?
+  remainingMs       Int
+  currentQuestionId String?                @db.Uuid
+  reason            SubmissionReason?
+  completedAt       DateTime?
+  createdAt         DateTime               @default(now())
+  answers           AttemptAnswer[]
+  audioStates       AttemptAudioState[]
+  sectionResults    AttemptSectionResult[]
+  wordSources       VocabularySource[]
+
+  @@index([memberId, examId, mode, createdAt])
+  @@index([memberId, status, completedAt])
+  @@index([status, deadlineAt])
+  @@map("attempts")
+}
+
+model AttemptAnswer {
+  attemptId  String   @db.Uuid
+  attempt    Attempt  @relation(fields: [attemptId], references: [id], onDelete: Cascade)
+  questionId String   @db.Uuid
+  question   Question @relation(fields: [questionId], references: [id])
+  choiceId   String?  @db.Uuid
+  choice     Choice?  @relation(fields: [choiceId], references: [id])
+  text       String?
+  updatedAt  DateTime @updatedAt
+
+  @@id([attemptId, questionId])
+  @@map("attempt_answers")
+}
+
+model AttemptAudioState {
+  attemptId  String        @db.Uuid
+  attempt    Attempt       @relation(fields: [attemptId], references: [id], onDelete: Cascade)
+  groupId    String        @db.Uuid
+  group      QuestionGroup @relation(fields: [groupId], references: [id])
+  plays      Int           @default(0)
+  positionMs Int           @default(0)
+  playbackId String?       @db.Uuid
+  playing    Boolean       @default(false)
+
+  @@id([attemptId, groupId])
+  @@map("attempt_audio_state")
+}
+
+model AttemptSectionResult {
+  attemptId  String      @db.Uuid
+  attempt    Attempt     @relation(fields: [attemptId], references: [id], onDelete: Cascade)
+  section    SectionKind
+  correct    Int
+  wrong      Int
+  unanswered Int
+  ungraded   Int
+  score      Int
+  maxScore   Int
+  points     Int
+
+  @@id([attemptId, section])
+  @@map("attempt_section_results")
+}
+
+model PointEvent {
+  memberId  String   @db.Uuid
+  member    Member   @relation(fields: [memberId], references: [id], onDelete: Cascade)
+  examId    String   @db.Uuid
+  exam      Exam     @relation(fields: [examId], references: [id])
+  scope     String
+  amount    Int
+  createdAt DateTime @default(now())
+
+  @@id([memberId, examId, scope])
+  @@map("point_events")
+}
+
+model VocabularyEntry {
+  id           String             @id @default(uuid()) @db.Uuid
+  memberId     String             @db.Uuid
+  member       Member             @relation(fields: [memberId], references: [id], onDelete: Cascade)
+  languageCode String
+  language     ExamLanguage       @relation(fields: [languageCode], references: [code])
+  term         String
+  termKey      String
+  translation  String?
+  note         String?
+  createdAt    DateTime           @default(now())
+  updatedAt    DateTime           @updatedAt
+  sources      VocabularySource[]
+
+  @@unique([memberId, languageCode, termKey])
+  @@index([memberId, createdAt])
+  @@map("vocabulary_entries")
+}
+
+model VocabularySource {
+  entryId    String          @db.Uuid
+  entry      VocabularyEntry @relation(fields: [entryId], references: [id], onDelete: Cascade)
+  questionId String          @db.Uuid
+  question   Question        @relation(fields: [questionId], references: [id])
+  examId     String          @db.Uuid
+  exam       Exam            @relation(fields: [examId], references: [id])
+  attemptId  String          @db.Uuid
+  attempt    Attempt         @relation(fields: [attemptId], references: [id], onDelete: Cascade)
+  createdAt  DateTime        @default(now())
+
+  @@id([entryId, questionId])
+  @@map("vocabulary_sources")
+}
